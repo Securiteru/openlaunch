@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Product briefs can contain unreleased details — uncomment to keep them local:
+# products/*/brief.md
+# products/*/assets/

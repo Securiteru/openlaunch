@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OpenLaunch Tracker</title>
+<style>
+  :root {
+    --bg: #0b0f14; --panel: #131a22; --line: #243040;
+    --text: #e8eef4; --dim: #8fa0b3; --accent: #ff8a3d;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font: 15px/1.55 -apple-system, "Segoe UI", Inter, sans-serif;
+  }
+  main { max-width: 1100px; margin: 0 auto; padding: 32px 20px 64px; }
+  h1 { font-size: 22px; margin: 0 0 4px; }
+  .sub { color: var(--dim); margin: 0 0 24px; }
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; }
+  .chip {
+    padding: 4px 12px; border: 1px solid var(--line); border-radius: 999px;
+    background: var(--panel); font-size: 13px; color: var(--dim);
+  }
+  .chip b { color: var(--text); font-weight: 600; }
+  .filters { display: flex; gap: 12px; margin-bottom: 16px; flex-wrap: wrap; }
+  select, input {
+    background: var(--panel); color: var(--text); border: 1px solid var(--line);
+    border-radius: 8px; padding: 8px 10px; font: inherit;
+  }
+  table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--line); }
+  th { color: var(--dim); font-weight: 500; font-size: 12px; text-transform: uppercase; letter-spacing: .05em; }
+  tr:hover td { background: rgba(255,255,255,.02); }
+  a { color: var(--accent); text-decoration: none; }
+  .status {
+    display: inline-block; padding: 2px 10px; border-radius: 999px;
+    font-size: 12px; font-weight: 600; border: 1px solid var(--line);
+  }
+  .s-live { color: #4ade80; border-color: #4ade8044; }
+  .s-submitted, .s-pending-review { color: #facc15; border-color: #facc1544; }
+  .s-researched, .s-ready { color: #60a5fa; border-color: #60a5fa44; }
+  .s-rejected, .s-paid-blocked { color: #f87171; border-color: #f8717144; }
+  .s-skipped { color: var(--dim); }
+  .empty {
+    padding: 48px; text-align: center; color: var(--dim);
+    border: 1px dashed var(--line); border-radius: 12px;
+  }
+  .err {
+    padding: 24px; border: 1px solid #f87171; border-radius: 12px; color: #f87171;
+    background: #f8717110;
+  }
+  code { background: var(--panel); padding: 2px 6px; border-radius: 6px; }
+  .next { color: var(--dim); font-size: 13px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>OpenLaunch Tracker</h1>
+  <p class="sub">Local record of what your agent submitted, where, and what is actually live.</p>
+  <div class="chips" id="chips"></div>
+  <div class="filters">
+    <select id="fProduct"><option value="">All products</option></select>
+    <select id="fStatus"><option value="">All statuses</option></select>
+    <input id="fSearch" type="search" placeholder="Filter platforms…">
+  </div>
+  <div id="content"></div>
+</main>
+<script>
+const STATUSES = ["researched","ready","submitted","pending-review","live","rejected","skipped","paid-blocked"];
+
+async function load() {
+  const res = await fetch("data.json", { cache: "no-store" });
+  if (!res.ok) throw new Error(`data.json: HTTP ${res.status}`);
+  return res.json();
+}
+
+function esc(s) {
+  return String(s ?? "").replace(/[&<>"]/g, c =>
+    ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+}
+
+function render(data) {
+  const products = data.products || [];
+  const listings = data.listings || [];
+
+  const fProduct = document.getElementById("fProduct");
+  const fStatus = document.getElementById("fStatus");
+  for (const p of products) {
+    fProduct.insertAdjacentHTML("beforeend",
+      `<option value="${esc(p.slug)}">${esc(p.name || p.slug)}</option>`);
+  }
+  for (const s of STATUSES) {
+    fStatus.insertAdjacentHTML("beforeend", `<option>${s}</option>`);
+  }
+
+  function counts(list) {
+    const c = {};
+    for (const l of list) c[l.status] = (c[l.status] || 0) + 1;
+    return c;
+  }
+
+  function paint() {
+    const fp = fProduct.value, fs = fStatus.value,
+          q = document.getElementById("fSearch").value.toLowerCase();
+    const rows = listings.filter(l =>
+      (!fp || l.product === fp) &&
+      (!fs || l.status === fs) &&
+      (!q || l.platform.toLowerCase().includes(q)));
+
+    const c = counts(listings);
+    document.getElementById("chips").innerHTML =
+      `<div class="chip"><b>${listings.length}</b> tracked</div>` +
+      STATUSES.filter(s => c[s]).map(s =>
+        `<div class="chip"><b>${c[s]}</b> ${s}</div>`).join("");
+
+    const content = document.getElementById("content");
+    if (!rows.length) {
+      content.innerHTML = `<div class="empty">
+        No listings yet. Your agent records each platform here as it works —
+        see <code>prompts/submit-batch.md</code>.</div>`;
+      return;
+    }
+    content.innerHTML = `<table>
+      <thead><tr>
+        <th>Platform</th><th>Product</th><th>Status</th>
+        <th>Listing</th><th>Updated</th><th>Next action</th>
+      </tr></thead>
+      <tbody>${rows.map(l => `<tr>
+        <td><b>${esc(l.platform)}</b></td>
+        <td>${esc(l.product)}</td>
+        <td><span class="status s-${esc(l.status)}">${esc(l.status)}</span></td>
+        <td>${l.listing_url ? `<a href="${esc(l.listing_url)}" target="_blank" rel="noopener">view</a>` : "—"}</td>
+        <td>${esc(l.updated_at || "")}</td>
+        <td class="next">${esc(l.next_action || "")}</td>
+      </tr>`).join("")}</tbody></table>`;
+  }
+
+  for (const el of [fProduct, fStatus, document.getElementById("fSearch")])
+    el.addEventListener("input", paint);
+  paint();
+}
+
+load().then(render).catch(err => {
+  document.getElementById("content").innerHTML = `<div class="err">
+    <b>Could not load tracker data.</b><br><br>
+    ${esc(err.message)}<br><br>
+    Browsers block <code>fetch()</code> over <code>file://</code>. Serve this
+    directory instead:<br><br>
+    <code>make serve</code> &nbsp;→&nbsp; http://localhost:8420
+  </div>`;
+});
+</script>
+</body>
+</html>
