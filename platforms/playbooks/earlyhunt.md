@@ -37,3 +37,16 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Weekly launch cohorts (This week / Past week / Past month / Premium tabs); upvotes + comments per product.
+- **Health Tech category exists** — app fits (health products listed this week).
+- "Bids" nav item (paid promotion), Premium Launches page, Advertising — free + paid tiers; Sign in + Launch/Submit.
+- Rich docs: Launch Guide, Launch Calendar, FAQ, Help Center, "100+ Launch Places" list.
+- Same operator/template as IndieHunt — identical structure and cross-listed alternatives.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` → **`/auth/signin?callbackUrl=…`** — account required.
+- Auth: **email magic-link ("Send Link") + Google + GitHub OAuth**; no password, no CAPTCHA observed. Identical auth template to IndieHunt (same operator).

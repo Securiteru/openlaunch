@@ -79,3 +79,8 @@ Submission entry: https://startupbase.io/
 - Login required before launch ("Launch now" → auth).
 - Categories are broad (Finance, Productivity, Cloud Infrastructure…) — app fits under health/productivity.
 - Has llms.txt/ai.txt/RSS — listings are crawlable; good long-tail SEO value.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/login`: **email + OTP verification code** ("Sign in with Email" → "Verify and Continue") + **Google, LinkedIn, X OAuth**. Submit entry = `/launch` ("Get started").
+- Human gate: email OTP or OAuth consent.

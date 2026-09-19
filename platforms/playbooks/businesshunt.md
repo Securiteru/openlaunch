@@ -40,3 +40,7 @@ UNVERIFIED
 ## Notes
 domain responds; exact platform unconfirmed
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- **DEAD** — businesshunt.com parked for sale on GoDaddy. Mark `skipped`; flag registry entry.

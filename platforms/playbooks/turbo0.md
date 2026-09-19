@@ -37,3 +37,7 @@ loads with the product visible.
 ## Badge
 Platform serves a hosted badge image. Record the embed URL here after the listing is live.
 
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` → `/auth/login?callbackUrl=/submit` — Email + Password + Google/GitHub OAuth (NextAuth template). AI-only.

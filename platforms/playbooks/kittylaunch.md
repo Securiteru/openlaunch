@@ -37,3 +37,15 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- **"Get Started Free" confirmed free tier**; Log In/Sign Up; Pricing page for paid boosts.
+- Weekly archive (top 3 hall of fame), Deals section (makers can offer promo codes — app could offer a Pro discount), Top Creators leaderboard.
+- FAQ covers cost, launch timing, do-follow backlink — read FAQ at submit time.
+- Categories: SaaS, AI/ML, Productivity, Education, Developer Tools, E-commerce — no Health; file under Productivity/SaaS.
+
+### Signup — observed 2026-09-19 (BrowserOS, field-level)
+
+- "Sign Up" / "Get Started Free" are JS buttons; click produced no navigation/dialog in snapshot — auth flow not yet captured (likely modal or SPA route). Re-probe needed.
+- Site is productized: per-product Roadmap/Changelog/Feature-Request pages.

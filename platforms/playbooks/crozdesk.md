@@ -40,3 +40,7 @@ UNVERIFIED
 ## Notes
 dofollow; freemium (backlinkbot)
 
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- Homepage rendered **blank** (JS-walled or blocked) — no form reachable. Deprioritize.

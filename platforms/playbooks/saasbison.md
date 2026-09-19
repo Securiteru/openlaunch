@@ -37,3 +37,13 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Software + alternatives directory; ~30 categories (no dedicated Health — Others catch-all; Mobile App tag on listings).
+- "Submit your product" + Promote; listings carry Free/Paid/Freemium + B2B/B2C tags; no explicit login in nav.
+
+### Submit page — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` is a **pricing/FAQ page, not a form**: "Start free" + "Get Premium" + "Get 60+ submissions" (paid done-for-you). Free tier exists; actual form behind tier pick.
+- FAQ confirms backlink question ("Do I need to provide a backlink?").

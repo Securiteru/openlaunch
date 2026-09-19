@@ -68,3 +68,7 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://www.toolpilot.ai/
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/pages/submit-your-ai-tool` is a **Shopify contact-form flow** (hidden `contact[tags]` + email). AI-only, weak fit.

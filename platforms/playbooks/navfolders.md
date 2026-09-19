@@ -37,3 +37,12 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Curated collections directory ("navigate the internet"); category buttons + tag filters; per-listing platform badges (Web/Apple/iOS/Mac — app tags iOS/Apple).
+- Submit + Sign In + Pricing; homepage cross-links SuperLaunch (same ecosystem).
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` → **`/auth/login?callbackUrl=/submit`** — **Google + GitHub OAuth only** (no email/pass fields).

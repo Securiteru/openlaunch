@@ -40,3 +40,7 @@ UNVERIFIED
 ## Notes
 domain responds; exact platform unconfirmed
 
+
+### Site status — observed 2026-09-19 (BrowserOS)
+
+- **DEAD** — `aipulse.net` resolves to GoDaddy parked/for-sale page. Flag for removal.

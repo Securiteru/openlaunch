@@ -79,3 +79,9 @@ Submission entry: https://www.comingup.io/
 - Categories include **Health & Fitness** (a health app was listed today) — app fits.
 - Products show logo + name + tagline + category + tags + upvote count; "Visit website" outbound links.
 - `/submit` returned only an ad iframe in snapshot — the real form may load lazily or require login first. Verify by clicking nav "Submit" while signed in.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` → redirects to **`/auth/login`** — account required.
+- Login: **Email + Password + Sign In** + **"Continue with SideProjectors" OAuth** (shared auth with sideprojectors.com — same operator).
+- Sign Up link also points at `/auth/login` (combined auth page).

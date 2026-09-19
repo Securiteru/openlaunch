@@ -37,3 +37,12 @@ loads with the product visible.
 ## Badge
 UNVERIFIED
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Daily launch board + weekly/monthly tops; **Free / Premium / Pro tiers** ("Compare" link; Pro = 14-day homepage visibility); Sign in/up + "Launch your product".
+- Categories incl. Lifestyle Apps & Tools, Productivity, SaaS — app files under Lifestyle/Productivity.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/projects/submit` → **`/sign-in?redirect=/projects/submit`** — **Open-Launch-family template** (email+pass, Turnstile, Google/GitHub). Family now confirmed: open-launch, submitmysaas, aura++, aat.ee, openhunts, firsto, startupfast, nextlaunch.

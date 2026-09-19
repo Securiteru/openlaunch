@@ -37,3 +37,13 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Directory + weekly Top-3 + "Prime Selections" featured row; also runs a **Link Exchange marketplace** and badge generator.
+- Sign In in nav; "Launch Your Startup" CTA; Pricing page exists.
+- Fun fact: LaunchRepo itself is listed here. Footer badge wall duplicates (Findly, Turbo0, Fazier, TinyLaunch, DeepLaunch…) — these sites cross-list each other heavily.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` → **`/auth`** — Email + Password + **Google, Twitter/X, LinkedIn OAuth**. Different stack than the Open-Launch family.

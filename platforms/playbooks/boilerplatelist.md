@@ -40,3 +40,7 @@ UNVERIFIED
 ## Notes
 boilerplate catalog
 
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit/` = public form: company, name*, email*, boilerplate name*, link*, description, privacy checkbox + Cloudflare Turnstile. Dev-boilerplate niche — wrong fit.

@@ -40,3 +40,11 @@ UNVERIFIED
 ## Notes
 paid (favors.dev atlas)
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Landing-page design gallery; cookie dialog gated the snapshot. Known model: curated paid submission. **app fit:** submit example.com landing if design-worthy; expect fee.
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit-template` = template-selling flow (paid featured placement FAQ). Landing-page design gallery — wrong fit for an app.

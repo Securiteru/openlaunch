@@ -37,3 +37,14 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- **Same template family as LaunchClash/ShinyLaunch** — identical "140+ directories" banner, categories (incl. Mobile Apps), featured-products layout. Track separately anyway.
+- Permanent catalog (Featured + Explore All Products), not a timed leaderboard; Login/Sign Up + Submit in nav.
+- LaunchRepo itself is listed here — these directories all list each other.
+
+### Signup — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/signup` and `/get-started` both render a search field + **"Sign up/Log in with Google"** — Google OAuth only, no email/password.
+- Note: homepage "We Submit Your SaaS to 140+ Directories" link is an external ad (submitsaas.com) — not the platform's own submit path.

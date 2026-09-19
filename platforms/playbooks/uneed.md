@@ -72,3 +72,10 @@ Submission entry: https://www.uneed.best/submit-a-tool
 - Free tier exists alongside paid boosts; pricing at `uneed.best/pricing`.
 - Site advertises DR 75 backlink.
 - Earlier observation still stands: free accounts hold one pending launch — check existing products before submitting.
+
+### Submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `https://www.uneed.best/submit-a-tool` — **form visible without login** (200, no redirect).
+- Step-1 fields: **product name** (text, required) + **product URL** (text, required) + **"Preview my product"** button — scrapes the URL before account creation, matching earlier field guide. No CAPTCHA on step 1.
+- Signup path: "Register" → `/signup`; submit entry "Submit a product" / "Add your product" → `/submit-a-tool`.
+- Homepage also exposes Launchpad, Launch Guide, free tools (product-launch checklist).

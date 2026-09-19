@@ -40,3 +40,14 @@ UNVERIFIED
 ## Notes
 indie product launches
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Community network for indie makers — username claim, weekly launches, buildlog, peer feedback, karma.
+- **Health and Mobile App categories exist** — app fits both.
+- Sign in/Join to launch; community-participation model (supervise public posts).
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` → **`/login`** — account required.
+- Login: **Email + Password + invisible Cloudflare Turnstile** + **Continue with Google**; separate `/signup` ("Join Builtbyindies").

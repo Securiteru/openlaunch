@@ -78,3 +78,7 @@ Submission entry: https://news.ycombinator.com/
 - Show HN rules apply: product must be something people can try — app qualifies via the live App Store link once launched.
 - Hard norms: no launch-day asking-for-upvotes (bannable), founder posts from personal account, title format "Show HN: [Product] – one-line pitch". One Show HN per product; reposts allowed only after substantial changes + time.
 - Text post or link post — link post to the product site or store page; expect mods to ask questions if it trips filters.
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` → bare **acct + password** dual login/create form (no OAuth, no CAPTCHA). Show HN rules apply.

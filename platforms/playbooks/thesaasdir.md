@@ -37,3 +37,13 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- **Explicit free tier: "Submit Free"** + paid options (Featured $19, Multiple Listings $29) shown on homepage.
+- **Health + Mobile categories** — app fits; Submit Product in nav; no login wall visible on landing.
+
+### Submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- **`/submit/` is a full PUBLIC form — no account needed.** Django (csrfmiddlewaretoken). Fields: `website_url`*, `name`*, `tagline`*, `description`* (features + audience), `screenshot` file, category checkboxes. Buttons: **"Auto-fill"** (URL scrape), "Verify Badge", "Submit Product".
+- Tier params: `?tier=free` (Submit Free) / `?tier=paid` (Featured $19) / `?tier=dual` ($29). "Verify Badge" button suggests backlink-badge verification for free tier.

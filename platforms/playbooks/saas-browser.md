@@ -71,3 +71,12 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://saasbrowser.com/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Massive directory — "516,904+ SaaS products"; verified-profile model; Login + "Sign Up (Free)" + "Add Your Software as a Service".
+- SaaS/software-only positioning; pricing page exists; likely long-form profile submission.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/en/add-your-saas` → **`/en/users/sign_up`** — Rails form: first name, last name, email, password + **Google + GitHub OAuth** + CAPTCHA + cookie consent ("Accept all"/"Reject non-essential").

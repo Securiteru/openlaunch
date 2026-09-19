@@ -37,3 +37,13 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Directory + "Editor's Choice" featured launches; Submit Startup + Sign In; Pricing page + free tools.
+- Solo-run site (made by @naveeddakram); low-volume directory — quick submission, modest reach.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` → **`/auth?mode=signup`** — account required; signup form itself is visible.
+- Fields: **Name, Email, Password (min 6)** + **Google + X/Twitter OAuth**; "Create Account" button. No CAPTCHA.

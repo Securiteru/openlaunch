@@ -37,3 +37,15 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Weekly launch board (Week 38 observed) + verified badges + "high-authority backlink" pitch; Submit Product + Sign in/up; Pricing + Sponsors.
+- Categories incl. Mobile Development + SaaS — app fits.
+
+### Signup/submit form — observed 2026-09-19
+
+- `GET /projects/submit` → **redirects to `/sign-in?redirect=/projects/submit`** — account required before the submit form is reachable.
+- `/sign-up` fields: **Full Name, Email, Password** + OAuth buttons **Google, GitHub** + **Cloudflare Turnstile challenge**; "Create account" button disabled until form valid. ToS + Privacy links below form.
+- `/sign-in` fields: Email + Password + same OAuth + Turnstile; "Forgot your password?" link.
+- Human gates: Turnstile challenge + likely email verification — account creation is a user step.

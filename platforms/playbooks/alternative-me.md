@@ -37,3 +37,12 @@ loads with the product visible.
 ## Badge
 UNVERIFIED
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- AlternativeTo-style site; Sign Up / Log In; Mobile Apps + Web Apps + Desktop sections — app listable as app + as alternative to rival trackers.
+- No submit link in nav — submission likely behind account or contact.
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/how-to/submit-software/` = instructions page — real flow = `/signup/` account then "Suggest Alternatives". General software directory.

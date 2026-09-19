@@ -71,3 +71,7 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://www.startupblink.com/
+
+### Auth — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/login` + "Book a Demo" corporate funnel. Ecosystem-report platform — not a self-serve listing.

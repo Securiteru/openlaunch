@@ -37,3 +37,7 @@ loads with the product visible.
 ## Badge
 Platform links are plain text — no badge asset observed.
 
+
+### Submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- **`/submit` is a full PUBLIC form, no account**: name*, url*, logo URL*, shortDesc*, longDesc*, email*, category select + **"Get listed for free" vs "Get listed for $25"** buttons. AI-only though — app doesn't fit.

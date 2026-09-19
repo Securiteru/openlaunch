@@ -37,3 +37,7 @@ loads with the product visible.
 ## Badge
 UNVERIFIED
 
+
+### Vendor form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/vendors`: public lead form (name*, email*, company) → "Request a Demo" — lead-gen, not self-serve listing. Weak fit.

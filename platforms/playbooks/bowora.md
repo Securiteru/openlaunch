@@ -40,3 +40,13 @@ UNVERIFIED
 ## Notes
 formerly Best of Web (bestofweb.site)
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Best of Web — founder network: 3,585 founders / 1,715 startups; weekly board, fundraising, "open to offers", perks.
+- **Has "MCP Servers" + "Agent Skills" nav items** — explicitly agent-oriented platform.
+- "List your startup" + Login/Register (guest browsing works); posting/updates are member-only public actions — supervise.
+
+### Auth — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/login` + `/register`; directory listings show "Your startup here — 17 of 20 spots left" (limited spots). Founder network.

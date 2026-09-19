@@ -71,3 +71,7 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://www.reddit.com/r/SaaS/
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/r/SaaS/submit` → Reddit login (reCAPTCHA + SSO). Same constraints as r/SideProject — check self-promo rules before posting.

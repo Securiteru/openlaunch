@@ -71,3 +71,7 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://www.softwaresuggest.com/
+
+### Vendor form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/vendors`: **PUBLIC "Get Listed" form** — name*, business email*, organization*, phone*, product URL*, head-office select*, employee count*, customer count* + Submit. Separate vendor portal login at `vendorsportal/...site/login`. B2B-software oriented.

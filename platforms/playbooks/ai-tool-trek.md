@@ -37,3 +37,7 @@ loads with the product visible.
 ## Badge
 Platform links are plain text — no badge asset observed.
 
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` = **minimal public form**: website name + URL only (+ optional login). AI-only.

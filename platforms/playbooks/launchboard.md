@@ -76,3 +76,7 @@ Submission entry: https://www.launchboard.dev/
 - Sign In button in header + "Launch Your Product" — account required.
 - Monetized surfaces everywhere: sponsored slots ($49/mo shown), lifetime-deals section, "100+ AI directories" listing service, backlink hub. Organic free launch exists alongside.
 - Pitch: "climb weekly rankings & earn high-DR backlinks".
+
+### Signup/submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- "Submit" button → **`/pricing`** — launch flow starts at plan selection: "Launch for free" + "Single Launch $19" + "Launch Pack $39". Free lane exists; account (Sign In) required beyond.

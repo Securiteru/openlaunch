@@ -68,3 +68,7 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://findly.tools/
+
+### Signup/submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/sign-in`: Email + Password + hidden cf-turnstile + **GitHub + Google OAuth**; `/sign-up` exists.

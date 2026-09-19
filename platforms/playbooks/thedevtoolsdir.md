@@ -68,3 +68,12 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://thedevtoolsdir.com/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Dev-tools-only categories (CI/CD, Observability, Auth…); same template as TheSaaSDir — Submit Free / Featured $19 / Multiple $29.
+- LaunchRepo itself is listed here. **Poor app fit** — not a dev tool.
+
+### Submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit/` is **byte-identical to TheSaaSDir's form** (same operator): Django, website_url*, name*, tagline*, description*, screenshot, category checkboxes, "Auto-fill"/"Verify Badge"/"Submit Product", tiers `?tier=free|paid($19)|dual($29)`. Dev-tools focus — app marginal.

@@ -68,3 +68,7 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://submitaitools.org/
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- Homepage shows only search + Login (Django csrf). Submit entry not obvious — likely behind Login. AI-only.

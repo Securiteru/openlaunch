@@ -71,3 +71,14 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://peerlist.io/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Professional network for builders; free profile ("Claim your username") + **Launchpad** product-launch feature + Scroll feed + Jobs.
+- **app fit: Launchpad launch** — account required; solid free launch surface.
+
+### Signup form — observed 2026-09-19
+
+- `/signup` = "Sign up & create your profile": **Continue with Google** OAuth OR **Email + Password** (view-password toggle) + "Create Profile" button; Code of Conduct / ToS / Privacy links.
+- Homepage hero has a **"Claim your username!"** textbox (required) + Submit — username claim is the entry funnel.
+- `/launchpad` is a **weekly cohort board** (Week 1–52 navigation observed) with a "Launch" button — actual launch form is behind the account.

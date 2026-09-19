@@ -71,3 +71,7 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://www.toolify.ai/
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` = **paid $99** — tool-URL field + "Pay $ 99" button. AI-only + paid — `paid-blocked` under zero-spend.

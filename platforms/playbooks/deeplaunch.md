@@ -45,3 +45,8 @@ Platform provides an embeddable badge. Record the snippet in this file after the
 - Each listing displays its Ahrefs DR badge publicly — deep SEO/catalog orientation; featured slots are paid.
 - Product pages follow `deeplaunch.io` catalog patterns — verify exact URL pattern post-submit.
 - app fit: Health category exists; the catalog skews AI/SaaS but accepts consumer products.
+
+### Submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- **`/submit` is a full pre-auth multi-step form** — richest found so far. Step 1 fields: `url`, `name`, `tagline`, `description` (500–3000 chars), 2 file uploads (logo/screenshots), category select (up to 3), pricing model select, platforms select, `discountCode`, `youtubeUrl`, `founderTwitter`, `affiliateUrl`, email. "Next" paginates; "Sign In" links exist (account probably needed at final step).
+- Discount code field implies paid tiers exist on the free path.

@@ -37,3 +37,14 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- "Discover AI tools built by indie founders" — AI-positioned but lists non-AI products too (LaunchRepo, Product Launch Checklist present).
+- SUBMIT button + Sign in; Pricing page; listings show ratings/views/bookmarks.
+- app fit: **borderline** — not an AI product; acceptable only if they accept general products (evidence suggests yes). Low-priority.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- Auth entry: `/auth/signin` (EarlyHunt/IndieHunt-family template — "Submit Project" + `/project/` URL patterns match).
+- Note: even launchrepo itself is listed on this platform (`/project/launchrepo`).

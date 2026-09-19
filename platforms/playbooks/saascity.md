@@ -37,3 +37,12 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Gamified 3D-city directory ("Explore the city"); weekly new launches + per-category leaderboards; DR 64; claims 376k visitors/30d.
+- Submit + Sign In; sponsored city slots $29.99/30d; Write for Us (guest posts).
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- "Submit" → `/saascity?submit=1` renders **inline auth gate**: Email + Password + hidden cf-turnstile + "Sign up with Google" + "Create account" + "I'm just exploring" + "Launch a project (Dofollow link + spot on…)".

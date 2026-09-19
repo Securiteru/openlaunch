@@ -37,3 +37,7 @@ loads with the product visible.
 ## Badge
 UNVERIFIED
 
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` = **public multi-step form**: URL*, name*, one-liner*, description*, category selects, country, file uploads (logo+screenshot), contact name*, email* + companyFax honeypot + "Continue →". Free.

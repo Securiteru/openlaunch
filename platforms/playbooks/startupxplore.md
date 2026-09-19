@@ -40,3 +40,7 @@ UNVERIFIED
 ## Notes
 investor-facing startup DB
 
+
+### Register — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/en/register` = **public register**: fullname*, email*, social*, checkbox + reCAPTCHA + Investor/Startup role choice → "Create your account".

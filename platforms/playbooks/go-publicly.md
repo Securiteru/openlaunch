@@ -37,3 +37,11 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Homepage rendered nearly empty (single code element) — JS-heavy SPA or broken; could not assess submit flow. Recheck interactively; may be dead.
+
+### Signup — observed 2026-09-19 (BrowserOS, field-level)
+
+- Homepage rendered **no links or buttons** in accessibility tree — JS-walled or empty shell; submit path not observable. Mark for interactive re-probe or deprioritize.

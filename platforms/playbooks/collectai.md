@@ -68,3 +68,7 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://collectai.tools/
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- Submit → `/auth/login?callbackUrl=/submit` — **Google + GitHub OAuth only** (NextAuth template). AI-only.

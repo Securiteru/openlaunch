@@ -71,3 +71,12 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://devhunt.org/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Dev-tools-only launch board ("Voted by Developers"); Submit your Dev Tool + Sign In; daily upvote feed.
+- **Poor app fit** — consumer health app, not a dev tool. Mark skipped for app.
+
+### Signup/submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- "Submit your Dev Tool" → **`/login`**: **GitHub + Google OAuth only**. Dev-tools-only directory — app doesn't fit.

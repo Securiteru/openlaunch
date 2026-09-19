@@ -75,3 +75,9 @@ Submission entry: https://launchigniter.com/
 - "Submit Your Product" button on homepage; upvotes per product.
 - Categories include **Health Fitness, Health, Medical** — and the category we need is precedented.
 - Pricing/account details not yet observed — check submit flow for auth and cost.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` renders an empty shell when logged out (nav+footer only) — submit is client-side gated behind auth.
+- `/login`: **email field + "Continue with Email"** (magic-link) + **Google + GitHub OAuth** buttons.
+- Also runs a paid "Directory Submission Service" + link exchange — distinguish organic submit vs paid service.

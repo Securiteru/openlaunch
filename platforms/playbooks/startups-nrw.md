@@ -40,3 +40,7 @@ UNVERIFIED
 ## Notes
 NRW regional ecosystem
 
+
+### Auth — observed 2026-09-19 (BrowserOS, field-level)
+
+- Registration external → `global-connect.nrw/register` ("Sign up for free"). NRW regional startup network.

@@ -77,3 +77,7 @@ Submission entry: https://www.reddit.com/r/SideProject/
 - Create Post + Join gated behind account; signup options observed: Apple, phone, email.
 - Pinned megathread "Share your ***Not-AI*** projects" — app is non-AI; the megathread is the correct surface (separate posts for AI projects are being corralled).
 - New/low-karma accounts get filtered — post from an established personal account, frame as maker story (bootstrapped, the hackathon entry), include App Store link + genuine ask for feedback. Self-promo tolerance is higher here than r/SaaS but still needs story framing.
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/r/SideProject/submit/` → **`/login/?dest=…`** — Reddit login: SSO options + **reCAPTCHA**. Human gates: CAPTCHA + account + subreddit rules (use the Not-AI megathread for app).

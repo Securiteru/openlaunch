@@ -37,3 +37,8 @@ loads with the product visible.
 ## Badge
 Platform serves a hosted badge image. Record the embed URL here after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- **Site is broken** — homepage returns "Oops! Something went wrong!" error page.
+- Mark `skipped` until it recovers; recheck before attempting submission.

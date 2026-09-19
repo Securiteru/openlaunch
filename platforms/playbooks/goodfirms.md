@@ -71,3 +71,7 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://www.goodfirms.co/
+
+### Get Listed form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/get-listed`: **PUBLIC form** — work email, organization type radios, full name*, email*, company field, message* + hidden Turnstile. Agency/services-oriented — weak fit for a consumer app.

@@ -37,3 +37,13 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Daily launch leaderboard (Today / Yesterday / Month's Best) with upvotes; categories incl. SaaS, Artificial Intelligence, Finance & FinTech.
+- Submit Project + Sign in/Sign up; Pricing page + sponsor slots exist — free tier probable, verify.
+- Also runs "Alternative To" pages and a Traffic Checker tool — SEO-oriented directory.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/projects/submit` → `/sign-in?redirect=/projects/submit` — **Open-Launch-family template** (email+pass, Turnstile, Google/GitHub).

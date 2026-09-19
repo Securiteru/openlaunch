@@ -37,3 +37,7 @@ loads with the product visible.
 ## Badge
 UNVERIFIED
 
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/add-your-product/` = **public form**: full_name, email, product-name, phone, job-title, message + CAPTCHA code. B2B software directory.

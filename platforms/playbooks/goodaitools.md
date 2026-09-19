@@ -68,3 +68,7 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://goodaitools.com/
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- No submit anchors on homepage (search-only render); "We Submit Your SaaS" link is an external ad — real submit path not yet found. AI-only.

@@ -68,3 +68,7 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://tekpon.com/
+
+### Get Listed — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/get-listed/` embeds auth inline: **business email + password + T&C checkbox** + **LinkedIn OAuth** + category radio selects. B2B software review platform.

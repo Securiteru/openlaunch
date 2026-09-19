@@ -77,3 +77,7 @@ Submission entry: https://betalist.com/
 - `/submit` redirects to `/sign_in` — account required before any form.
 - Auth options observed: **Sign in with X (Twitter OAuth)**, email+password, or magic link; separate "Sign up" link.
 - Prior field-guide observation confirmed by behavior: no free submission tier on the public path — treat as `paid-blocked` under zero-spend unless the user approves.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` → **`/sign_in`** — Email + Password + "Sign in with magic link?" + OAuth ("Sign in with" — X). Rails app. Paid-only submission stands.

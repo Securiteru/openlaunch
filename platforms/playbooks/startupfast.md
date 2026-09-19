@@ -37,3 +37,14 @@ loads with the product visible.
 ## Badge
 Platform links are plain text — no badge asset observed.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- **"Powered by Open-Launch"** (same white-label engine as NextLaunch — expect same submit flow/fields).
+- Daily/Weekly/Monthly leaderboards + Yesterday's Champion; Submit Product + Sign in/up; Premium promotion + sponsors; founders' Discord community.
+- Startup/leaderboard model: makers get ranked profiles too.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` reachable but logged-out render shows only FAQ accordion (no fields) — submit gated behind `/sign-in` or `/sign-up`.
+- Part of Open-Launch family ("Powered by Open Launch"); auth likely identical email/pass + Google/GitHub + Turnstile.

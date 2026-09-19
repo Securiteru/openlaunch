@@ -78,3 +78,7 @@ Submission entry: https://alternativeto.net/
 - App entries support icon, screenshots, license/tags, alternative links — prep icon-512 + screenshots from brief assets.
 - Paid surface: "Official partner" sponsored slots — organic listing is free.
 - Strategy note: app should be added both as its own app entry AND as an alternative on competitors' pages (e.g. other similar apps).
+
+### Signup/submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/login/`: **Email + Password + Google + GitHub + Apple + LinkedIn OAuth**. Product suggestions go through the logged-in "suggest alternative" flow on each product page.

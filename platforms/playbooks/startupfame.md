@@ -37,3 +37,11 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- JS-rendered homepage arrived empty; footer nav shows Startups / Locations / Founders / Pricing / Guides / Submit; contact hello@startupfa.me. Assess submit flow in-session.
+
+### Signup/submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- "Submit your startup" → **`/login`** ("create a free account"). Also runs paid "Submitator" (100+ directories service) — distinguish from organic submit.

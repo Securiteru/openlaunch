@@ -40,3 +40,13 @@ UNVERIFIED
 ## Notes
 account required (favors.dev atlas)
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Daily board resetting at UTC midnight + weekly/monthly leaderboards; winners announced weekly.
+- **Health & Fitness category exists** (Luno self-care app listed) — app fits.
+- Sign In + "Launch your startup"; sponsor placements; multi-language site.
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/en` homepage: Sign In + newsletter email field. No visible submit link in nav — likely behind Sign In or `/submit` probe needed. UNVERIFIED.

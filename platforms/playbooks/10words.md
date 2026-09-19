@@ -40,3 +40,12 @@ UNVERIFIED
 ## Notes
 hand-vetted (favors.dev atlas)
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Newsletter-format directory: "discover new apps in 10 words or less". Submit Your Startup link; email subscribe; browser extension.
+- Solo-run (@adithvictor); no account system visible — likely form/email submission. Pitch must be ≤10 words.
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `app.10words.io/submit` → `portal.10words.io/auth/register`: email + password + checkbox → "Sign Up" (+ Twitter link). Startup-in-new-tab extension audience.

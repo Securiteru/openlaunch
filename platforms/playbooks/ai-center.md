@@ -37,3 +37,7 @@ loads with the product visible.
 ## Badge
 UNVERIFIED
 
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit-tools` = **full public form**: contact name, email, tool name, URL, description, category, pricing model (Free/Free Trial/Freemium/Paid/Contact), platforms (Web/iOS/Android/API/Windows), 2× image uploads/URLs, video URL, socials (Twitter/LinkedIn/GitHub/Discord/YouTube/PH/FB/IG). AI-only directory but real free submission path.

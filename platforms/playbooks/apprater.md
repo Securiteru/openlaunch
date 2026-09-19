@@ -71,3 +71,8 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://apprater.net/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- App archive + leaderboard + "Recommend" voting; **iOS platform filter** — app fits.
+- "Submit app" link in header — no login wall visible pre-submit; stats counters public.

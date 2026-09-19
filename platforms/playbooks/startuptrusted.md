@@ -68,3 +68,12 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://startuptrusted.com/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- "Database of verified startups"; Submit your Startup; DR 55; featured + recent listings.
+- **Precedent: a a comparable vendor is featured** — adjacent products accepted; app fits.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` → **`/login?callbackUrl=/submit`** — email magic-link + **Google OAuth**.

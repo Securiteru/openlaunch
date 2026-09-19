@@ -37,3 +37,13 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Weekly-vote leaderboard ("This Week's Best Product Launches") + Winners archive; Login/Sign Up + Submit in nav.
+- Categories incl. **Health** and **Mobile Apps** — app fits; listings carry pricing tag (Free/Freemium/Paid/Free Trial).
+- FAQ confirms free submission option (collapsed); paid "140+ directories" submission service advertised in banner — ignore service, submit directly.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` renders only search + **"Log in with Google"** — Google OAuth only, submit fully gated.

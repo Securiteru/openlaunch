@@ -37,3 +37,7 @@ loads with the product visible.
 ## Badge
 UNVERIFIED
 
+
+### Auth — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/users/login.php`: username/email* + password* + remember + CSRF. Account-gated.

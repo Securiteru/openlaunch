@@ -68,3 +68,7 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://aihuntlist.com/
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- No submit/signup anchors on homepage — likely JS-driven or curated-only. AI-only; deprioritize.

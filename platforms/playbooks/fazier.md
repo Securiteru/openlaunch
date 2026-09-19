@@ -67,3 +67,8 @@ Submission entry: https://fazier.com/submit
 - `fazier.com/submit` shows live pricing: **Basic FREE** (reviewed & listed within 30 days, requires Fazier backlink badge on your homepage/footer, homepage feature only if selected); Lite $29 one-time (no backlink required, publish or schedule); Premium $49 (DR 82+ dofollow, 15-day platform promotion); Super $99 (top-of-homepage pin 15 days).
 - Sign In / Join links on submit page — account required before form.
 - Note divergence: earlier field guide reported DR>0 + community comments required for Basic; current page advertises backlink-badge requirement instead. Verify requirements again at submit time.
+
+### Join dialog — observed 2026-09-19
+
+- Clicking **Join** opens a modal "Welcome to Fazier": **Continue with Google** + **Continue with Email** buttons + Terms / Privacy Policy links. No password field — email path is likely magic-link or OTP.
+- Human gate: Google OAuth consent or inbox access for the email path.

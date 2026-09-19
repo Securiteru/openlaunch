@@ -68,3 +68,7 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://uno.directory/
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/listings` has a "Submit Listing" JS button — form behind click (not yet expanded). Broad categories incl. Health-adjacent listings.

@@ -40,3 +40,12 @@ UNVERIFIED
 ## Notes
 dofollow; freemium (backlinkbot)
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Established curated directory ("world's largest… for startups") with Verified + Free Tool badges; alternatives pages.
+- "List A Product" in nav — listing flow starts there; likely editorial review.
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/add-listing/` = **public WP Contact Form 7**: `your-email` + reCAPTCHA + submit. Minimal — likely email-then-followup review flow.

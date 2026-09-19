@@ -40,3 +40,13 @@ UNVERIFIED
 ## Notes
 directory + launches + leaderboard
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Not a passive directory — **favor-trading network**: earn points by doing favors for other founders (upvotes, reviews, testimonials, feedback, shares), spend them on your own launch. Sign in + "Join free" + "Add your project".
+- Directory + Queue + Launches + Leaderboard + Roast sections.
+- **Hard-stop heavy**: every action here is public engagement (comments, reviews, upvotes) — requires user supervision throughout; not a fire-and-forget listing.
+
+### Auth — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/login`: email magic link ("Send magic link") + Google + GitHub OAuth. Favor-trading model — submission = spending earned points.

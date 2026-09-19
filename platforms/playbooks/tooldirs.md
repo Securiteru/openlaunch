@@ -68,3 +68,7 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://tooldirs.com/
+
+### Submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` = **same multi-step form as DeepLaunch** (same operator): url, name, tagline, description (500–5000 chars, markdown), file uploads, categories (3), pricing model, platforms, discountCode, youtubeUrl, githubUrl, founderTwitter, affiliateUrl, email. "Next" paginates; Sign In for account path.

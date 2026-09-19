@@ -37,3 +37,11 @@ loads with the product visible.
 ## Badge
 UNVERIFIED
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Page rendered as empty JS shell (notifications region only) — insufficiently observed; revisit interactively.
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` = pricing page with **"Get Free Listing"** / Premium / Review Article buttons (same template family as SumoDir). Free lane exists — fields behind selection.

@@ -71,3 +71,7 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://solutions.trustradius.com/
+
+### Vendor path — observed 2026-09-19 (BrowserOS, field-level)
+
+- "Get Started Today" → `solutions.trustradius.com` (vendor marketing site); auth via `/api/auth/login`/`signup`. Enterprise review platform — claim-profile flow, weak app fit.

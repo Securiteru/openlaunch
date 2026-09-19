@@ -40,3 +40,7 @@ UNVERIFIED
 ## Notes
 launchrepo teaser — community platform
 
+
+### Signup — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/signup`: email* + password* + confirm*; Google/X/GitHub/LinkedIn OAuth. Founder community — app could post but it's a social surface.

@@ -37,3 +37,12 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Despite the name, a startup launch board: **"Launch your startup for free" URL field on homepage** — agent can start the flow pre-auth; Login for full submit.
+- Weekly launches (Week 38 observed), Plus/Pro verified-listing tiers, Premium Launches rail, ads from $15/wk. Categories skew AI but Developer Tools + others exist.
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` = **full public form**: product URL, name, one-liner, description, category selects, logo + screenshot uploads, "Fill with AI", optional demo/pricing/audience, advanced tags. **Free queue + paid "Launch with Plus/Pro"** lanes.

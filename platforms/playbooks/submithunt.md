@@ -68,3 +68,12 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://www.submithunt.com/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Daily/Weekly/Monthly/Yearly leaderboards; "+ Submit" link; Featured + promote-your-product paid options; Dashboard implies account model.
+- Observed "All Products 0" counter — **very young/empty board**; low priority, cheap to submit anyway.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` renders a **login wall** (no product fields visible): "Login" + **Continue with Google** + **X/Twitter OAuth**. No email/password path observed.

@@ -40,3 +40,12 @@ UNVERIFIED
 ## Notes
 community post not a listing; dofollow per firsto
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- DEV Community (dev.to): 4.1M-member dev community; Create account/Log in; posting = articles/tags, not a listing.
+- **app angle:** a build-in-public/launch post could work; not a directory listing.
+
+### Signup — observed 2026-09-19 (BrowserOS, field-level)
+
+- Signup entry = `dev.to/enter?signup_subforem=1` (combined auth). Community post path, not a product listing — app fit is a launch article, not a directory entry.

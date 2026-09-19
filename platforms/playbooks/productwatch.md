@@ -37,3 +37,12 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Daily launch board + trending + weekly/monthly tops + Award Winners; categories; comments/votes.
+- "Submit your product" + Sign in; active board (10+ launches/day observed).
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- "+ Submit your product" is a JS button → Sign in gate; submit form behind account.

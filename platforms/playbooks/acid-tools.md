@@ -40,3 +40,7 @@ UNVERIFIED
 ## Notes
 account required (favors.dev atlas)
 
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/login` = **Google-only auth**. AI-only — weak app fit.

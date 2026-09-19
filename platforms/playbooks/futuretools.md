@@ -71,3 +71,7 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://futuretools.io/
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- Submit path exists at `/submit-a-tool` (not yet field-inspected). AI-only.

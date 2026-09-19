@@ -40,3 +40,12 @@ UNVERIFIED
 ## Notes
 hand-vetted (favors.dev atlas)
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Landing-page inspiration gallery + templates; Sign in; curated submissions.
+- **app fit:** design showcase only; needs strong landing page.
+
+### Auth — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/sign-in/`: email* + password* + CAPTCHA + Google/X/LinkedIn OAuth. Landing-page design gallery — wrong fit for an app listing.

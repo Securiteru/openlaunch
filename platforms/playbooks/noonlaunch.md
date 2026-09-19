@@ -37,3 +37,15 @@ loads with the product visible.
 ## Badge
 UNVERIFIED
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- **Weekly board; new products launch daily at noon**; board opens Monday at noon for next week. Winners archive.
+- Permanent dofollow listing pages; Submit product + Login; Pricing; $99/mo sponsor slots; review-writing service exists (paid).
+- User reports editorial pushback ("forced me to kill every vague line") — description must be crisp, non-vague.
+
+### Signup — observed 2026-09-19 (BrowserOS, field-level)
+
+- Homepage exposes an email field (`you@company.com`) + "Join" — email-first funnel; submit path not yet resolved to a form (follow-up needed).
+
+- Follow-up: `/submit` → **`/login`** with **Continue with Google** only.

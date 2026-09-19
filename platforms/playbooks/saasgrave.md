@@ -37,3 +37,13 @@ loads with the product visible.
 ## Badge
 Platform serves a hosted badge image. Record the embed URL here after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Canonical submit host is `ls.saasgrave.org` (SaaSGrave Launches). **"Launch free" CTA with a single product-URL field on the homepage** — free tier confirmed; sign-in needed to save.
+- Weekly board (Week 6 observed — young platform); free tools suite (SEO title checker, backlink checker, launch score, badge preview).
+- Categories: AI, SaaS, Marketing, SEO, DevTools, Design — app files under SaaS.
+
+### Signup/submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `ls.saasgrave.org/login`: **email + password (min 6) + Continue with Google**. Launch entry = `/launch` ("Launch free" advertised).

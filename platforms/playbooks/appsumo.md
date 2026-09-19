@@ -40,3 +40,12 @@ UNVERIFIED
 ## Notes
 deals marketplace not a listing; rev-share economics
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Paid lifetime-deal marketplace; footer "List your own product" + Partner Portal — vendor deal application, not a free listing.
+- **app fit:** would require an AppSumo deal (lifetime/steep discount) — conflicts with App Store subscription model; mark paid-blocked/skipped under zero-spend.
+
+### Signup — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/accounts/login/`: **Email + Password + reCAPTCHA** + Facebook/Twitter OAuth. Paid-deals marketplace — listing = paid deal, poor fit for zero-spend.

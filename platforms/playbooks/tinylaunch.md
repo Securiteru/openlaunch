@@ -72,3 +72,11 @@ Submission entry: https://www.tinylaunch.com
 - Timed launch cohorts — homepage shows countdown to next launch period; 1st/2nd/3rd place badges awarded per period.
 - Categories include Health & Wellness — app fits directly.
 - Claimed DR 72+ backlink + badge.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- Canonical domain is `www.tinylaunch.com` (tinylaun.ch redirects).
+- **Cookie consent ("Accept All") blocks clicks** — must dismiss before any nav button works.
+- "Submit Product" (JS button, no href) → redirects to **`/login?returnTo=/dashboard`** — account required; the dashboard hosts the launch form.
+- Login page: **Email (required) + Continue** (magic-link) + **"Sign up with Email"** link + OAuth **Google, GitHub, X/Twitter**.
+- Pricing page at `/pricing`; also `/submission-service` (paid done-for-you path).

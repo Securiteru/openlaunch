@@ -40,3 +40,7 @@ UNVERIFIED
 ## Notes
 EU startup database
 
+
+### Auth — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/login`: email magic link ("Continue with email") + Google OAuth. Startup DB — listing via account.

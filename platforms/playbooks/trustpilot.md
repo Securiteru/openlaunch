@@ -71,3 +71,11 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://business.trustpilot.com/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- "Verifying your connection…" bot check — no content observed. Business listing known to start free; NOT VERIFIED in-session.
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- Consumer side is reCAPTCHA-gated. Business claim = `business.trustpilot.com` ("For businesses") — separate vendor signup. Claim profile, not submit.

@@ -71,3 +71,7 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://www.futurepedia.io/
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit-tool` = **paid** — FAQ cites a "verification fee"; reCAPTCHA present; `/register` = "Join For Free" account. AI-only.

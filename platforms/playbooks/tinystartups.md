@@ -68,3 +68,14 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://www.tinystartups.com/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- **Pay-what-you-want bid leaderboard** — homepage rankings are bid-priced ($130–$260 observed); footer has **"Submit a Startup — Free"** for non-bid listing.
+- Homepage bid form: URL + email + bid amount → payment. Do NOT bid without approval.
+- DR 64–71 advertised; sibling network: Startups.fm, Startup Spotlight, Brag in Public, SaaS.fyi (cross-listing opportunities).
+
+### Submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` shows **pre-auth URL-fetch flow**: startup URL field + **email field** ("for your launch details") + "Fetch" button + "Sign in / Create account" link — URL-first like Uneed.
+- Also separate `/submit-deal` ($49 paid deals path) — don't confuse with free `/submit`.

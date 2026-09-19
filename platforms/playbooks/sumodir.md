@@ -37,3 +37,7 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+### Submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` = **public 3-step wizard** ("1 Submission Type / 2 Details / 3 Publish"): **Select Free Listing / Premium Listing / Review Article**. Free lane exists — fields behind step 2.

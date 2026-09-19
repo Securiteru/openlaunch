@@ -37,3 +37,7 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- Submit → `/auth/login?callbackUrl=/submit` — Email + Password + Google/GitHub OAuth (NextAuth template shared with SaaSFame/ToolFame/Webspot). AI-only — weak app fit.

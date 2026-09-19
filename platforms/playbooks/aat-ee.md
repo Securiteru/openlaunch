@@ -40,3 +40,13 @@ UNVERIFIED
 ## Notes
 startup + AI tool discovery
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Same template family as Aura++/EarlyHunt (Explore/Community/Pricing/Fast Track/Submit Project; sign in/up). High volume: AI 1110 / Productivity 661 / DevTools 488 / SaaS 465 projects.
+- Weekly+monthly rankings, daily archives, per-product reviews; **"Free Directory Skill" in footer** — agent skill provided; also "Fast Track" paid option.
+- Multi-language UI.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/projects/submit` → **`/sign-in?redirect=/projects/submit`** — **Open-Launch-family template** (same `?redirect=` + Google/GitHub OAuth + email/pass). Confirms aat.ee runs on the same white-label engine.

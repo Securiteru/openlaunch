@@ -40,3 +40,7 @@ UNVERIFIED
 ## Notes
 DE startup platform
 
+
+### Auth — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/register/` + `/login/` — German startup DB, account-gated.

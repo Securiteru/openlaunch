@@ -37,3 +37,13 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Trending board by This Week/Month/Year/All-Time; categories incl. **Mobile Apps** — app fits.
+- Sign in/up in nav; "Launch your startup now" CTA; paid Premium homepage spot + Guest Post + Advertise options.
+- Free submission implied alongside premium — verify at submit.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/projects/submit` ("Get Featured") → `/sign-in?redirect=/projects/submit` — **Open-Launch-family template** again.

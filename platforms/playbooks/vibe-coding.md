@@ -40,3 +40,7 @@ Platform provides an embeddable badge. Record the snippet in this file after the
 ## Notes
 outbound link is nofollow
 
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` renders FAQ + Login button — gated; FAQ mentions listing expiry + payment forms (paid listing). Vibe-coding niche — weak fit.

@@ -37,3 +37,7 @@ loads with the product visible.
 ## Badge
 UNVERIFIED
 
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- Startup-tracking tool (list-building model) — no public submit form; profiles are tracked data, not user submissions.

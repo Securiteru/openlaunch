@@ -71,3 +71,12 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://www.indiehackers.com/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Founder community: posts feed + **Products DB** + Build Board; Sign in/Join; "Submit a Post" link on homepage.
+- **app fit:** launch/intro post + product DB entry; community rules apply (be a person, not a billboard).
+
+### Signup — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/sign-up`: **username + Continue with Google** + "Sign Up" — simple. Products DB exists but community-posts are the real surface.

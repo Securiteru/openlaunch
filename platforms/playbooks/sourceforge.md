@@ -71,3 +71,12 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://sourceforge.net/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Dual model: open-source project hosting (Create) + B2B software directory ("For Vendors"). Join/Login; cookie consent gates page.
+- **app fit:** business-software listing possible via vendor flow; Healthcare + Mobile categories exist.
+
+### Vendor form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/software/vendors/`: **PUBLIC vendor form** — name*, company*, title*, email*, phone, comments, consent checkbox* + CAPTCHA. Separate `/create/` for OSS project hosting (needs account).

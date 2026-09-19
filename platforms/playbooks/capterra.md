@@ -71,3 +71,12 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://www.capterra.com/vendors/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Software review site; "For vendors" + Vendor Login in nav; "Get your product listed" CTA; Healthcare category exists.
+- Vendor listing flow behind vendor portal — needs account + company verification.
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- Vendor portal = `app.g2digitalmarkets.com/login` (shared Gartner Digital Markets portal w/ GetApp/SoftwareAdvice). Account-gated vendor flow.

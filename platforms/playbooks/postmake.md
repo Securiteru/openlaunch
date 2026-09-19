@@ -40,3 +40,12 @@ Platform provides an embeddable badge. Record the snippet in this file after the
 ## Notes
 submit entry point observed at /submit
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Curated tag-based tools directory (#productivity, #development, #marketing, #launch…); "Submit Your Business" — no login system visible; form/email submission.
+- Extras: Advertise, Badges, newsletter. Solo-run (@amrkio).
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` rendered an empty shell (nav only) — JS-gated or broken logged-out view; re-probe with auth.

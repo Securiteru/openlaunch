@@ -40,3 +40,15 @@ UNVERIFIED
 ## Notes
 account required (favors.dev atlas)
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Open-Launch is the **white-label engine** powering NextLaunch, StartupFast and siblings ("Powered by Open-Launch" footers) — one submit flow shape across the family; badge + backlink pitch.
+- Daily launches + Yesterday's + Month's Best; **Health Tech category** (FixSleep app listed) — app fits.
+- Sponsors block includes Aura++/SEO Mode — same directory ecosystem.
+
+### Signup/submit form — observed 2026-09-19
+
+- `GET /projects/submit` → **redirects to `/sign-in?redirect=/projects/submit`** — account required.
+- `/sign-up` fields: **Full Name, Email, Password** + OAuth **Google, GitHub** + **Cloudflare Turnstile**; "Create account" disabled until valid.
+- **Same codebase as SubmitMySaaS** — identical nav, form, badge wall, "Simon" chat widget, `?redirect=` param. One signup flow pattern covers the whole Open-Launch-powered family (NextLaunch, StartupFast…).

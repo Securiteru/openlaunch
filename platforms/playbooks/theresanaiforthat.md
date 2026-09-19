@@ -71,3 +71,7 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://theresanaiforthat.com/
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- Auth = Google/Facebook sign-in + `/signup/` form. Submit flow behind account; AI-only.

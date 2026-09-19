@@ -37,3 +37,13 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- **Same operator/template as LaunchClash** — identical layout, featured products, category taxonomy, and "140+ directories" banner. One submission flow likely covers both; do not assume listing on one propagates to the other — track separately.
+- Daily launches; categories incl. **Health** and **Mobile Apps**; pricing tags (Free/Freemium/Paid).
+- Login/Sign Up + Submit in nav; FAQ confirms submissions accepted.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` renders search + **"Log in with Google"** only — Google OAuth, gated. Same template as LaunchClash/MyLaunchStash (Latest/Winners/Explore nav).

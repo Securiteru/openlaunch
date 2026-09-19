@@ -46,3 +46,7 @@ mobile app reviews
 - **Cloudflare browser-check wall** — homepage returned "Checking your browser" challenge. Could not inspect submission flow in this session.
 - Retry in a fully interactive browser session (or have the user open it once to clear the challenge) before planning submission.
 - Historically: paid app-review site for iOS/Android — expect paid review tiers.
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit-app-for-review/` = **public WP Formidable form**: ~7 item_meta fields (name/email/desc/etc.) + Submit. App-review site — likely paid review behind the form.

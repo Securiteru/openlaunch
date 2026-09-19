@@ -64,3 +64,17 @@ Some profile fields appeared edited but did not save until native input was used
 Record submitted_pending_review only after Under Review is confirmed. Retain the next review date privately and check the existing submission rather than sending a duplicate.
 
 Submission entry: https://pitchwall.co/submit
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Canonical domain is **pitchwall.co** (update registry if it lists .io). AI-products daily board; Submit Product + Login/Register.
+- Product listings show categories + tags + date; guest posts + advertise options.
+- Prior field data: URL import needs manual fixes; review >30 days.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` itself shows only a newsletter email box — actual submission is behind auth: `/auth/login` + `/auth/register` links.
+
+### Register — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/auth/register`: **OAuth-only — Google + GitHub + Microsoft + Discord** (no email/password). Widest OAuth set seen so far.

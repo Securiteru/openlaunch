@@ -79,3 +79,9 @@ Submission entry: https://microlaunch.net/
 - Monthly cohort launch model with leaderboard (Business vs Consumer tabs), upvotes, and feedback roasts. app fits the Consumer tab; category "Mobile App" exists.
 - Signup is a nav dropdown/modal — did not render in headless snapshot; verify auth providers in a real session.
 - Community/contributor program exists (launch feedback exchange) — expect "contribute to be featured" dynamics.
+
+### Signup dialog — observed 2026-09-19 (BrowserOS, field-level)
+
+- "Signup" is a JS button that opens an in-page dialog (initial render shows a single "Signup" button — lazy auth flow, deeper fields not yet captured).
+- Submit entry = "New Launch" button in nav; `/submit` path redirects to `/premium#pricing`.
+- Also has paid "Submitator" deal (100+ directories submission service, from $29).

@@ -40,3 +40,7 @@ UNVERIFIED
 ## Notes
 verified-MRR SaaS marketplace
 
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- "Add startup" behind account; also exposes a public API (`/docs/api/list-startups`). MRR-verification angle — app's revenue claims must be real.

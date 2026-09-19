@@ -40,3 +40,7 @@ UNVERIFIED
 ## Notes
 DE startup database
 
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- News/editorial site — submission = editorial pitch (contact), not a directory form. Job board runs through StepStone.

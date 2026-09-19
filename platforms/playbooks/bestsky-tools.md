@@ -40,3 +40,7 @@ Platform provides an embeddable badge. Record the snippet in this file after the
 ## Notes
 utm_source=badge on outbound link
 
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- "Submit" button click produced no navigation/modal — JS-gated. AI-only; deprioritize.

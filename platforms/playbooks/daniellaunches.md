@@ -37,3 +37,14 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Daily top launches + weekly highlights; "Submit your launch" + Log in.
+- Pitch: earn 2 backlinks, collect votes, winners get into their marketing guides.
+- **Honest traffic stats on homepage: ~30–100 visitors/day, 1–10 submissions/day** — low reach; submit is cheap but don't expect traffic.
+- Solo project by @DanielSmidstrup.
+
+### Signup/login — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` renders empty logged-out; `/login` = **OAuth-only: Continue with Google + Continue with X**. No email/password path.

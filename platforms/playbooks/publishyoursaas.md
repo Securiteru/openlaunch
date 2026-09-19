@@ -37,3 +37,13 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Permanent dedicated listing pages; SUBMIT YOUR SAAS + SIGN IN; Pricing; weekly "boosts" gamify ranking (reset Monday 00:00 UTC); paid sidebar spots $29.99.
+- Claims 238k visits/30d (Cloudflare-measured); **accepts App Store links** (SocialRouter listed via apps.apple.com) — app fits.
+- Currently 40%-off promo banner on paid plans.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- "Submit your SaaS" → **`/signin`** — Email + Password + **Google + GitHub + LinkedIn OAuth**.

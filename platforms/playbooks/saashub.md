@@ -70,3 +70,8 @@ Submission entry: https://www.saashub.com/services/submit
 - `saashub.com/services/submit` starts with a **single product-URL field** + Continue, alongside "Successful submission advice" bullet lists — low-friction start, account needed at save (Register/Login links present).
 - Separate paid "Feature My Product" path exists — organic submit is free.
 - SaaSHub is an alternatives/comparison engine — app will appear on competitor alternative lists once listed.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/services/submit` = **single public URL field** (`https://`) + submit — URL-first flow, no account needed at step 1.
+- `/register`: email + username + password + confirm + weekly newsletter checkbox + **reCAPTCHA AND hCaptcha** + company_name honeypot ("Do not input this") — heavy anti-bot.

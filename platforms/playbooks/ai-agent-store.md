@@ -37,3 +37,7 @@ loads with the product visible.
 ## Badge
 UNVERIFIED
 
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/claw-setup-files/submit` — email field + "Sign Up Free"/"Sign In". Agent starter-kit store — wrong product type for app.

@@ -40,3 +40,7 @@ UNVERIFIED
 ## Notes
 already listed — devpost.com/software/example (a hackathon)
 
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- Hackathon platform — app already listed via a hackathon. New listings = hackathon submissions, not a directory.

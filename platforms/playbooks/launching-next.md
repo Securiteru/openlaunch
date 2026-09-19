@@ -40,3 +40,13 @@ UNVERIFIED
 ## Notes
 email submission; free (favors.dev atlas)
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Classic startup directory (newest/trending grid, blog, newsletter); "Submit Startup" link.
+- No visible login system — likely email/form-based submission; confirm form fields at submit.
+- Cookie consent manager present.
+
+### Submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- **`/submit/` is a full PUBLIC form — no account needed.** Fields: startup name, startup URL, short description, full description (textarea), tags, funding stage radios, marketing-budget radios, your name + email, newsletter opt-in, **math-CAPTCHA text field**. Old-school WordPress-style submission — fully agent-fillable except final click needs approval.

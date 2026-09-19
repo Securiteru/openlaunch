@@ -77,3 +77,7 @@ Submission entry: https://www.promoteproject.com/
 - Article-led site with a Startup Directory + Startup Forum; "Submit startup" link + Log In in nav — account required.
 - Mixed content quality (SEO guest articles); directory listing is the relevant surface, not the articles.
 - Verify on submit: whether directory listing is free and whether approval is manual.
+
+### Register — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/register`: **username + email + password + confirm** + **Google reCAPTCHA** (g-recaptcha-response). Laravel app. Human gate: CAPTCHA.

@@ -76,3 +76,9 @@ Submission entry: https://smollaunch.com/
 - FAQ exists ("Is Smol Launch free?") — free tier implied; paid "Get Featured" from **$19/week**; separate done-for-you "30+ directory listings from $99" service.
 - Maker attribution via X/Twitter handles (@handle shown on listings) — have the app/maker X handle ready.
 - Sign-in required to upvote — no anonymous voting.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- Homepage URL field is decorative first step; real entry is "Launch a product" → `/signup?intent=submit_product&return_to=/dashboard/products/new`.
+- `/signup` fields: **First name, Last name, Email, Password** (12+ chars, 1 lower, 1 upper, 1 number) + **Continue with Google**; no CAPTCHA; ToS/Privacy linked.
+- Copy states "Create your account and we'll take you straight to the submission form" — submit form is at `/dashboard/products/new` post-auth.

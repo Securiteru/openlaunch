@@ -68,3 +68,14 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://nicklaunches.com/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Weekly leaderboard (Week 38: 107 launches) with sign-in-gated upvotes.
+- **Homepage has a single-field launch form (yourproduct.com + Launch)** — lowest-friction entry; account presumably at save.
+- Maker attribution via X handles; categories incl. Lifestyle, Sustainability, Other — app fits Lifestyle/Health-adjacent.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- "Launch Now" → `/signin/?callbackUrl=/submit/` — account required.
+- Login: **Email + Password** + **Sign in with Google** (Next.js server actions). No CAPTCHA.

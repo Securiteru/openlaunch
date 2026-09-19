@@ -40,3 +40,7 @@ UNVERIFIED
 ## Notes
 FR/EU software reviews
 
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- Didomi cookie CMP gates interaction; account at `i.app.appvizer.com/login`, `/login` = "Create your account". B2B software advisory — weak fit.

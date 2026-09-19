@@ -78,3 +78,7 @@ Submission entry: https://www.sideprojectors.com/
 - "+ SUBMIT A PROJECT" in nav; Login / Sign-up links — account required.
 - Extremely granular market taxonomy — relevant markets for app include Dietary Supplements, Corporate Wellness, Diagnostics, Apps, App Stores.
 - Has Membership (paid) + Newsletter + Advertise options; base listing free — verify at submit.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- "Submit a project" → `/submit/type` → **`/auth/login`** — account required. Login: **Email + Password** only ("Sign Me In!"), no OAuth. (ComingUp's "Continue with SideProjectors" confirms shared operator auth.)

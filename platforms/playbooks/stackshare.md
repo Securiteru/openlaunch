@@ -71,3 +71,12 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://stackshare.io/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Homepage rendered as JS shell (nav + footer only). Known model: tech-stack profiles, company/tool pages, account required.
+- **Poor app fit** — consumer app, no public stack story.
+
+### Signup — observed 2026-09-19 (BrowserOS, field-level)
+
+- "Sign in"/"Sign up" are JS buttons (SPA modal); OAuth options visible: **GitHub + Google**. Dev-stack tool directory — app doesn't fit.

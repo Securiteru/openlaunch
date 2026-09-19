@@ -40,3 +40,12 @@ UNVERIFIED
 ## Notes
 account required (favors.dev atlas)
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Open-source-alternatives directory (Dirstarter-built); listings keyed to GitHub repos + star graphs; Submit + Sign In.
+- **Poor app fit** — closed-source iOS app has no repo to list.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` → **`/auth/login?next=/submit`** — email **magic link** + **Google + GitHub OAuth** + Cloudflare Turnstile. OSS-alternatives directory — app doesn't fit (closed-source).

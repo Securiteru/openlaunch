@@ -40,3 +40,11 @@ UNVERIFIED
 ## Notes
 nofollow; free; hand-vetted (favors.dev atlas)
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Homepage rendered empty (JS wall). Known: founder profiles + program/deal applications. Insufficiently observed — revisit.
+
+### Auth — observed 2026-09-19 (BrowserOS, field-level)
+
+- Sign in: "Continue with email" + Google/LinkedIn/X OAuth behind cookie banner. "Add your [company]" gated by account. Founder/VC platform.

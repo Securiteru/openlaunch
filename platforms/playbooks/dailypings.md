@@ -68,3 +68,14 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://dailypings.com/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Nav: Browse, Blog, Sponsor, Pricing, Submit, Sign in — account required; pricing + sponsor tiers exist.
+- Homepage content is JS-rendered and arrived empty in snapshot — verify submit form in session.
+- Advertises DR 58.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` → **`/sign-in?callbackURL=/submit`** — account required.
+- Login: **Email + Password + hidden cf-turnstile-response** (invisible Cloudflare Turnstile). "Sign in" only observed on this page; registration path not yet captured.

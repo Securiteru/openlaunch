@@ -68,3 +68,14 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://indiehunt.io/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- **Same operator/template as EarlyHunt** ("Launch in a week", identical nav, shared alternatives pages covering our whole registry: uneed, fazier, tinylaunch, microlaunch, startupbase, launchigniter, peerlist, firsto, saashub, earlyhunt, openhunts).
+- Weekly cohorts; **Health & Fitness category** present; Bids + Premium paid options; Sign in + Submit.
+- Useful: their "Alternative: X" pages describe competing platforms — source of playbook intel.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` → **`/auth/signin`** — account required.
+- Auth identical to EarlyHunt: **email magic-link + Google + GitHub**; no CAPTCHA. Same operator/template confirmed at form level.

@@ -40,3 +40,7 @@ UNVERIFIED
 ## Notes
 martech stacks; domain responds — verify
 
+
+### Status — observed 2026-09-19 (BrowserOS)
+
+- **DEAD for our purposes**: cabinetm.com redirects to `cabinetmsd.my.canva.site` (a Canva placeholder). Remove or mark defunct.

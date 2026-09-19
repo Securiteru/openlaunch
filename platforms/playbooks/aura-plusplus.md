@@ -37,3 +37,14 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- **Same operator/template family as EarlyHunt + IndieHunt** ("Launch in a click"; Bids; Premium/Premium Plus listing badges; identical category taxonomy).
+- Daily launches with comments/upvotes; Submit dropdown + Sign in/up; Pricing page; "Boost Aura" paid promotion.
+- app fit: Productivity/SaaS categories; no dedicated Health seen.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/projects/submit` → **`/sign-in?redirect=/projects/submit`** — account required.
+- Login: **Email + Password + hidden cf-turnstile** + **Google + GitHub OAuth**. Same Open-Launch-family template as SubmitMySaaS/Open-Launch (identical `?redirect=` param + Turnstile + OAuth set) — this whole family shares one auth form.

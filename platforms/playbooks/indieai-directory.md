@@ -37,3 +37,7 @@ loads with the product visible.
 ## Badge
 Platform links are plain text — no badge asset observed.
 
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- Only "Sign in" buttons visible; no submit link surfaced logged-out. AI-only; deprioritize.

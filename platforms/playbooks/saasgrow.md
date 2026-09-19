@@ -37,3 +37,12 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- "Home of startups growing in public"; Submit + Login; founder leaderboard; DR 56.
+- Huge category list incl. **Health, Health & Fitness, Medical, iOS, Mac** — app fits. Paid ad spots on homepage.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` → **`/login?callbackUrl=/submit`** — email magic-link ("Sign in with Email") + **Google + X + GitHub OAuth**.

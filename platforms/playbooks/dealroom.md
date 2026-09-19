@@ -71,3 +71,7 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://dealroom.co/
+
+### Auth — observed 2026-09-19 (BrowserOS, field-level)
+
+- `app.dealroom.co/login` — account-gated. Startup DB: profiles are editor/partner-curated; claim via account.

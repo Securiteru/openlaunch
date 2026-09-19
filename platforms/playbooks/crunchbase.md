@@ -71,3 +71,12 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://www.crunchbase.com/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Company profile database; footer "Create Profile" link — free company profile creation; paid tiers are for data/search, not listing.
+- **app fit:** free company profile (needs company entity, funding fields optional).
+
+### Create Profile — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/add-new` renders a **Cloudflare Turnstile gate** before the profile form (hidden cf-turnstile-response only). Log In at `/login`. Human gate: Turnstile.

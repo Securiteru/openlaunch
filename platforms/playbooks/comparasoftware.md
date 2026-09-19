@@ -40,3 +40,7 @@ UNVERIFIED
 ## Notes
 LATAM software reviews
 
+
+### Register — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/panel-usuario/register`: name + email + phone + password×2 + **reCAPTCHA**. Spanish-language B2B directory; `/panel-usuario/partner-register` for vendors.

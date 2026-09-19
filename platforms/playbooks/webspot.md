@@ -37,3 +37,11 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- "Ultimate Web Discovery" directory; broad categories (Productivity, Business & Finance, no Health); Featured + Top Voted + Latest sections; Submit + Sign In + Pricing.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` → **`/auth/login?callbackUrl=/submit`** — Email + Password + **Google + GitHub OAuth** (same NextAuth template as SaaSFame/ToolFame).

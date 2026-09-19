@@ -37,3 +37,12 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Product directory, DR 70+ claim; **Health & Fitness + iOS categories** — app fits.
+- Submit + Login; Premium tier + Advertise placements; "Newly Submitted" section suggests queue review.
+
+### Submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` shows **email field + "Continue with Free" vs "Continue with Premium $19"** fork — free lane exists; Next.js server actions.

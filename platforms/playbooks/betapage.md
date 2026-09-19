@@ -40,3 +40,7 @@ UNVERIFIED
 ## Notes
 account required (favors.dev atlas)
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- **betapage.co resolved to pitchwall.co** (observed on two separate loads) — possible redirect or domain change; verify manually before submitting. If canonical, treat PitchWall as the live entry.

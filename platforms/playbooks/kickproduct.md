@@ -40,3 +40,13 @@ Platform provides an embeddable badge. Record the snippet in this file after the
 ## Notes
 product URL contains an opaque id
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- **"It's Free Forever"** — free tier explicitly confirmed; Sign In / Get Started.
+- SaaS-positioned ("Launch Your SaaS Product in Minutes, No Fake Queues"); Product of the Week + community/founders sections + launch analytics.
+- Operator: Brainer Code Digital Solutions.
+
+### Signup — observed 2026-09-19 (BrowserOS, field-level)
+
+- "Get Started" → `/auth/signup`: **Continue with Google** button only (Google OAuth) + a CAPTCHA element present. "It's Free Forever" tier advertised. Sign In at `/auth/signin`.

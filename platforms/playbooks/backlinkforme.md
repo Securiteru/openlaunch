@@ -40,3 +40,7 @@ UNVERIFIED
 ## Notes
 domain responds; exact platform unconfirmed
 
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/tools/submit` = **public form**: tool name*, URL*, category, description, email*, backlink-exchange radio (yes/no). No account needed.

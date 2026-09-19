@@ -37,3 +37,11 @@ loads with the product visible.
 ## Badge
 UNVERIFIED
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- **Cloudflare security verification wall** on homepage — needs interactive/human pass before assessing submit flow.
+
+### Submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- **`/site/submit` is a full PUBLIC multi-step form — no account.** Fields: name*, url*, email*, pitch*, description*, screenshot upload, country/city selects, primary_category, tags, video/linkedin/twitter/facebook URLs. "Continue"/"Submit Now 🚀". Auto-saves draft (hidden draft_id).

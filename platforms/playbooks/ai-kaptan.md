@@ -37,3 +37,7 @@ loads with the product visible.
 ## Badge
 UNVERIFIED
 
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` = **public paid form** ($5 promo, was $20): email, tool name, short desc, URL, category, pricing model, launch date, company, long desc, tags, features, platforms, languages, pricing plans, image upload, checkbox. AI-only + paid.

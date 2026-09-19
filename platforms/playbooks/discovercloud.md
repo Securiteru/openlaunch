@@ -37,3 +37,7 @@ loads with the product visible.
 ## Badge
 UNVERIFIED
 
+
+### Vendor path — observed 2026-09-19 (BrowserOS, field-level)
+
+- Vendor entry = `/become-a-vendor`; expert registration at `/expert/register`. SAP-oriented ecosystem — weak app fit.

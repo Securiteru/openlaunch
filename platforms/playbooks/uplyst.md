@@ -40,3 +40,7 @@ UNVERIFIED
 ## Notes
 free 7-day listing; paid features
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- **DEAD** — uplyst.com is a parked GoDaddy for-sale page. Mark `skipped` (site gone); remove or flag in registry.

@@ -37,3 +37,12 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- 908-listing directory; **Health & Wellness (19) + iOS (18) categories** — app fits both.
+- "Submit your website" + Pricing + How-it-works; no login in nav — likely form-based submission.
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` rendered category grid + search instead of a form (JS-gated or below fold) — re-probe needed; Health/Fitness + iOS categories confirmed on index.

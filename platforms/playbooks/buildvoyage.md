@@ -40,3 +40,12 @@ UNVERIFIED
 ## Notes
 curated micro-SaaS directory
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Curated micro-SaaS directory (495 products) with maker profiles, tech-stack metadata, "cheers" voting; Productivity category (68) — app fits.
+- Submit product + Sign in; "Apply to be featured" = curated review, not instant listing; sponsor slots.
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` = **full public Laravel form**: name*, tagline*, description (rich editor), site_url*, submitter_email*, category_id*, pricing_note, tech-stack tag fields (frameworks/languages/DBs/infra/APIs/payments/AI), Cloudflare Turnstile, weekly-roundup opt-in checkbox, accept_terms*. Free — strong agent path.

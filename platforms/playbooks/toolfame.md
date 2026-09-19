@@ -37,3 +37,12 @@ loads with the product visible.
 ## Badge
 Platform serves a hosted badge image. Record the embed URL here after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- "Tool Hall of Fame" directory; DR 75; honest Cloudflare traffic chart **~45k–69k visitors/day** — highest-traffic directory recon'd.
+- **Health category** exists; Submit + Sign In + Pricing; save-tool bookmarks.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` → **`/auth/login?callbackUrl=/submit`** — Email + Password + hidden cf-turnstile + **Google + GitHub OAuth**.

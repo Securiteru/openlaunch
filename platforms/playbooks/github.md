@@ -40,3 +40,11 @@ UNVERIFIED
 ## Notes
 org/repo homepage link; only if open-source
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Standard GitHub signup (email → account). **Not a directory** — only relevant if product is open-source. app is closed-source → skip.
+
+### Signup — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/signup`: email*, password*, username*, country select, Google/Apple OAuth, octocaptcha token + honeypot. For app: relevant only if repo is open-sourced or for awesome-list PRs.

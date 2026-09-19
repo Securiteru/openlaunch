@@ -71,3 +71,12 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://huzzler.so/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Founder-focused software review site (DR 64+); editorial reviews with "Huzzler Score" + "Recently Boosted" paid placements.
+- Submit product + Login/Sign up; FAQ covers "Can I list my startup" — listing + review are likely separate tracks.
+
+### Signup/submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit-product` shows only Login/Sign-up buttons — account wall; auth method not yet captured.

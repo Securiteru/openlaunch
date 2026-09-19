@@ -71,3 +71,7 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://omr.com/en/reviews
+
+### Suggest form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/en/reviews/list-software-or-agency`: product/service name field + **reCAPTCHA** + Sign In gate. German/EU B2B review site — weak app fit.

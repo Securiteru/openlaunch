@@ -40,3 +40,13 @@ UNVERIFIED
 ## Notes
 account required (favors.dev atlas)
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Startup-profile directory (fresh profiles + trending products, country + date on cards); Account + Submit Startup.
+- Pro Membership + Advertising (claims 150k monthly visitors); Trustpilot 4.7/105 reviews; sister site ProductInspire.
+- Free submission likely exists alongside Pro — confirm on submit page.
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- "Submit Startup" → `/pricing` — **paid listing** (pricing page, cookie banner in Italian). `paid-blocked` under zero-spend.

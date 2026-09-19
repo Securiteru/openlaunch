@@ -37,3 +37,13 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Daily launch leaderboard (Today/Yesterday/Month's Best) with upvotes + comments; categories: SaaS (254), Productivity (127), AI, DevTools, Design.
+- Sign in/Sign up + Submit Project; Pricing + Sponsors pages; pitch = badge + backlink.
+- Footer: **"Powered by Open Launch"** — runs on the open-launch.com white-label engine (same as several clones; expect identical submit flow across them).
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/projects/submit` → `/sign-in?redirect=/projects/submit` — **Open-Launch-family template** confirmed at form level.

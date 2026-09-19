@@ -40,3 +40,11 @@ Platform provides an embeddable badge. Record the snippet in this file after the
 ## Notes
 outbound link is nofollow+sponsored
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Page rendered as bare iframe — JS/iframe-walled; could not assess. Revisit interactively.
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` = **full public form**: URL, name, tagline, price, description, tags, tech stack, audience, problem, solution, features, benefits, competitors, differentiation, logo/screenshot upload-or-URL, video, social handle, pricing model. "Auto-fill" present — strong agent path.

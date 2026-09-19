@@ -40,3 +40,7 @@ UNVERIFIED
 ## Notes
 solo-founder focused; capped daily slots
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- **DEAD** — wonderlaunch.com is a parked GoDaddy for-sale page. Mark `skipped`; remove or flag in registry.

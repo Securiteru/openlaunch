@@ -40,3 +40,11 @@ UNVERIFIED
 ## Notes
 account required (favors.dev atlas)
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- **Site unreachable** (DNS/connection failure in browser). Mark dead/unavailable; recheck later.
+
+### Signup/submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/add-tool` → **`/login`** — Email + Password + **Google OAuth**. Dev-tools directory — app doesn't fit.

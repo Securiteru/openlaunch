@@ -40,3 +40,12 @@ Platform serves a hosted badge image. Record the embed URL here after the listin
 ## Notes
 product URL contains an opaque numeric id
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Minimal launch board: Sign In + "Launch Now" buttons; categories incl. Marketing & Growth, Productivity; leaderboard + Advertise.
+- Lightweight — likely quick free submission behind account.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- "Launch Now" → `/dashboard/submit` → **`accounts.superlaun.ch/sign-in`** (Clerk) — email + password + **Google OAuth**.

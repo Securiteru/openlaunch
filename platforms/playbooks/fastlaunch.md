@@ -37,3 +37,12 @@ loads with the product visible.
 ## Badge
 Platform serves a hosted badge image. Record the embed URL here after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- **Same template family as Aura++/EarlyHunt/IndieHunt** (Explore/Featured/Submit Project/Pricing nav, premium sidebars, daily launch board with comments).
+- Sign in/up; paid premium slots flank the homepage; categories incl. SaaS, Productivity, Lifestyle.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/projects/submit` → `/sign-in?redirect=/projects/submit` — **Open-Launch family** (9th confirmed member).

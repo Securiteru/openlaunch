@@ -37,3 +37,7 @@ loads with the product visible.
 ## Badge
 UNVERIFIED
 
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit-your-ai-tool/` → `submit.aiparabellum.com/login` — Turnstile-protected, JS-gated. AI-only.

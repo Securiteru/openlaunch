@@ -40,3 +40,7 @@ UNVERIFIED
 ## Notes
 nofollow; free (backlinkbot)
 
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- JS-walled — only a "Click to reveal" button rendered. No form reachable; deprioritize.

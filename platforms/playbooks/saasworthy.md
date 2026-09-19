@@ -71,3 +71,7 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://www.saasworthy.com/
+
+### Vendor portal — observed 2026-09-19 (BrowserOS, field-level)
+
+- `vendorsportal/...site/login`: **email → OTP** (password field is "Please enter OTP") + post-login profile form (fname, lname, phone, department, designation). Vendor-portal model — heavier B2B flow.

@@ -71,3 +71,15 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://peerpush.com/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Substantive platform: **47,000+ builders**; daily launches with votes, comments, ratings, product updates, Product-of-the-Day badges.
+- **"Available on iOS" platform badge exists** — app fits natively (iOS apps listed).
+- "Add your product" + Login/Sign up; Promoted (paid) slots; **PeerPush MCP + Public API** — explicitly agent-integrable.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` → **`/auth/login?redirectTo=/submit…`** — account required.
+- Login: **Continue with email** (magic link) + **Google, X/Twitter, LinkedIn OAuth** — 4 auth paths, no password field. `/auth/signup` exists too.
+- Note: "Advertise" (`/submit?option=sponsored`) is the paid lane; free lane is "Add your product" → `/submit`.

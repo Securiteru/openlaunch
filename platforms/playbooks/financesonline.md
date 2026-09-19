@@ -71,3 +71,7 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://financesonline.com/
+
+### Add Product form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/add-product/`: **PUBLIC form** — your name*, product name*, job title*, email*, website URL*, category/country selects, Skype ID, **reCAPTCHA + honeypot**. B2B review platform.

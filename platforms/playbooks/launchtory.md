@@ -37,3 +37,13 @@ loads with the product visible.
 ## Badge
 Platform links are plain text — no badge asset observed.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Directory organized by **Topics** (productivity, e-commerce, marketing…) and **Stacks** (Next.js, Cloudflare, Vercel, WordPress…). app can file under Cloudflare stack + health/productivity topic.
+- Submit Project + Login/Signup in nav; support@launchtory.com listed.
+- No daily leaderboard — permanent catalog with "Featured" and "Recently submitted" sections.
+
+### Signup — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/signup`: Rails form — **Email + Password** only (authenticity_token), no OAuth observed. Login at `/login`.

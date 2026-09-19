@@ -37,3 +37,14 @@ loads with the product visible.
 ## Badge
 Platform serves a hosted badge image. Record the embed URL here after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- "SaaS Hall of Fame" directory; DR 70; **honest daily traffic chart ~16k–23k visitors/day** — one of the busiest directories recon'd.
+- **Health, Mobile, and iOS category/tag support** — app fits; Submit + Sign In + Pricing.
+
+### Signup/submit form — observed 2026-09-19
+
+- `GET /submit` → **redirects to `/auth/login?callbackUrl=/submit`** — account required.
+- Login form: **Email + Password** + **Cloudflare Turnstile** + OAuth buttons **Google, GitHub**; "Don't have an account? Sign up" link → register flow (same shape expected).
+- Human gates: Turnstile + email verification.

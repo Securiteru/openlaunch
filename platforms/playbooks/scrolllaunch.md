@@ -37,3 +37,13 @@ loads with the product visible.
 ## Badge
 Platform serves a hosted badge image. Record the embed URL here after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Weekly cohorts (Week 35–38 browseable); account HQ with Dashboard, Analytics, Streaks, Profile — implies ongoing engagement mechanics.
+- "New Launch" in top nav; Pricing page; sponsored slots; DR leaderboard (Top 100) + "1,018+ startup directories" browse.
+- Has a "For AI agents and developers" section — explicitly agent-friendly platform.
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- No submit/signup links found — appears to be a display-only feed within the startupfa.st ecosystem (its own listing lives at `startupfa.st/projects/scrolllaunch`). Deprioritize: no public submission surface observed.

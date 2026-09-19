@@ -40,3 +40,7 @@ UNVERIFIED
 ## Notes
 hand-vetted (favors.dev atlas)
 
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- **`/startup/create/url-validation` = public create-startup entry** (URL validation first); `/login` offers Google/LinkedIn/X OAuth. Free startup DB.

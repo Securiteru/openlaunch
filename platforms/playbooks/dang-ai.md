@@ -40,3 +40,7 @@ UNVERIFIED
 ## Notes
 account required (favors.dev atlas)
 
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- Submit → `/login?next=/pricing` — **email magic-link** ("Email me a secure link"); note the `next=/pricing` — submission likely routes through a paid plan. AI-only.

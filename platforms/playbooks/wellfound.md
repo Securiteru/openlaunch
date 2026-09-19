@@ -71,3 +71,12 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://wellfound.com/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Startup recruiting platform (jobs, not product launches); Sign up → companies post jobs free.
+- **Poor app fit** — no product-listing surface; skip unless hiring.
+
+### Signup — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/jobs/signup`: name + email + **password min 12 chars** + Google OAuth. It's a jobs/recruiting platform — poor app fit (candidate-side flow).

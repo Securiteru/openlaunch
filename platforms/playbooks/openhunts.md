@@ -44,3 +44,7 @@ Platform serves a hosted badge image. Record the embed URL here after the listin
 - "Submit" link prominent; separate Pricing page exists — check free vs paid split before submitting.
 - Products get individual detail pages ("View X details") + outbound links.
 - No visible Login button in main nav — auth flow likely triggered from Submit; verify.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/projects/submit` → **`/sign-in?redirect=/projects/submit`** — Open-Launch-family template again (email+pass, Turnstile, Google/GitHub OAuth).

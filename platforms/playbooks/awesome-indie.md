@@ -37,3 +37,13 @@ loads with the product visible.
 ## Badge
 UNVERIFIED
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Daily/weekly/monthly/yearly product rankings + daily archive; "Add product" + Login + Join free.
+- **Health category exists** (autism test, Foodient listed today) — app fits.
+- Extras: Analytics, Map, Community, karma system.
+
+### Signup/submit form — observed 2026-09-19 (BrowserOS, field-level)
+
+- `/submit` → **`/login`** — account required; **OAuth-only: Google + GitHub + X** (no email/password fields observed).

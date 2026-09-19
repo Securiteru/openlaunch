@@ -37,3 +37,7 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+### Signup — observed 2026-09-19 (BrowserOS, field-level)
+
+- "Join & Add Your Website" → `/accounts/signup/`: **username + email + password ×2** + **Google OAuth** (Django). Public registration.
