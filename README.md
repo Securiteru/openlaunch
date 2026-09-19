@@ -15,7 +15,7 @@ and anything public.
 | Piece | Path | What it does |
 |---|---|---|
 | Platform playbooks | `platforms/playbooks/` | Per-platform submission guide: prep, steps, known hurdles, confirmation signals. Living docs — your agent writes back what it learns. |
-| Registry | `platforms/platforms.csv` | 127 seeded platforms: launch sites, AI-tool directories, SaaS/dev directories, review sites, communities, profiles — including product-page URL patterns and submission mechanics where known. |
+| Registry | `platforms/platforms.csv` | 176 seeded platforms: launch sites, AI-tool directories, SaaS/dev directories, review sites, communities, profiles — including product-page URL patterns and submission mechanics where known. |
 | Product brief | `brief/product-brief.template.md` | Every fact, approved claim, description length, and asset in one place. The agent never invents copy. |
 | Selection rubric | `docs/selection.md` | Score platforms by fit, audience, link value, effort, and cost before spending submissions. |
 | Local tracker | `tracker/` | A static dashboard + `data.json` the agent maintains: submitted vs. pending vs. live, with evidence links. `make serve` → localhost:8420. |
@@ -54,12 +54,15 @@ action.
 
 ## Status and honest scope
 
-- **127 platforms seeded.** The registry combines a public badge wall from a
-  shipping product in this space (77 launch/directory sites) with verified
-  lists from the favors.dev atlas and published DR-ranked roundups (50 more:
-  review sites, communities, profile anchors). Every seed domain was checked
-  live on 2026-09-18. Playbook fields start `UNVERIFIED` and become accurate
-  as agents verify them on real submissions.
+- **176 platforms seeded.** The registry combines three public sources: a
+  shipping product's badge wall (77 sites), the favors.dev atlas and DR-ranked
+  roundups (50), and LaunchRepo's public directory catalog (49 — profiled
+  platforms plus catalog teasers). Every seed domain was checked live
+  2026-09-18/19; a handful of teaser-derived domains are marked unconfirmed in
+  `notes`. Playbook fields start `UNVERIFIED` and become accurate as agents
+  verify them on real submissions. LaunchRepo claims 347 platforms — only ~97
+  are publicly named on its site; our coverage overlaps but does not copy
+  their (paid) playbook content.
 - **Not affiliated with LaunchRepo or any listed platform.** This is an
   independent re-implementation of the toolkit concept; all content is
   original or community-contributed.

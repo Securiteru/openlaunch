@@ -82,7 +82,7 @@ pitchwall,PitchWall,https://pitchwall.co,launch,,,account required (favors.dev a
 betalist,BetaList,https://betalist.com,launch,,,free queue is slow; paid skips (backlinkbot)
 crunchbase,Crunchbase,https://www.crunchbase.com,profile,,,nofollow; permanent profile anchor
 betapage,BetaPage,https://betapage.co,launch,,,account required (favors.dev atlas)
-peerpush,PeerPush,https://peerpush.net,launch,,,account required (favors.dev atlas)
+peerpush,PeerPush,https://peerpush.com,launch,,,account required (favors.dev atlas)
 open-launch,Open Launch,https://open-launch.com,launch,,,account required (favors.dev atlas)
 startup-inspire,Startup Inspire,https://startupinspire.com,launch,,,account required (favors.dev atlas)
 what-launched-today,What Launched Today,https://whatlaunched.today,launch,,,account required (favors.dev atlas)
@@ -126,3 +126,52 @@ hacker-news,Hacker News (Show HN),https://news.ycombinator.com,community,,,Show 
 indie-hackers,Indie Hackers,https://www.indiehackers.com,community,,,community post not a listing
 peerlist,Peerlist,https://peerlist.io,community,,,Launchpad; dofollow; free (backlinkbot)
 f6s,F6S,https://www.f6s.com,profile,,,nofollow; free; hand-vetted (favors.dev atlas)
+comingup,ComingUp,https://comingup.io,launch,,,launchrepo profile
+promoteproject,PromoteProject,https://www.promoteproject.com,launch,,,launchrepo profile
+sideprojectors,SideProjectors,https://www.sideprojectors.com,launch,,,side-project marketplace + showcase
+startupbase,StartupBase,https://startupbase.io,launch,,,launchrepo profile
+bowora,Bowora,https://bowora.com,launch,,,formerly Best of Web (bestofweb.site)
+aat-ee,aat.ee,https://aat.ee,launch,,,startup + AI tool discovery
+buildvoyage,BuildVoyage,https://buildvoyage.com,saas-directory,,,curated micro-SaaS directory
+builtbyindies,BuiltByIndies,https://builtbyindies.com,launch,,,indie product launches
+businesshunt,BusinessHunt,https://businesshunt.com,launch,,,domain responds; exact platform unconfirmed
+futuretools,Future Tools,https://futuretools.io,ai-directory,,,launchrepo profile
+ai-agent-store,AI Agent Store,https://aiagentstore.ai,ai-directory,,,
+ai-center,AI Center,https://aicenter.ai,ai-directory,,,
+ai-kaptan,AI KAPTAN,https://aikaptan.com,ai-directory,,,
+ai-parabellum,AI Parabellum,https://aiparabellum.com,ai-directory,,,
+ai-pulse,AI Pulse,https://aipulse.net,ai-directory,,,domain responds; exact platform unconfirmed
+alphadigits,AlphaDigits,https://alphadigits.com,review,,,mobile app reviews
+alternative-me,alternative.me,https://alternative.me,saas-directory,,,
+alternative-tools,Alternative.tools,https://alternative.tools,saas-directory,,,
+awesome-indie,Awesome Indie,https://awesomeindie.com,launch,,,
+backlinkforme,Backlinkforme,https://backlinkforme.com,saas-directory,,,domain responds; exact platform unconfirmed
+boilerplatelist,BoilerplateList,https://boilerplatelist.com,dev-directory,,,boilerplate catalog
+appvizer,Appvizer,https://www.appvizer.com,review,,,FR/EU software reviews
+business-software,Business-Software.com,https://business-software.com,review,,,
+cabinetm,CabinetM,https://cabinetm.com,review,,,martech stacks; domain responds — verify
+comparasoftware,ComparaSoftware,https://comparasoftware.com,review,,,LATAM software reviews
+cuspera,Cuspera,https://cuspera.com,review,,,
+discovercloud,DiscoverCloud,https://www.discovercloud.com,review,,,
+financesonline,FinancesOnline,https://financesonline.com,review,,,launchrepo profile
+goodfirms,GoodFirms,https://www.goodfirms.co,review,,,launchrepo profile (vendor portal account.goodfirms.co)
+omr-reviews,OMR Reviews,https://omr.com,review,,,DACH software reviews (omr.com/reviews)
+tekpon,Tekpon,https://tekpon.com,review,,,
+trustradius,TrustRadius,https://www.trustradius.com,review,,,vendor portal solutions.trustradius.com
+dealroom,Dealroom,https://dealroom.co,profile,,,company profiles; app.dealroom.co
+e27,e27,https://e27.co,profile,,,SEA startup ecosystem
+startupblink,StartupBlink,https://www.startupblink.com,profile,,,ecosystem map
+trustpilot,Trustpilot,https://www.trustpilot.com,profile,,,business.trustpilot.com for vendors
+deutsche-startups,deutsche-startups.de,https://deutsche-startups.de,profile,,,DE startup database
+seedtable,Seedtable,https://seedtable.com,profile,,,EU startup database
+startbase,Startbase,https://startbase.de,profile,,,DE startup platform
+startup-europe,Startup Europe,https://startupeurope.net,profile,,,
+startuptracker,Startup Tracker,https://startuptracker.io,profile,,,
+startupsfm,Startups.fm,https://startups.fm,profile,,,
+startups-nrw,startups.nrw,https://startups.nrw,profile,,,NRW regional ecosystem
+startupxplore,Startupxplore,https://startupxplore.com,profile,,,investor-facing startup DB
+startupbuffer,Startup Buffer,https://startupbuffer.com,launch,,,
+trustmrr,TrustMRR,https://trustmrr.com,marketplace,,,verified-MRR SaaS marketplace
+reddit-saas,Reddit r/SaaS,https://www.reddit.com/r/SaaS/,community,,,strict self-promo rules; launch threads only
+reddit-sideproject,Reddit r/SideProject,https://www.reddit.com/r/SideProject/,community,,,weekly promotion thread; read rules first
+versily,Versily,https://versily.com,community,,,launchrepo teaser — community platform
