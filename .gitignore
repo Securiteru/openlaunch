@@ -5,3 +5,4 @@ __pycache__/
 # Product briefs can contain unreleased details — uncomment to keep them local:
 # products/*/brief.md
 # products/*/assets/
+.gbrain-source
