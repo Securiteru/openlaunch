@@ -64,3 +64,9 @@ Do not invent an alternative when a competitor is missing from the selector. A s
 Keep submitted_pending_review while the page says Pending approval. Verify domain requests separately and check for acceptance before changing to live.
 
 Submission entry: https://www.saashub.com/services/submit
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- `saashub.com/services/submit` starts with a **single product-URL field** + Continue, alongside "Successful submission advice" bullet lists — low-friction start, account needed at save (Register/Login links present).
+- Separate paid "Feature My Product" path exists — organic submit is free.
+- SaaSHub is an alternatives/comparison engine — app will appear on competitor alternative lists once listed.

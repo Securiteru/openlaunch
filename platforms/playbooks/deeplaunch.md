@@ -37,3 +37,11 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Directory-style catalog (not a daily leaderboard): sidebar categories incl. **Health**, AI, Productivity, Games; 1520 "Top" listings.
+- Nav: Submit, Pricing, Featured, Backlinks library, Skills, Blogs; "Sign In" button — account required.
+- Each listing displays its Ahrefs DR badge publicly — deep SEO/catalog orientation; featured slots are paid.
+- Product pages follow `deeplaunch.io` catalog patterns — verify exact URL pattern post-submit.
+- app fit: Health category exists; the catalog skews AI/SaaS but accepts consumer products.

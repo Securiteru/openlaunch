@@ -71,3 +71,9 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://www.reddit.com/r/SideProject/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Create Post + Join gated behind account; signup options observed: Apple, phone, email.
+- Pinned megathread "Share your ***Not-AI*** projects" — app is non-AI; the megathread is the correct surface (separate posts for AI projects are being corralled).
+- New/low-karma accounts get filtered — post from an established personal account, frame as maker story (bootstrapped, the hackathon entry), include App Store link + genuine ask for feedback. Self-promo tolerance is higher here than r/SaaS but still needs story framing.

@@ -71,3 +71,11 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://www.comingup.io/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Daily leaderboard model — "Top Products Launching Today" (~74 products/day observed), Yesterday/Today views.
+- Nav has Submit, Login, Sign Up — account required.
+- Categories include **Health & Fitness** (a health app was listed today) — app fits.
+- Products show logo + name + tagline + category + tags + upvote count; "Visit website" outbound links.
+- `/submit` returned only an ad iframe in snapshot — the real form may load lazily or require login first. Verify by clicking nav "Submit" while signed in.

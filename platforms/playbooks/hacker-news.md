@@ -71,3 +71,10 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://news.ycombinator.com/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- `/submit` shows bare login + create-account forms (username/password only — no OAuth, no email field at creation).
+- Show HN rules apply: product must be something people can try — app qualifies via the live App Store link once launched.
+- Hard norms: no launch-day asking-for-upvotes (bannable), founder posts from personal account, title format "Show HN: [Product] – one-line pitch". One Show HN per product; reposts allowed only after substantial changes + time.
+- Text post or link post — link post to the product site or store page; expect mods to ask questions if it trips filters.

@@ -71,3 +71,10 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://www.sideprojectors.com/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Showcase + marketplace hybrid: projects listed with price/revenue filters (also a "for sale" section) — listing app as a non-for-sale showcase is the right path.
+- "+ SUBMIT A PROJECT" in nav; Login / Sign-up links — account required.
+- Extremely granular market taxonomy — relevant markets for app include Dietary Supplements, Corporate Wellness, Diagnostics, Apps, App Stores.
+- Has Membership (paid) + Newsletter + Advertise options; base listing free — verify at submit.

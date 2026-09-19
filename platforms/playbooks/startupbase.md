@@ -71,3 +71,11 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://startupbase.io/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Daily leaderboard (Today/Yesterday) with upvote counts; "Verified product" badges on some listings.
+- `/launch` page: **"Launch free. Or launch loud."** — free tier + "Launch Premium" paid tier; also a separate "Outrank" pay-to-rank brand board ("Pay what you want").
+- Login required before launch ("Launch now" → auth).
+- Categories are broad (Finance, Productivity, Cloud Infrastructure…) — app fits under health/productivity.
+- Has llms.txt/ai.txt/RSS — listings are crawlable; good long-tail SEO value.

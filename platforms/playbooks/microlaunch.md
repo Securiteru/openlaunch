@@ -71,3 +71,11 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://microlaunch.net/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- `/submit` redirects to `/premium#pricing` — **submission is account-gated**. "New Launch" button sits in the top nav behind the Signup dropdown.
+- Free "Regular" launch exists alongside paid "Pro Launch" and paid services (product review/action plan).
+- Monthly cohort launch model with leaderboard (Business vs Consumer tabs), upvotes, and feedback roasts. app fits the Consumer tab; category "Mobile App" exists.
+- Signup is a nav dropdown/modal — did not render in headless snapshot; verify auth providers in a real session.
+- Community/contributor program exists (launch feedback exchange) — expect "contribute to be featured" dynamics.

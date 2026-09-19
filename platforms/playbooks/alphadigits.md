@@ -40,3 +40,9 @@ UNVERIFIED
 ## Notes
 mobile app reviews
 
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- **Cloudflare browser-check wall** — homepage returned "Checking your browser" challenge. Could not inspect submission flow in this session.
+- Retry in a fully interactive browser session (or have the user open it once to clear the challenge) before planning submission.
+- Historically: paid app-review site for iOS/Android — expect paid review tiers.

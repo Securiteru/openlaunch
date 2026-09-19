@@ -71,3 +71,9 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://betalist.com/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- `/submit` redirects to `/sign_in` — account required before any form.
+- Auth options observed: **Sign in with X (Twitter OAuth)**, email+password, or magic link; separate "Sign up" link.
+- Prior field-guide observation confirmed by behavior: no free submission tier on the public path — treat as `paid-blocked` under zero-spend unless the user approves.

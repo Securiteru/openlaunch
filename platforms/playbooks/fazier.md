@@ -61,3 +61,9 @@ Do not manufacture comments, assert a rating you have not verified or buy an upg
 Record blocked when the rating or badge condition is unmet. A completed checklist is only preparation: obtain the final submission confirmation before recording pending review.
 
 Submission entry: https://fazier.com/submit
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- `fazier.com/submit` shows live pricing: **Basic FREE** (reviewed & listed within 30 days, requires Fazier backlink badge on your homepage/footer, homepage feature only if selected); Lite $29 one-time (no backlink required, publish or schedule); Premium $49 (DR 82+ dofollow, 15-day platform promotion); Super $99 (top-of-homepage pin 15 days).
+- Sign In / Join links on submit page — account required before form.
+- Note divergence: earlier field guide reported DR>0 + community comments required for Basic; current page advertises backlink-badge requirement instead. Verify requirements again at submit time.

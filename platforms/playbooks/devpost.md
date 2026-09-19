@@ -1,10 +1,10 @@
-# OpenHunts
+# Devpost
 
 | | |
 |---|---|
-| Site | https://openhunts.com |
-| Category | launch |
-| Product page pattern | UNVERIFIED |
+| Site | https://devpost.com/software |
+| Category | profile |
+| Product page pattern | `https://devpost.com/software/{slug}` |
 | Cost | UNVERIFIED — check for paid tiers before submitting; pause before any payment |
 | Account required | UNVERIFIED |
 | Listing status flow | UNVERIFIED |
@@ -35,12 +35,8 @@ URL) not yet recorded. A listing counts as `live` only when its public URL
 loads with the product visible.
 
 ## Badge
-Platform serves a hosted badge image. Record the embed URL here after the listing is live.
+UNVERIFIED
 
+## Notes
+already listed — devpost.com/software/example (a hackathon)
 
-## Verified recon — 2026-09-19 (BrowserOS)
-
-- Weekly cohort leaderboard ("Launches of the Week", numbered ranking with 🥇-style positions) + Sponsor slots interleaved.
-- "Submit" link prominent; separate Pricing page exists — check free vs paid split before submitting.
-- Products get individual detail pages ("View X details") + outbound links.
-- No visible Login button in main nav — auth flow likely triggered from Submit; verify.

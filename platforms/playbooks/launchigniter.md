@@ -68,3 +68,10 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://launchigniter.com/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- "Get Early Users & Feedback for Your Launch" — feedback-oriented community, claims 10,000+ makers.
+- "Submit Your Product" button on homepage; upvotes per product.
+- Categories include **Health Fitness, Health, Medical** — and the category we need is precedented.
+- Pricing/account details not yet observed — check submit flow for auth and cost.

@@ -71,3 +71,10 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://alternativeto.net/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Sign In / Sign up required for contributions. Model = crowd-ranked alternatives: list app as an app, then mark it as alternative to other similar apps to gain placement.
+- App entries support icon, screenshots, license/tags, alternative links — prep icon-512 + screenshots from brief assets.
+- Paid surface: "Official partner" sponsored slots — organic listing is free.
+- Strategy note: app should be added both as its own app entry AND as an alternative on competitors' pages (e.g. other similar apps).

@@ -64,3 +64,11 @@ A cookie overlay can block buttons. Rich-text fields may create empty paragraphs
 Confirm the success page and dashboard date. Record scheduled with approval still pending when the dashboard says Waiting for approval. A date on a calendar is not proof that the product is publicly live.
 
 Submission entry: https://www.tinylaunch.com
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Canonical domain is `www.tinylaunch.com` (tinylaun.ch redirects). Submit via nav "Submit Product"; Sign In required.
+- **Standard Launch: FREE** ("Get Started Free" on /pricing); Premium Launch paid (price rendered as image — verify at checkout); extras: Submission Service, Featured Spot (contact-us), $9 "AI visibility report" upsell on pricing page.
+- Timed launch cohorts — homepage shows countdown to next launch period; 1st/2nd/3rd place badges awarded per period.
+- Categories include Health & Wellness — app fits directly.
+- Claimed DR 72+ backlink + badge.

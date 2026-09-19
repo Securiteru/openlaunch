@@ -1,5 +1,213 @@
 {
   "version": 1,
-  "products": [],
-  "listings": []
+  "products": [
+    {
+      "slug": "demo",
+      "name": "Demo App",
+      "url": "https://example.com/",
+      "brief": "products/demo/brief.md"
+    }
+  ],
+  "listings": [
+    {
+      "platform": "product-hunt",
+      "product": "demo",
+      "status": "researched",
+      "notes": "BrowserOS recon: Free; personal account only (company accounts banned); launch 12:01am PT; form behind login",
+      "evidence": "",
+      "listing_url": "",
+      "updated_at": "2026-09-19",
+      "next_action": "dry-run submit form (needs account creation approval)"
+    },
+    {
+      "platform": "uneed",
+      "product": "demo",
+      "status": "researched",
+      "notes": "BrowserOS recon: No account to start \u2014 name+URL scrape first, signup to save; free tier + paid; 1 pending launch cap",
+      "evidence": "",
+      "listing_url": "",
+      "updated_at": "2026-09-19",
+      "next_action": "dry-run submit form (needs account creation approval)"
+    },
+    {
+      "platform": "fazier",
+      "product": "demo",
+      "status": "researched",
+      "notes": "BrowserOS recon: Basic FREE (30-day review, backlink badge required); Lite $29/Premium $49/Super $99; account required",
+      "evidence": "",
+      "listing_url": "",
+      "updated_at": "2026-09-19",
+      "next_action": "dry-run submit form (needs account creation approval)"
+    },
+    {
+      "platform": "microlaunch",
+      "product": "demo",
+      "status": "researched",
+      "notes": "BrowserOS recon: Account-gated 'New Launch'; free Regular vs paid Pro; monthly cohorts; consumer tab fits app",
+      "evidence": "",
+      "listing_url": "",
+      "updated_at": "2026-09-19",
+      "next_action": "dry-run submit form (needs account creation approval)"
+    },
+    {
+      "platform": "tinylaunch",
+      "product": "demo",
+      "status": "researched",
+      "notes": "BrowserOS recon: Free Standard launch; Premium paid; timed weekly cohorts; Health & Wellness category exists",
+      "evidence": "",
+      "listing_url": "",
+      "updated_at": "2026-09-19",
+      "next_action": "dry-run submit form (needs account creation approval)"
+    },
+    {
+      "platform": "comingup",
+      "product": "demo",
+      "status": "researched",
+      "notes": "BrowserOS recon: Daily leaderboard; account required; Health & Fitness category; /submit loads behind ads/login",
+      "evidence": "",
+      "listing_url": "",
+      "updated_at": "2026-09-19",
+      "next_action": "dry-run submit form (needs account creation approval)"
+    },
+    {
+      "platform": "startupbase",
+      "product": "demo",
+      "status": "researched",
+      "notes": "BrowserOS recon: Free launch + Premium; 'Outrank' pay-to-rank board; verified-product badges; login first",
+      "evidence": "",
+      "listing_url": "",
+      "updated_at": "2026-09-19",
+      "next_action": "dry-run submit form (needs account creation approval)"
+    },
+    {
+      "platform": "launchigniter",
+      "product": "demo",
+      "status": "researched",
+      "notes": "BrowserOS recon: Feedback community; Health/Medical categories; a comparable listing exists \u2014 our product fits",
+      "evidence": "",
+      "listing_url": "",
+      "updated_at": "2026-09-19",
+      "next_action": "dry-run submit form (needs account creation approval)"
+    },
+    {
+      "platform": "smollaunch",
+      "product": "demo",
+      "status": "researched",
+      "notes": "BrowserOS recon: Weekly cohorts; homepage single-URL submit then sign-in; featured from $19/wk",
+      "evidence": "",
+      "listing_url": "",
+      "updated_at": "2026-09-19",
+      "next_action": "dry-run submit form (needs account creation approval)"
+    },
+    {
+      "platform": "deeplaunch",
+      "product": "demo",
+      "status": "researched",
+      "notes": "BrowserOS recon: Catalog w/ DR badges; Health category; Sign In required; featured slots paid",
+      "evidence": "",
+      "listing_url": "",
+      "updated_at": "2026-09-19",
+      "next_action": "dry-run submit form (needs account creation approval)"
+    },
+    {
+      "platform": "sideprojectors",
+      "product": "demo",
+      "status": "researched",
+      "notes": "BrowserOS recon: Showcase+marketplace; account required; granular markets incl. supplements/wellness",
+      "evidence": "",
+      "listing_url": "",
+      "updated_at": "2026-09-19",
+      "next_action": "dry-run submit form (needs account creation approval)"
+    },
+    {
+      "platform": "promoteproject",
+      "product": "demo",
+      "status": "researched",
+      "notes": "BrowserOS recon: Directory+forum; 'Submit startup' + Log In; verify free/manual approval",
+      "evidence": "",
+      "listing_url": "",
+      "updated_at": "2026-09-19",
+      "next_action": "dry-run submit form (needs account creation approval)"
+    },
+    {
+      "platform": "openhunts",
+      "product": "demo",
+      "status": "researched",
+      "notes": "BrowserOS recon: Weekly leaderboard; Submit link; Pricing page exists \u2014 check free/paid split",
+      "evidence": "",
+      "listing_url": "",
+      "updated_at": "2026-09-19",
+      "next_action": "dry-run submit form (needs account creation approval)"
+    },
+    {
+      "platform": "launchboard",
+      "product": "demo",
+      "status": "researched",
+      "notes": "BrowserOS recon: Weekly rankings; Mobile Apps category; free launch + $49/mo sponsored; verified badges",
+      "evidence": "",
+      "listing_url": "",
+      "updated_at": "2026-09-19",
+      "next_action": "dry-run submit form (needs account creation approval)"
+    },
+    {
+      "platform": "alphadigits",
+      "product": "demo",
+      "status": "researched",
+      "notes": "BrowserOS recon: Cloudflare challenge blocked inspection; historically paid app reviews \u2014 verify interactively",
+      "evidence": "",
+      "listing_url": "",
+      "updated_at": "2026-09-19",
+      "next_action": "dry-run submit form (needs account creation approval)"
+    },
+    {
+      "platform": "betalist",
+      "product": "demo",
+      "status": "researched",
+      "notes": "BrowserOS recon: Paid-only; X OAuth/email/magic-link login wall before form",
+      "evidence": "",
+      "listing_url": "",
+      "updated_at": "2026-09-19",
+      "next_action": "dry-run submit form (needs account creation approval)"
+    },
+    {
+      "platform": "alternativeto",
+      "product": "demo",
+      "status": "researched",
+      "notes": "BrowserOS recon: Free organic listing; account required; add app + mark as alternative to competitor trackers",
+      "evidence": "",
+      "listing_url": "",
+      "updated_at": "2026-09-19",
+      "next_action": "dry-run submit form (needs account creation approval)"
+    },
+    {
+      "platform": "saashub",
+      "product": "demo",
+      "status": "researched",
+      "notes": "BrowserOS recon: Free submit; single URL field then Continue; paid 'Feature My Product' separate",
+      "evidence": "",
+      "listing_url": "",
+      "updated_at": "2026-09-19",
+      "next_action": "dry-run submit form (needs account creation approval)"
+    },
+    {
+      "platform": "hacker-news",
+      "product": "demo",
+      "status": "researched",
+      "notes": "BrowserOS recon: Username/password only, no OAuth; Show HN rules; one shot, no upvote-asking",
+      "evidence": "",
+      "listing_url": "",
+      "updated_at": "2026-09-19",
+      "next_action": "dry-run submit form (needs account creation approval)"
+    },
+    {
+      "platform": "reddit-sideproject",
+      "product": "demo",
+      "status": "researched",
+      "notes": "BrowserOS recon: Account (Apple/phone/email); use pinned Not-AI megathread; needs karma'd account",
+      "evidence": "",
+      "listing_url": "",
+      "updated_at": "2026-09-19",
+      "next_action": "dry-run submit form (needs account creation approval)"
+    }
+  ]
 }

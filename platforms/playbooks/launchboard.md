@@ -68,3 +68,11 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://www.launchboard.dev/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Weekly ranking cohorts (Week 38 current, weeks browsable) + "Verified / Paid Launch" badges distinguish paid from organic listings.
+- Categories include **Mobile Apps (9)** — app fits; skews AI/Productivity.
+- Sign In button in header + "Launch Your Product" — account required.
+- Monetized surfaces everywhere: sponsored slots ($49/mo shown), lifetime-deals section, "100+ AI directories" listing service, backlink hub. Organic free launch exists alongside.
+- Pitch: "climb weekly rankings & earn high-DR backlinks".

@@ -64,3 +64,11 @@ Do not delete another product or create extra accounts to evade the limit. A rea
 Record blocked with the next action, not submitted. Resume after capacity is legitimately available and confirm the resulting queue or schedule in the account.
 
 Submission entry: https://www.uneed.best/submit-a-tool
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- Submit URL confirmed: `uneed.best/submit-a-tool`.
+- **No account needed to start** — form opens with just product name + product URL; Uneed scrapes the page, THEN asks you to sign up to save it. Agent can pre-fill the scrape step before handing off for account creation.
+- Free tier exists alongside paid boosts; pricing at `uneed.best/pricing`.
+- Site advertises DR 75 backlink.
+- Earlier observation still stands: free accounts hold one pending launch — check existing products before submitting.

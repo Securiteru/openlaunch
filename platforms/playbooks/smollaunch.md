@@ -68,3 +68,11 @@ Short profile from the platform’s public pages, not a submission service. Rule
 ###
 
 Submission entry: https://smollaunch.com/
+
+## Verified recon — 2026-09-19 (BrowserOS)
+
+- **Weekly cohort launches** ("Week 37", "Week 36"…) — submit once, compete within the week; leaderboard per week.
+- Homepage has a minimal submit form: single "Your product URL" field + submit button; then Sign in required.
+- FAQ exists ("Is Smol Launch free?") — free tier implied; paid "Get Featured" from **$19/week**; separate done-for-you "30+ directory listings from $99" service.
+- Maker attribution via X/Twitter handles (@handle shown on listings) — have the app/maker X handle ready.
+- Sign-in required to upvote — no anonymous voting.
