@@ -76,3 +76,7 @@ Submission entry: https://apprater.net/
 
 - App archive + leaderboard + "Recommend" voting; **iOS platform filter** — app fits.
 - "Submit app" link in header — no login wall visible pre-submit; stats counters public.
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- **Full public form at `/#submit` — no account.** Fields: `title`, `platform` select (Web/iOS/Android/Windows/MacOS/Other), `appUrl`, `description`, `tags`, `imageUrl` (logo), `submitterName`, `submitterEmail`, `xUsername`, `website`. No CAPTCHA observed.

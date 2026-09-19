@@ -10,7 +10,7 @@
   ],
   "listings": [
     {
-      "platform": "product-hunt",
+      "platform": "producthunt",
       "product": "demo",
       "status": "researched",
       "notes": "BrowserOS recon: Free; personal account only (company accounts banned); launch 12:01am PT; form behind login",
@@ -1798,6 +1798,616 @@
       "listing_url": "",
       "updated_at": "2026-09-19",
       "next_action": "none"
+    },
+    {
+      "product": "demo",
+      "platform": "allmyfaves",
+      "status": "skipped",
+      "listing_url": null,
+      "evidence": "Domain dead/parked/redirected \u2014 observed 2026-09-19",
+      "next_action": "none \u2014 dead platform",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "alltopstartups",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "appoid",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "apppicker",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "appslisto",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "appsmamma",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "appsthunder",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "appvita",
+      "status": "skipped",
+      "listing_url": null,
+      "evidence": "Domain dead/parked/redirected \u2014 observed 2026-09-19",
+      "next_action": "none \u2014 dead platform",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "arcticstartup",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "betabound",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "betatesting",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "builtinchicago",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "collaborizm",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "ebool",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "geekwire",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "getapp",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "getworm",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "gust",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "inc42",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "killerstartups",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "makeuseof",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "microsaasexamples",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "netted",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "nextbigwhat",
+      "status": "skipped",
+      "listing_url": null,
+      "evidence": "Domain dead/parked/redirected \u2014 observed 2026-09-19",
+      "next_action": "none \u2014 dead platform",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "preapps",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "saasrow",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "saijogeorge-tools",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "simplelister",
+      "status": "skipped",
+      "listing_url": null,
+      "evidence": "Domain dead/parked/redirected \u2014 observed 2026-09-19",
+      "next_action": "none \u2014 dead platform",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "similarsitesearch",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "snapmunk",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "softwareadvice",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "starterstory",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "startup88",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "startupbeat",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "startupbenchmarks",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "startups-gallery",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "stateoftech",
+      "status": "skipped",
+      "listing_url": null,
+      "evidence": "Domain dead/parked/redirected \u2014 observed 2026-09-19",
+      "next_action": "none \u2014 dead platform",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "tapscape",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "thataicollection",
+      "status": "skipped",
+      "listing_url": null,
+      "evidence": "AI-tools-only directory \u2014 wrong product type for demo product",
+      "next_action": "none",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "thetechmap",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "techpluto",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "vator",
+      "status": "skipped",
+      "listing_url": null,
+      "evidence": "Domain dead/parked/redirected \u2014 observed 2026-09-19",
+      "next_action": "none \u2014 dead platform",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "webapprater",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "websitehunt",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
+      "next_action": "dry-run: open submit path, map fields against brief",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "reddit-alphaandbetausers",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
+      "next_action": "needs user reddit account + approval to post",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "reddit-buildinpublic",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
+      "next_action": "needs user reddit account + approval to post",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "reddit-coupons",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
+      "next_action": "needs user reddit account + approval to post",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "reddit-designcritiques",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
+      "next_action": "needs user reddit account + approval to post",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "reddit-entrepreneur",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
+      "next_action": "needs user reddit account + approval to post",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "reddit-ridealong",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
+      "next_action": "needs user reddit account + approval to post",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "reddit-imadethis",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
+      "next_action": "needs user reddit account + approval to post",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "reddit-indiebiz",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
+      "next_action": "needs user reddit account + approval to post",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "reddit-indiehackers",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
+      "next_action": "needs user reddit account + approval to post",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "reddit-ladybusiness",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
+      "next_action": "needs user reddit account + approval to post",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "reddit-microsaas",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
+      "next_action": "needs user reddit account + approval to post",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "reddit-plugyourproduct",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
+      "next_action": "needs user reddit account + approval to post",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "reddit-roastmystartup",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
+      "next_action": "needs user reddit account + approval to post",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "reddit-shamelessplug",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
+      "next_action": "needs user reddit account + approval to post",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "reddit-smallbusiness",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
+      "next_action": "needs user reddit account + approval to post",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "reddit-startups",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
+      "next_action": "needs user reddit account + approval to post",
+      "updated_at": "2026-09-19",
+      "notes": ""
+    },
+    {
+      "product": "demo",
+      "platform": "reddit-thesidehustle",
+      "status": "researched",
+      "listing_url": null,
+      "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
+      "next_action": "needs user reddit account + approval to post",
+      "updated_at": "2026-09-19",
+      "notes": ""
     }
   ]
 }

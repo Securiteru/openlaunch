@@ -75,3 +75,7 @@ Submission entry: https://www.reddit.com/r/SaaS/
 ### Submit — observed 2026-09-19 (BrowserOS, field-level)
 
 - `/r/SaaS/submit` → Reddit login (reCAPTCHA + SSO). Same constraints as r/SideProject — check self-promo rules before posting.
+
+### Submit — observed 2026-09-19 (BrowserOS, field-level)
+
+- Reddit flow (shared across all subreddits): `/r/<sub>/submit` → `/login?dest=...` when logged out. Login = SSO/Google/Apple + reCAPTCHA. Posting requires: account (karma requirements vary by sub), reading sub rules first, correct flair. Hard stop: public posting needs explicit approval — never post unapproved.

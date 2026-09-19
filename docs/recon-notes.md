@@ -134,3 +134,34 @@ These can be submitted in one session once the user approves:
 Sites with JS-routed submit buttons fail silently if a cookie-consent overlay
 intercepts clicks (TinyLaunch, StartupInspire). The recon loop now dismisses
 "Accept all/Agree" first — real submissions need the same step.
+
+## PlacesToPostYourStartup batch — observed 2026-09-19
+
+61 additional platforms from the public `mmccaff/PlacesToPostYourStartup`
+list were field-reconned the same day (websites probed at their submit/login
+paths; subreddits share the Reddit flow).
+
+- **Full public forms, no account:** `betabound` (`/announce/` — Centercode
+  beta-recruitment board: company/name/email/product/tester requirements/
+  incentives/timeframes/test URL; list only when recruiting testers),
+  `saasrow` (`/submit` — URL+email only), `microsaasexamples` (`/submit` —
+  name/email/URL + paid lanes), `apprater` (`/#submit` — title/platform/
+  appUrl/description/tags/imageUrl/submitter fields).
+- **Subreddits (17):** share one flow — `/r/<sub>/submit` → login + reCAPTCHA
+  when logged out; rules/flair/karma vary per sub. Public posting is a hard
+  stop.
+- **Editorial/pitch-only** (no self-serve form): alltopstartups, appoid,
+  apppicker, appsmamma, appsthunder, arcticstartup, geekwire, inc42,
+  killerstartups (`/submit-startup/` renders empty), makeuseof, netted,
+  saijogeorge-tools, snapmunk, startup88, startupbeat, tapscape, techpluto.
+- **Vendor portals / auth-gated:** getworm (user+pass or Twitter), gust
+  (Rails Devise), startupbenchmarks (Google only), startups-gallery
+  ("Join for free" modal), websitehunt (Django allauth + Google),
+  thetechmap→techmap.me (`/company/create` behind login),
+  betatesting (paid service), preapps (agency, $2k–$50k budgets),
+  similarsitesearch (login/signup + CAPTCHA), ebool (`/submit` behind
+  reCAPTCHA), builtinchicago (Cloudflare challenge), collaborizm (JS wall).
+- **Newly dead/stale:** appvita→onk.io, vator→Substack, nextbigwhat→Substack,
+  simplelister, stateoftech (both unreachable). All flagged in CSV notes.
+- **Rejected candidates (not added):** loopinput, launched.io,
+  allstartups.info (unreachable), startuptabs.com (HTTP 500).

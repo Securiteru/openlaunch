@@ -177,3 +177,64 @@ reddit-sideproject,Reddit r/SideProject,https://www.reddit.com/r/SideProject/,co
 versily,Versily,https://versily.com,community,,,launchrepo teaser — community platform
 apprater,AppRater,https://apprater.net,saas-directory,,,launchrepo profile
 devpost,Devpost,https://devpost.com/software,profile,https://devpost.com/software/{slug},,already listed — devpost.com/software/example (a hackathon)
+allmyfaves,All My Faves,https://www.allmyfaves.com,general-directory,,,"LOW VALUE — bookmark startpage, ad redirects, no listing flow, 2026-09-19"
+alltopstartups,All Top Startups,https://alltopstartups.com,general-directory,,,submit-startup path exists; verified live 2026-09-19
+appoid,Appoid,https://appiod.com,review,,,app review submit path; verified live 2026-09-19
+apppicker,appPicker,https://www.apppicker.com,review,,,iOS app coverage; verified live 2026-09-19
+appslisto,Apps Listo,https://appslisto.com,review,,,submit-your-app path; verified live 2026-09-19
+appsmamma,Apps Mamma,https://appsmamma.com,review,,,submit-your-app path; verified live 2026-09-19
+appsthunder,AppsThunder,https://appsthunder.com,review,,,submit-your-app path; verified live 2026-09-19
+appvita,Appvita,https://www.appvita.com,review,,,"STALE — redirects to onk.io (personal site), 2026-09-19"
+arcticstartup,ArcticStartup,https://arcticstartup.com,press,,,Nordic startup press; bot-walled to curl; verified reachable 2026-09-19
+betabound,Beta Bound,https://www.betabound.com,community,,,"beta-tester community, /announce/ path; verified live 2026-09-19"
+betatesting,BetaTesting,https://betatesting.com,community,,,beta-testing platform; verified live 2026-09-19
+builtinchicago,Built In Chicago,https://www.builtinchicago.org,press,,,send-us-tip editorial path; bot-walled; verified reachable 2026-09-19
+collaborizm,Collaborizm,https://www.collaborizm.com,community,,,maker community; verified live 2026-09-19
+ebool,eBool,https://www.ebool.com,general-directory,,,/submit path; verified live 2026-09-19
+geekwire,GeekWire,https://geekwire.com,press,,,startup-list editorial path; verified live 2026-09-19
+getapp,GetApp,https://getapp.com,review,,,Gartner Digital Markets vendor portal (shared w/ Capterra); bot-walled; verified reachable 2026-09-19
+getworm,Getworm,https://getworm.com,general-directory,,,submit-startup path; verified live 2026-09-19
+gust,Gust,https://www.gust.com,profile,,,startup/funding profile platform; bot-walled; verified reachable 2026-09-19
+inc42,Inc42,https://inc42.com,press,,,startup-submission editorial path; verified live 2026-09-19
+killerstartups,KillerStartups,https://killerstartups.com,press,,,submit-startup path; verified live 2026-09-19
+makeuseof,MakeUseOf,https://www.makeuseof.com,press,,,editorial coverage; verified live 2026-09-19
+microsaasexamples,Micro SaaS Examples,https://www.microsaasexamples.com,saas-directory,,,verified live 2026-09-19
+netted,Netted,https://www.netted.net,press,,,contact-us editorial path; verified live 2026-09-19
+nextbigwhat,Next Big What,https://nextbigwhat.com,press,,,"STALE — now a Substack newsletter, 2026-09-19"
+preapps,PreApps,https://www.preapps.com,review,,,app marketing/review platform; verified live 2026-09-19
+saasrow,SaaSRow,https://saasrow.com,saas-directory,,,verified live 2026-09-19
+saijogeorge-tools,Saijo George Tools List,https://saijogeorge.com/best-marketing-tools/,general-directory,,,marketing tools list; verified live 2026-09-19
+simplelister,Simple Lister,https://simplelister.com,saas-directory,,,"DEAD — chrome-error on load, 2026-09-19"
+similarsitesearch,SimilarSiteSearch,https://www.similarsitesearch.com,general-directory,,,verified live 2026-09-19
+snapmunk,SnapMunk,https://www.snapmunk.com,press,,,submit-your-startup path; bot-walled; verified reachable 2026-09-19
+softwareadvice,Software Advice,https://www.softwareadvice.com,review,,,Gartner Digital Markets portal (shared w/ Capterra/GetApp); verified 2026-09-19
+starterstory,Starter Story,https://starterstory.com,community,,,founder-story platform; verified live 2026-09-19
+startup88,Startup88,https://startup88.com,press,,,verified live 2026-09-19
+startupbeat,Startup Beat,https://startupbeat.com,press,,,featured-startup pitch guidelines; verified live 2026-09-19
+startupbenchmarks,Startup Benchmarks,https://www.startupbenchmarks.com,general-directory,,,verified live 2026-09-19
+startups-gallery,Startups Gallery,https://startups.gallery,general-directory,,,verified live 2026-09-19
+stateoftech,State of Tech,https://stateoftech.net,review,,,"DEAD — chrome-error on load, 2026-09-19"
+tapscape,Tapscape,https://www.tapscape.com,review,,,app reviews; verified live 2026-09-19
+thataicollection,AI Collection,https://www.thataicollection.com,ai-directory,,,verified live 2026-09-19
+thetechmap,The Tech Map,https://thetechmap.com,general-directory,,,verified live 2026-09-19
+techpluto,Tech Pluto,https://www.techpluto.com,press,,,submit-a-startup path; verified live 2026-09-19
+vator,Vator,https://www.vator.tv,community,,,"STALE — redirects to vatortv.substack.com, 2026-09-19"
+webapprater,Web App Rater,https://webapprater.com,review,,,submit-your-web-application path; verified live 2026-09-19
+websitehunt,Website Hunt,https://www.websitehunt.co,general-directory,,,verified live 2026-09-19
+reddit-alphaandbetausers,r/AlphaandBetausers,https://www.reddit.com/r/alphaandbetausers/,community,,,subreddit; same Reddit auth + self-promo rules
+reddit-buildinpublic,r/buildinpublic,https://www.reddit.com/r/buildinpublic/,community,,,subreddit; build-in-public posts welcome
+reddit-coupons,r/Coupons,https://www.reddit.com/r/coupons/,community,,,subreddit; deals only — probably wrong fit
+reddit-designcritiques,r/Design_Critiques,https://www.reddit.com/r/design_critiques/,community,,,subreddit; design feedback posts
+reddit-entrepreneur,r/Entrepreneur,https://www.reddit.com/r/entrepreneur/,community,,,subreddit; strict self-promo rules
+reddit-ridealong,r/EntrepreneurRideAlong,https://www.reddit.com/r/EntrepreneurRideAlong/,community,,,subreddit; founder journey posts
+reddit-imadethis,r/IMadeThis,https://www.reddit.com/r/imadethis/,community,,,subreddit; show-what-you-made posts
+reddit-indiebiz,r/IndieBiz,https://www.reddit.com/r/indiebiz/,community,,,subreddit; indie business threads
+reddit-indiehackers,r/indiehackers,https://www.reddit.com/r/indiehackers/,community,,,subreddit
+reddit-ladybusiness,r/LadyBusiness,https://www.reddit.com/r/ladybusiness/,community,,,subreddit; women founders
+reddit-microsaas,r/microsaas,https://www.reddit.com/r/microsaas/,community,,,subreddit; micro-SaaS makers
+reddit-plugyourproduct,r/plugyourproduct,https://www.reddit.com/r/plugyourproduct/,community,,,subreddit; self-promo allowed
+reddit-roastmystartup,r/RoastMyStartup,https://www.reddit.com/r/roastmystartup/,community,,,subreddit; feedback-request posts
+reddit-shamelessplug,r/shamelessplug,https://www.reddit.com/r/shamelessplug/,community,,,subreddit; self-promo allowed
+reddit-smallbusiness,r/SmallBusiness,https://www.reddit.com/r/smallbusiness/,community,,,subreddit; strict self-promo rules
+reddit-startups,r/Startups,https://www.reddit.com/r/startups/,community,,,subreddit; strict self-promo rules
+reddit-thesidehustle,r/thesidehustle,https://www.reddit.com/r/thesidehustle/,community,,,subreddit

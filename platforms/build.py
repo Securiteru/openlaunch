@@ -11,6 +11,7 @@ Usage:
     python3 platforms/build.py --force    # regenerate ALL stubs (destroys edits)
 """
 import csv
+import datetime
 import json
 import sys
 from pathlib import Path
@@ -88,17 +89,54 @@ def render(row):
     )
 
 
+STATUSES = {
+    "researched", "ready", "submitted", "pending-review",
+    "live", "rejected", "paid-blocked", "skipped",
+}
+
+LISTING_KEYS = {"platform", "product", "status", "notes", "evidence",
+                "listing_url", "updated_at", "next_action"}
+
+
 def check():
+    errors = []
     rows = load_platforms()
     slugs = [r["slug"] for r in rows]
-    assert len(slugs) == len(set(slugs)), "duplicate slugs in platforms.csv"
+    if len(slugs) != len(set(slugs)):
+        errors.append("duplicate slugs in platforms.csv")
     for r in rows:
         for field in ("slug", "name", "url", "category"):
-            assert r[field].strip(), f"{r['slug'] or 'row'}: empty {field}"
-    json.loads(TRACKER_DATA.read_text(encoding="utf-8"))
+            if not r[field].strip():
+                errors.append(f"{r['slug'] or 'row'}: empty {field}")
+        if not r["url"].startswith(("https://", "http://")):
+            errors.append(f"{r['slug']}: url not http(s)")
+
+    data = json.loads(TRACKER_DATA.read_text(encoding="utf-8"))
+    known = set(slugs)
+    for i, l in enumerate(data.get("listings", [])):
+        where = f"listing[{i}] ({l.get('platform', '?')})"
+        if missing_keys := LISTING_KEYS - set(l):
+            errors.append(f"{where}: missing keys {sorted(missing_keys)}")
+        if l.get("status") not in STATUSES:
+            errors.append(f"{where}: bad status {l.get('status')!r}")
+        if l.get("platform") not in known:
+            errors.append(f"{where}: platform not in platforms.csv")
+        try:
+            datetime.date.fromisoformat(str(l.get("updated_at", "")))
+        except ValueError:
+            errors.append(f"{where}: updated_at not ISO date")
+        if l.get("status") == "live" and not l.get("listing_url"):
+            errors.append(f"{where}: live without listing_url")
+
     missing = [s for s in slugs if not (PLAYBOOK_DIR / f"{s}.md").exists()]
-    print(f"platforms: {len(rows)} | playbooks missing: {len(missing)} | tracker: OK")
-    return 0
+    for s in missing:
+        errors.append(f"playbook missing: {s}")
+
+    for e in errors:
+        print(f"ERROR {e}")
+    print(f"platforms: {len(rows)} | playbooks missing: {len(missing)} | "
+          f"listings: {len(data.get('listings', []))} | errors: {len(errors)}")
+    return 1 if errors else 0
 
 
 def main():
