@@ -7,7 +7,7 @@ labels: platform
 
 **URL:** <!-- https://... — must load today -->
 
-**Category:** <!-- launch | ai-directory | saas-directory | review | community | profile | marketplace | design -->
+**Category:** <!-- launch | ai-directory | saas-directory | dev-directory | general-directory | review | press | community | profile | marketplace | design -->
 
 **Submission path observed:**
 <!-- What did the actual submit/register page look like? Free/paid? Account needed? -->

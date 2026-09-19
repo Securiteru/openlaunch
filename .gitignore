@@ -6,3 +6,6 @@ __pycache__/
 # products/*/brief.md
 # products/*/assets/
 .gbrain-source
+
+# Saved pages from scripts/verify.py --save-evidence
+tracker/evidence/

@@ -114,10 +114,15 @@ def check():
     data = json.loads(TRACKER_DATA.read_text(encoding="utf-8"))
     known = set(slugs)
     products = {p.get("slug") for p in data.get("products", [])}
+    seen_pairs = set()
     for i, l in enumerate(data.get("listings", [])):
         where = f"listing[{i}] ({l.get('platform', '?')})"
         if missing_keys := LISTING_KEYS - set(l):
             errors.append(f"{where}: missing keys {sorted(missing_keys)}")
+        pair = (l.get("platform"), l.get("product"))
+        if pair in seen_pairs:
+            errors.append(f"{where}: duplicate listing for platform/product {pair}")
+        seen_pairs.add(pair)
         if l.get("status") not in STATUSES:
             errors.append(f"{where}: bad status {l.get('status')!r}")
         if l.get("platform") not in known:

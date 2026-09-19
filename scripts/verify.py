@@ -16,6 +16,7 @@ under tracker/evidence/ for the record.
 import argparse
 import re
 import sys
+import urllib.error
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
@@ -46,12 +47,11 @@ def main() -> int:
 
     try:
         status, html = fetch(args.url)
+    except urllib.error.HTTPError as e:
+        print(f"FAIL {args.url} — HTTP {e.code}")
+        return 1
     except Exception as e:  # noqa: BLE001 — report, never guess
         print(f"FAIL {args.url} — fetch error: {e}")
-        return 1
-
-    if status >= 400:
-        print(f"FAIL {args.url} — HTTP {status}")
         return 1
 
     found = args.name.lower() in visible_text(html).lower()

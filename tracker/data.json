@@ -600,16 +600,6 @@
       "next_action": "dry-run form / request account approval"
     },
     {
-      "platform": "producthunt",
-      "product": "demo",
-      "status": "researched",
-      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
-      "evidence": "",
-      "listing_url": "",
-      "updated_at": "2026-09-19",
-      "next_action": "dry-run form / request account approval"
-    },
-    {
       "platform": "productwatch",
       "product": "demo",
       "status": "skipped",

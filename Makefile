@@ -1,6 +1,6 @@
 PY ?= python3
 
-.PHONY: playbooks serve check help
+.PHONY: playbooks serve check verify help
 
 help:
 	@echo "make playbooks  - generate stubs for platforms missing one"
