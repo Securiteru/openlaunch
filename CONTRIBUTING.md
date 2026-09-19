@@ -23,7 +23,8 @@ Only mark fields verified when they were directly observed. Keep
 1. Add a row to `platforms/platforms.csv`:
    `slug,name,url,category,product_url_pattern,badge,notes`
    - `category`: `launch` | `ai-directory` | `saas-directory` |
-     `dev-directory` | `general-directory`
+     `dev-directory` | `general-directory` | `review` | `community` |
+     `profile` | `marketplace` | `design`
    - `product_url_pattern`: the public listing URL shape with `{slug}`
      (e.g. `https://example.com/item/{slug}`) — leave empty if unknown
    - `badge`: `img` | `img-remote` | `text` — what the platform offers for

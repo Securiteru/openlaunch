@@ -76,3 +76,53 @@ uno-directory,Uno Directory,https://uno.directory,general-directory,,img,
 vibe-coding,Vibe Coding,https://www.vibe-coding.cloud/,ai-directory,,img,outbound link is nofollow
 webspot,Webspot,https://webspot.app,saas-directory,,img,
 wired-business,Wired Business,https://wired.business,general-directory,,img,
+uneed,Uneed,https://uneed.best,launch,,,open-form submit; free (favors.dev atlas)
+launching-next,Launching Next,https://launchingnext.com,launch,,,email submission; free (favors.dev atlas)
+pitchwall,PitchWall,https://pitchwall.co,launch,,,account required (favors.dev atlas)
+betalist,BetaList,https://betalist.com,launch,,,free queue is slow; paid skips (backlinkbot)
+crunchbase,Crunchbase,https://www.crunchbase.com,profile,,,nofollow; permanent profile anchor
+betapage,BetaPage,https://betapage.co,launch,,,account required (favors.dev atlas)
+peerpush,PeerPush,https://peerpush.net,launch,,,account required (favors.dev atlas)
+open-launch,Open Launch,https://open-launch.com,launch,,,account required (favors.dev atlas)
+startup-inspire,Startup Inspire,https://startupinspire.com,launch,,,account required (favors.dev atlas)
+what-launched-today,What Launched Today,https://whatlaunched.today,launch,,,account required (favors.dev atlas)
+tinylaunch,TinyLaunch,https://tinylaun.ch,launch,,,dofollow; freemium (backlinkbot)
+10words,10words,https://10words.io,launch,,,hand-vetted (favors.dev atlas)
+eu-startups,EU-Startups,https://eu-startups.com,general-directory,,,hand-vetted (favors.dev atlas)
+startup-ranking,Startup Ranking,https://startupranking.com,general-directory,,,hand-vetted (favors.dev atlas)
+microlaunch,MicroLaunch,https://microlaunch.net,launch,,,dofollow; freemium (backlinkbot)
+noonlaunch,NoonLaunch,https://noonlaunch.com,launch,,,
+uplyst,Uplyst,https://uplyst.app,launch,,,free 7-day listing; paid features
+wonderlaunch,Wonderlaunch,https://wonderlaunch.app,launch,,,solo-founder focused; capped daily slots
+favors-dev,Favors.dev,https://favors.dev,launch,,,directory + launches + leaderboard
+firsto,Firsto,https://firsto.co,saas-directory,,,
+dang-ai,Dang.ai,https://dang.ai,ai-directory,,,account required (favors.dev atlas)
+toolify,Toolify,https://toolify.ai,ai-directory,,,paid (favors.dev atlas)
+futurepedia,Futurepedia,https://futurepedia.io,ai-directory,,,paid (favors.dev atlas)
+acid-tools,Acid Tools,https://acidtools.com,ai-directory,,,account required (favors.dev atlas)
+theresanaiforthat,There's An AI For That,https://theresanaiforthat.com,ai-directory,,,open form; free; vetted (favors.dev atlas)
+alternativeto,AlternativeTo,https://alternativeto.net,review,,,nofollow; open form (favors.dev atlas)
+g2,G2,https://www.g2.com,review,,,nofollow; freemium; review site
+capterra,Capterra,https://www.capterra.com,review,,,hand-vetted (favors.dev atlas)
+crozdesk,Crozdesk,https://crozdesk.com,review,,,dofollow; freemium (backlinkbot)
+softwaresuggest,SoftwareSuggest,https://www.softwaresuggest.com,review,,,account required (favors.dev atlas)
+slant,Slant,https://slant.co,review,,,nofollow; free (backlinkbot)
+saasworthy,SaaSworthy,https://saasworthy.com,review,,,dofollow; freemium (backlinkbot)
+devhunt,DevHunt,https://devhunt.org,dev-directory,,,dofollow; free; dev tools only (backlinkbot)
+openalternative,OpenAlternative,https://openalternative.co,dev-directory,,,account required (favors.dev atlas)
+indie-dev-tools,Indie Dev Tools,https://indiedev.tools,dev-directory,,,account required (favors.dev atlas)
+stackshare,StackShare,https://stackshare.io,dev-directory,,,nofollow; free (backlinkbot)
+dev-community,DEV Community,https://dev.to,community,,,community post not a listing; dofollow per firsto
+github,GitHub,https://github.com,profile,,,org/repo homepage link; only if open-source
+land-book,Land-book,https://land-book.com,design,,,paid (favors.dev atlas)
+lapa-ninja,Lapa Ninja,https://lapa.ninja,design,,,hand-vetted (favors.dev atlas)
+saashub,SaaSHub,https://www.saashub.com,saas-directory,,,dofollow; free (backlinkbot)
+saas-browser,SaaS Browser,https://saasbrowser.com,saas-directory,,,account required (favors.dev atlas)
+startup-stash,Startup Stash,https://startupstash.com,saas-directory,,,dofollow; freemium (backlinkbot)
+appsumo,AppSumo,https://appsumo.com,marketplace,,,deals marketplace not a listing; rev-share economics
+sourceforge,SourceForge,https://sourceforge.net,dev-directory,,,dofollow; freemium; downloadable software
+wellfound,Wellfound,https://wellfound.com,profile,,,nofollow; free; company profile
+hacker-news,Hacker News (Show HN),https://news.ycombinator.com,community,,,Show HN post; strict self-promo norms
+indie-hackers,Indie Hackers,https://www.indiehackers.com,community,,,community post not a listing
+peerlist,Peerlist,https://peerlist.io,community,,,Launchpad; dofollow; free (backlinkbot)
+f6s,F6S,https://www.f6s.com,profile,,,nofollow; free; hand-vetted (favors.dev atlas)
