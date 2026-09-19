@@ -15,7 +15,7 @@ and anything public.
 | Piece | Path | What it does |
 |---|---|---|
 | Platform playbooks | `platforms/playbooks/` | Per-platform submission guide: prep, steps, known hurdles, confirmation signals. Living docs — your agent writes back what it learns. |
-| Registry | `platforms/platforms.csv` | 176 seeded platforms: launch sites, AI-tool directories, SaaS/dev directories, review sites, communities, profiles — including product-page URL patterns and submission mechanics where known. |
+| Registry | `platforms/platforms.csv` | 178 seeded platforms: launch sites, AI-tool directories, SaaS/dev directories, review sites, communities, profiles — including product-page URL patterns and submission mechanics where known. |
 | Product brief | `brief/product-brief.template.md` | Every fact, approved claim, description length, and asset in one place. The agent never invents copy. |
 | Selection rubric | `docs/selection.md` | Score platforms by fit, audience, link value, effort, and cost before spending submissions. |
 | Local tracker | `tracker/` | A static dashboard + `data.json` the agent maintains: submitted vs. pending vs. live, with evidence links. `make serve` → localhost:8420. |
@@ -54,15 +54,21 @@ action.
 
 ## Status and honest scope
 
-- **176 platforms seeded.** The registry combines three public sources: a
+- **178 platforms seeded.** The registry combines three public sources: a
   shipping product's badge wall (77 sites), the favors.dev atlas and DR-ranked
   roundups (50), and LaunchRepo's public directory catalog (49 — profiled
   platforms plus catalog teasers). Every seed domain was checked live
-  2026-09-18/19; a handful of teaser-derived domains are marked unconfirmed in
-  `notes`. Playbook fields start `UNVERIFIED` and become accurate as agents
-  verify them on real submissions. LaunchRepo claims 347 platforms — only ~97
+  2026-09-18/19; dead/parked domains are marked `DEAD` in `notes`.
+  LaunchRepo claims 347 platforms — only ~97
   are publicly named on its site; our coverage overlaps but does not copy
   their (paid) playbook content.
+- **All 178 playbooks carry field-level recon (2026-09-19).** Every platform's
+  register / sign-in / submit entry point was opened in a real browser and the
+  pre-auth state recorded: visible fields, OAuth providers, CAPTCHA type,
+  pricing lanes, backlink requirements, redirects, and dead domains — see
+  `docs/recon-notes.md` for the consolidated summary and the four shared
+  codebase families identified. No accounts were created and no forms were
+  submitted during recon; fields behind login remain `UNVERIFIED`.
 - **66 playbooks carry real field data.** LaunchRepo's public platform
   profiles and field guides were harvested (`platforms/harvest_launchrepo.py`)
   into a `## Field observations` section per playbook — dated observations,

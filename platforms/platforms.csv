@@ -81,7 +81,7 @@ launching-next,Launching Next,https://launchingnext.com,launch,,,email submissio
 pitchwall,PitchWall,https://pitchwall.co,launch,,,account required (favors.dev atlas)
 betalist,BetaList,https://betalist.com,launch,,,free queue is slow; paid skips (backlinkbot)
 crunchbase,Crunchbase,https://www.crunchbase.com,profile,,,nofollow; permanent profile anchor
-betapage,BetaPage,https://betapage.co,launch,,,account required (favors.dev atlas)
+betapage,BetaPage,https://betapage.co,launch,,,REDIRECTS 2026-09-19 — betapage.co → pitchwall.co (same operator)
 peerpush,PeerPush,https://peerpush.com,launch,,,account required (favors.dev atlas)
 open-launch,Open Launch,https://open-launch.com,launch,,,account required (favors.dev atlas)
 startup-inspire,Startup Inspire,https://startupinspire.com,launch,,,account required (favors.dev atlas)
@@ -92,8 +92,8 @@ eu-startups,EU-Startups,https://eu-startups.com,general-directory,,,hand-vetted 
 startup-ranking,Startup Ranking,https://startupranking.com,general-directory,,,hand-vetted (favors.dev atlas)
 microlaunch,MicroLaunch,https://microlaunch.net,launch,,,dofollow; freemium (backlinkbot)
 noonlaunch,NoonLaunch,https://noonlaunch.com,launch,,,
-uplyst,Uplyst,https://uplyst.app,launch,,,free 7-day listing; paid features
-wonderlaunch,Wonderlaunch,https://wonderlaunch.app,launch,,,solo-founder focused; capped daily slots
+uplyst,Uplyst,https://uplyst.app,launch,,,DEAD 2026-09-19 — domain parked (GoDaddy for-sale)
+wonderlaunch,Wonderlaunch,https://wonderlaunch.app,launch,,,DEAD 2026-09-19 — domain parked (GoDaddy for-sale)
 favors-dev,Favors.dev,https://favors.dev,launch,,,directory + launches + leaderboard
 firsto,Firsto,https://firsto.co,saas-directory,,,
 dang-ai,Dang.ai,https://dang.ai,ai-directory,,,account required (favors.dev atlas)
@@ -134,13 +134,13 @@ bowora,Bowora,https://bowora.com,launch,,,formerly Best of Web (bestofweb.site)
 aat-ee,aat.ee,https://aat.ee,launch,,,startup + AI tool discovery
 buildvoyage,BuildVoyage,https://buildvoyage.com,saas-directory,,,curated micro-SaaS directory
 builtbyindies,BuiltByIndies,https://builtbyindies.com,launch,,,indie product launches
-businesshunt,BusinessHunt,https://businesshunt.com,launch,,,domain responds; exact platform unconfirmed
+businesshunt,BusinessHunt,https://businesshunt.com,launch,,,DEAD 2026-09-19 — domain parked (GoDaddy for-sale)
 futuretools,Future Tools,https://futuretools.io,ai-directory,,,launchrepo profile
 ai-agent-store,AI Agent Store,https://aiagentstore.ai,ai-directory,,,
 ai-center,AI Center,https://aicenter.ai,ai-directory,,,
 ai-kaptan,AI KAPTAN,https://aikaptan.com,ai-directory,,,
 ai-parabellum,AI Parabellum,https://aiparabellum.com,ai-directory,,,
-ai-pulse,AI Pulse,https://aipulse.net,ai-directory,,,domain responds; exact platform unconfirmed
+ai-pulse,AI Pulse,https://aipulse.net,ai-directory,,,DEAD 2026-09-19 — domain parked (GoDaddy for-sale)
 alphadigits,AlphaDigits,https://alphadigits.com,review,,,mobile app reviews
 alternative-me,alternative.me,https://alternative.me,saas-directory,,,
 alternative-tools,Alternative.tools,https://alternative.tools,saas-directory,,,
@@ -149,7 +149,7 @@ backlinkforme,Backlinkforme,https://backlinkforme.com,saas-directory,,,domain re
 boilerplatelist,BoilerplateList,https://boilerplatelist.com,dev-directory,,,boilerplate catalog
 appvizer,Appvizer,https://www.appvizer.com,review,,,FR/EU software reviews
 business-software,Business-Software.com,https://business-software.com,review,,,
-cabinetm,CabinetM,https://cabinetm.com,review,,,martech stacks; domain responds — verify
+cabinetm,CabinetM,https://cabinetm.com,review,,,DEAD 2026-09-19 — domain redirects to unrelated Canva site
 comparasoftware,ComparaSoftware,https://comparasoftware.com,review,,,LATAM software reviews
 cuspera,Cuspera,https://cuspera.com,review,,,
 discovercloud,DiscoverCloud,https://www.discovercloud.com,review,,,
