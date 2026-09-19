@@ -40,3 +40,34 @@ UNVERIFIED
 ## Notes
 paid (favors.dev atlas)
 
+
+## Field observations
+Source: LaunchRepo public field guide (https://launchrepo.dev/directories/futurepedia/), observed unknown.
+
+Futurepedia is an AI tool directory with courses, a newsletter and a YouTube network around it; its about page says it joined HubSpot Media in April 2026 and that the site’s terms move to HubSpot’s website terms. The homepage groups its tools into ten categories — business, productivity, image, video, art, audio, text, code, automation and misc.
+
+Checked on September 17, 2026 on the platform’s public pages.
+
+### Who lists here
+
+Commercial AI products aimed at professionals at work; the submit page talks about tools for work and an audience it puts at over 400k proactive professionals a month, and every submission goes through editorial approval.
+
+### What to prepare
+
+A budget: the submit page shows Basic Listing at $247 marked sold out and Verified Listing at $497 as a one-time fee, plus enterprise packages priced on request.
+Listing material — the Verified tier lists an enhanced listing page and a verified check mark; both tiers list the option of a video on your page and tutorial placement if you supply one.
+Nothing free: the FAQ says free submissions are no longer offered, and the submit page warns that tools may be denied or removed if their features are deemed inappropriate for the audience.
+
+### What “live” means here
+
+Live means your tool resolves at /tool/<slug> inside its categories, with bookmarks and user reviews attached. The verified tier states publication within two business days; later changes go through an update form and generally take two to three business days.
+
+### Worth knowing
+
+The FAQ is blunt that traffic depends on category and engagement and that no numbers are promised; it suggests asking your users to review and bookmark the listing. Refunds only exist before acceptance — once a tool is published, the fee stays with them.
+Official site: Futurepedia ↗All ai tool directories →
+Short profile from the platform’s public pages, not a submission service. Rules, prices and requirements change — recheck before you submit. LaunchRepo makes no publication, backlink or ranking promise.
+
+###
+
+Submission entry: https://www.futurepedia.io/

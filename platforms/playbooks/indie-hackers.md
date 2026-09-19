@@ -40,3 +40,34 @@ UNVERIFIED
 ## Notes
 community post not a listing
 
+
+## Field observations
+Source: LaunchRepo public field guide (https://launchrepo.dev/directories/indiehackers/), observed unknown.
+
+Indie Hackers is a community of founders sharing revenue and stories, founded in 2016, owned by Stripe from 2017 and independent again since 2023. Beside the forum it runs a products database where each entry shows self-reported monthly revenue, and a daily “Build Board” leaderboard of build-in-public posts.
+
+Checked on September 17, 2026 on the platform’s public pages.
+
+### Who lists here
+
+Founders who will actually post — updates, questions, feedback for others. The about page says the site is for people making money independently, and a product entry with no story behind it sits unread.
+
+### What to prepare
+
+A free account; the new-post route and the full products directory both require sign-in.
+A product entry with name, tagline, category, business model and a revenue figure you are willing to publish, since the database shows it as “self-reported revenue”.
+A first post or update — the Build Board takes daily votes on posts, and the newsletter is compiled from what the community upvotes.
+
+### What “live” means here
+
+Live means your product appears in the products database under /product/<slug>/ and your posts resolve under /post/. There is no review queue mentioned publicly; a post is live the moment it is published.
+
+### Worth knowing
+
+The founder’s own FAQ says direct emails get pointed back to the site — the community is the channel. Revenue figures are public and comparable, so decide what you are comfortable disclosing before you add a product.
+Official site: Indie Hackers ↗All communities →
+Short profile from the platform’s public pages, not a submission service. Rules, prices and requirements change — recheck before you submit. LaunchRepo makes no publication, backlink or ranking promise.
+
+###
+
+Submission entry: https://www.indiehackers.com/

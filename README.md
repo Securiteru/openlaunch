@@ -63,6 +63,13 @@ action.
   verify them on real submissions. LaunchRepo claims 347 platforms — only ~97
   are publicly named on its site; our coverage overlaps but does not copy
   their (paid) playbook content.
+- **66 playbooks carry real field data.** LaunchRepo's public platform
+  profiles and field guides were harvested (`platforms/harvest_launchrepo.py`)
+  into a `## Field observations` section per playbook — dated observations,
+  submission entry URLs, eligibility gates, and confirmation criteria, with
+  source attribution. Example: BetaList is paid-only and rejects subdomain
+  sites; Uneed free accounts hold one pending launch; Fazier requires DR > 0
+  plus badge plus community comments.
 - **Not affiliated with LaunchRepo or any listed platform.** This is an
   independent re-implementation of the toolkit concept; all content is
   original or community-contributed.

@@ -40,3 +40,34 @@ UNVERIFIED
 ## Notes
 nofollow; open form (favors.dev atlas)
 
+
+## Field observations
+Source: LaunchRepo public field guide (https://launchrepo.dev/directories/alternativeto/), observed unknown.
+
+AlternativeTo is a crowd-sourced catalog of software alternatives across Windows, Mac, Linux, iOS, Android and the web. The homepage counts more than 150,000 apps ranked by more than two million user opinions.
+
+Checked on September 17, 2026 on the platform’s public pages.
+
+### Who lists here
+
+Products that are a clear alternative to something people already search for. The value comes from being listed next to the incumbent, not from a launch day.
+
+### What to prepare
+
+A user account — the site asks you to sign up to help others find great apps.
+The names of the established products yours replaces, so the entry can be attached as an alternative.
+Patience: the add-app URL is not public for logged-out visitors, and the pages show no review timeline anywhere.
+
+### What “live” means here
+
+Live means a resolving page at alternativeto.net/software/<name>/ that is listed under at least one alternative or category. Community likes decide ranking over time; an entry with no opinions is live but invisible.
+
+### Worth knowing
+
+An “Official Partner” badge appears on some apps without published criteria; do not plan for it. Keep the description factual — the catalog is moderated by the crowd, and the homepage pushes browsing traffic through lists such as Most Viewed Apps and Crew Picks rather than through new entries.
+Official site: AlternativeTo ↗All software and tool directories →
+Short profile from the platform’s public pages, not a submission service. Rules, prices and requirements change — recheck before you submit. LaunchRepo makes no publication, backlink or ranking promise.
+
+###
+
+Submission entry: https://alternativeto.net/

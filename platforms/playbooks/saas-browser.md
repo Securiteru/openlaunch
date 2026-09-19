@@ -40,3 +40,34 @@ UNVERIFIED
 ## Notes
 account required (favors.dev atlas)
 
+
+## Field observations
+Source: LaunchRepo public field guide (https://launchrepo.dev/directories/saasbrowser/), observed unknown.
+
+SaaS Browser is a very large software database — over half a million SaaS products across more than 550 categories, updated daily by crawling. Only a few thousand profiles are marked verified; the rest are auto-discovered.
+
+Checked on September 17, 2026 on the platform’s public pages.
+
+### Who lists here
+
+SaaS companies that may already be in the database and want to claim and complete their profile, plus new products that want a category entry with pricing and description.
+
+### What to prepare
+
+A free account — the Add Your SaaS link redirects to sign-up (email, Google, X or GitHub) before anything else.
+Category, a short description and a starting price, which is what verified profile cards display.
+A check whether your product was already crawled, so that you claim the existing entry instead of creating a duplicate.
+
+### What “live” means here
+
+Live means your profile resolves publicly and, ideally, carries the verified mark and appears in Recently Verified Profiles. An auto-crawled entry exists without your input; claiming it is the actual work.
+
+### Worth knowing
+
+The site also runs founder case studies and funding news; those are editorial sections and are not part of the listing you control. Since the database is built by crawling, the fastest win is usually correcting an existing profile rather than filing a new one.
+Official site: SaaS Browser ↗All software and tool directories →
+Short profile from the platform’s public pages, not a submission service. Rules, prices and requirements change — recheck before you submit. LaunchRepo makes no publication, backlink or ranking promise.
+
+###
+
+Submission entry: https://saasbrowser.com/

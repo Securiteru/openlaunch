@@ -37,3 +37,34 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Field observations
+Source: LaunchRepo public field guide (https://launchrepo.dev/directories/thedevtoolsdir/), observed unknown.
+
+TheDevToolsDir is a curated directory of developer tools organised by what they do — CI/CD, monitoring, databases, auth, testing, hosting and so on — with a latest-products feed and a blog. The submit form needs no account: paste a URL to auto-fill, then complete the details.
+
+Checked on September 17, 2026 on the platform’s public pages.
+
+### Who lists here
+
+Makers of developer-facing tools who want a categorised entry fast, with a visible free path and a clearly priced paid one.
+
+### What to prepare
+
+Product name, tagline, description, a screenshot, up to three categories, tags and an email for listing updates.
+A plan: Free (one link, badge required, listed immediately if the badge verifies, otherwise reviewed within seven days), Paid at $19 one-time (featured, no badge) or Multiple Listings at $29 one-time (also published on TheSaaSDir).
+For the free tier, the badge HTML on your site before you hit “verify badge”.
+
+### What “live” means here
+
+Live means your product resolves under /product/<slug>/ and appears in its categories. A free submission without a verified badge is pending until the seven-day review; paid plans list immediately.
+
+### Worth knowing
+
+The pricing FAQ covers what happens if you remove the badge — read it before relying on the free tier. The site advertises link counts; check the actual link on your live page rather than copying the number.
+Official site: TheDevToolsDir ↗All software and tool directories →
+Short profile from the platform’s public pages, not a submission service. Rules, prices and requirements change — recheck before you submit. LaunchRepo makes no publication, backlink or ranking promise.
+
+###
+
+Submission entry: https://thedevtoolsdir.com/

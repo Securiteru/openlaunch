@@ -40,3 +40,34 @@ UNVERIFIED
 ## Notes
 dofollow; free; dev tools only (backlinkbot)
 
+
+## Field observations
+Source: LaunchRepo public field guide (https://launchrepo.dev/directories/devhunt/), observed unknown.
+
+Dev Hunt is an open-source launch platform for developer tools built by John Rush and contributors, with its repository public on GitHub. Launches are grouped into weeks with a countdown to the vote closing, and every tool page shows upvotes, impressions and the rank for that week. Tools are tagged free, subscription or one-time fee and filed under fixed categories.
+
+Checked on September 17, 2026 on the platform’s public pages.
+
+### Who lists here
+
+Makers of open-source tools, APIs and SDKs, frameworks and libraries, IDEs, testing and monitoring tools — the list the About page gives. Voting and commenting need a GitHub or Google login, which the login page says is there to filter out bots and fakes.
+
+### What to prepare
+
+A GitHub or Google account; the “Submit your Dev Tool” button leads to the login screen before any form.
+Tool name, a one-line description, categories from the fixed list, a pricing tag and a link — that is what a tool page displays.
+A launch week you can be present for: the About page says the average wait for a free launch is six months and sells a $49 option to skip the queue and pick a week.
+
+### What “live” means here
+
+Your tool first appears in the upcoming list with its date, then moves into the current week, where votes count until the countdown ends. Live means the /tool/ page is public and inside that week’s ranking, not that the launch is finished.
+
+### Worth knowing
+
+The About page says weekly winners get a newsletter feature, a social post, a winner badge and partner discounts. Homepage and newsletter ads are sold separately at $497 and $397, and the site notes that all paid packages are activated manually after purchase and can be refunded until then.
+Official site: Dev Hunt ↗All product launch platforms →
+Short profile from the platform’s public pages, not a submission service. Rules, prices and requirements change — recheck before you submit. LaunchRepo makes no publication, backlink or ranking promise.
+
+###
+
+Submission entry: https://devhunt.org/

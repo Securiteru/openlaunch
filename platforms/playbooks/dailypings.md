@@ -37,3 +37,34 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Field observations
+Source: LaunchRepo public field guide (https://launchrepo.dev/directories/dailypings/), observed unknown.
+
+DailyPings is a tools directory with a “newly launched” feed, monthly top-voted lists and a permanent page per tool. The about page counts 344 tools and 252 makers, and the model is simple: paste a URL, the site pre-fills name, tagline and thumbnail, and the listing publishes once its badge is found or after payment.
+
+Checked on September 17, 2026 on the platform’s public pages.
+
+### Who lists here
+
+Makers who want a permanent page without a launch day or queue — the pricing page calls it “no queue, no launch day to wait for”.
+
+### What to prepare
+
+An account: /submit redirects to sign-in.
+Name, tagline, screenshot and URL, plus a description and FAQ for the tool page.
+The badge on your homepage for the free tier, or the Premium tier shown at $19 one-time, which publishes instantly and needs no badge.
+
+### What “live” means here
+
+Live means your tool page resolves under /p/ and shows in the directory. Free listings go live only after the badge is verified; the about page says the badge is re-checked daily and a listing is removed if it is missing for two consecutive days, so keep the badge in place or note the removal risk in your tracker.
+
+### Worth knowing
+
+Free listings get 24 hours in “newly launched”, Premium seven days plus a newsletter mention. Weekly site sponsorship and newsletter sponsorship are separate paid products; a domain-rating figure on every page is the platform’s own claim, not something to copy into a report.
+Official site: DailyPings ↗All product launch platforms →
+Short profile from the platform’s public pages, not a submission service. Rules, prices and requirements change — recheck before you submit. LaunchRepo makes no publication, backlink or ranking promise.
+
+###
+
+Submission entry: https://dailypings.com/

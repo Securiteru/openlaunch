@@ -40,3 +40,27 @@ UNVERIFIED
 ## Notes
 account required (favors.dev atlas)
 
+
+## Field observations
+Source: LaunchRepo public field guide (https://launchrepo.dev/directories/pitchwall/), observed 2026-09-13.
+
+Review imported copy before sending a startup for moderation. The observed URL import needed corrections to the product name and description. The completed submission remained Under Review, with an estimate exceeding 30 days.
+Observed: 2026-09-13
+
+### Preparation
+
+Prepare a complete personal profile, product URL, logo and screenshot. Review login consent and newsletter requirements before proceeding; stop if mandatory consent exceeds your authorization.
+
+### Workflow
+
+Save the profile, inspect the available plan and import the product URL. Replace invented or inaccurate generated text, choose relevant tags and upload real assets. Reopen edited fields to confirm they persisted before Submit for Review.
+
+### Watch for
+
+Some profile fields appeared edited but did not save until native input was used. A long review estimate is not a deadline or guarantee. Check existing records before treating an older directory brand as a new opportunity.
+
+### What counts as confirmation
+
+Record submitted_pending_review only after Under Review is confirmed. Retain the next review date privately and check the existing submission rather than sending a duplicate.
+
+Submission entry: https://pitchwall.co/submit

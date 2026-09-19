@@ -37,3 +37,34 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Field observations
+Source: LaunchRepo public field guide (https://launchrepo.dev/directories/startuptrusted/), observed unknown.
+
+StartupTrusted presents itself as a database of verified startups with Featured Startups and Recent Listings sections. Each entry has a name, logo and short description and its own page under /startup/.
+
+Checked on September 17, 2026 on the platform’s public pages.
+
+### Who lists here
+
+Founders who want a simple, permanent startup profile with a public URL and are not looking for a dated launch or vote competition.
+
+### What to prepare
+
+A Google or email sign-in — the /submit page shows the login gate before any form.
+Name, logo and a one-paragraph description, the fields visible on existing entries.
+Awareness that a Pricing link exists on the submit page, although no prices are shown to logged-out visitors, so budget for the possibility of a paid tier.
+
+### What “live” means here
+
+Live means a resolving page at startuptrusted.com/startup/<slug> that also appears in Recent Listings. The “verified” and “Featured” labels have no published criteria, so do not record either as an outcome.
+
+### Worth knowing
+
+The site shows a domain-rating badge on its own pages; that is a claim about the platform, not a promise about your listing. Because the whole submission flow sits behind a login, plan for a session where your agent can drive a logged-in browser rather than a single form post.
+Official site: StartupTrusted ↗All product launch platforms →
+Short profile from the platform’s public pages, not a submission service. Rules, prices and requirements change — recheck before you submit. LaunchRepo makes no publication, backlink or ranking promise.
+
+###
+
+Submission entry: https://startuptrusted.com/

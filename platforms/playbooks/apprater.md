@@ -1,9 +1,9 @@
-# SaaSworthy
+# AppRater
 
 | | |
 |---|---|
-| Site | https://saasworthy.com |
-| Category | review |
+| Site | https://apprater.net |
+| Category | saas-directory |
 | Product page pattern | UNVERIFIED |
 | Cost | UNVERIFIED — check for paid tiers before submitting; pause before any payment |
 | Account required | UNVERIFIED |
@@ -38,36 +38,36 @@ loads with the product visible.
 UNVERIFIED
 
 ## Notes
-dofollow; freemium (backlinkbot)
+launchrepo profile
 
 
 ## Field observations
-Source: LaunchRepo public field guide (https://launchrepo.dev/directories/saasworthy/), observed unknown.
+Source: LaunchRepo public field guide (https://launchrepo.dev/directories/apprater/), observed unknown.
 
-SaaSworthy is a software comparison site with an SW Score, user ratings and curated collections across roughly 600 categories. Its makers section states that in-house experts research a product and list it for free.
+AppRater is an independent app archive running since 2011 with more than ten thousand entries across web, iOS, Android, Windows and macOS. Each app has a page under /a/ and the submission form sits at the bottom of the homepage.
 
 Checked on September 17, 2026 on the platform’s public pages.
 
 ### Who lists here
 
-B2B SaaS products that fit an existing category and want a scored comparison entry, with the option of a vendor portal for updates.
+Apps of any platform that want a simple archive entry without a launch day; there is no upvote race, only a bid-based leaderboard for approved apps.
 
 ### What to prepare
 
-Product name, category, pricing and a description the research team can verify from your site.
-A vendor portal login for later edits — the footer links a Vendor Portal with its own sign-in.
-Awareness that the Get Listed link in the footer currently resolves to a page showing the makers pitch rather than a form; a feedback address is published in the footer.
+App name, platform, app or store URL, description, your name and email; optional tags, image URL and X handle.
+No account is mentioned — the form asks only for a submitter name and email.
+A decision on the leaderboard bids ($5 per bid on the page), which apply only to an already approved app.
 
 ### What “live” means here
 
-Live means a product page with an SW Score and a spot in its category list; new products appear under Recently Added Software. No review timeline is published.
+The site states that every submission is reviewed before it appears in the archive. Live means a resolving page at apprater.net/a/<name>; there is no visible timeline for the review.
 
 ### Worth knowing
 
-The site is bot-protected, so open it in a normal browser session. Ratings come from users, which means a fresh listing shows an SW Score with no ratings behind it until you ask customers to review.
-Official site: SaaSworthy ↗All b2b software review sites →
+Leaderboard order is decided by total bids, with the newest bid winning ties — an optional paid layer, not part of the listing itself. Entries span web, iOS, Android, Windows and macOS, so pick the platform that matches the URL you submit.
+Official site: AppRater ↗All software and tool directories →
 Short profile from the platform’s public pages, not a submission service. Rules, prices and requirements change — recheck before you submit. LaunchRepo makes no publication, backlink or ranking promise.
 
 ###
 
-Submission entry: https://www.saasworthy.com/
+Submission entry: https://apprater.net/

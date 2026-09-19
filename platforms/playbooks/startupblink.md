@@ -40,3 +40,34 @@ UNVERIFIED
 ## Notes
 ecosystem map
 
+
+## Field observations
+Source: LaunchRepo public field guide (https://launchrepo.dev/directories/startupblink/), observed unknown.
+
+StartupBlink is primarily an ecosystem research company — a Global Startup Ecosystem Index, corporate rankings and reports — with a public startup map that lists more than 267,000 startups by city, industry and an SB Score.
+
+Checked on September 17, 2026 on the platform’s public pages.
+
+### Who lists here
+
+Startups that want a company-level profile tied to a city ecosystem rather than a product launch; useful where local ecosystem portals embed the StartupBlink map.
+
+### What to prepare
+
+Company name, city, industry and sub-industry, which is what map entries display.
+An account — the startups page shows an Add your startup control next to Login; the direct add URL is not public.
+Realistic expectations: browsing the full database and exporting data sit behind a Pro subscription, and the public list shows only the top entries.
+
+### What “live” means here
+
+Live means your company appears on the map and in the startups list with its SB Score. Rankings are computed by the platform; a new profile starts with whatever score its data yields.
+
+### Worth knowing
+
+This is a company profile, not a product page — do not create a company entry for a side project with no legal entity behind it. If your city has an ecosystem portal powered by StartupBlink, that embed is usually where the entry does its work.
+Official site: StartupBlink ↗All company and startup profiles →
+Short profile from the platform’s public pages, not a submission service. Rules, prices and requirements change — recheck before you submit. LaunchRepo makes no publication, backlink or ranking promise.
+
+###
+
+Submission entry: https://www.startupblink.com/

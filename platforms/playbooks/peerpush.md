@@ -40,3 +40,34 @@ UNVERIFIED
 ## Notes
 account required (favors.dev atlas)
 
+
+## Field observations
+Source: LaunchRepo public field guide (https://launchrepo.dev/directories/peerpush/), observed unknown.
+
+PeerPush is a product discovery board that publishes every product as a structured page for people and for AI assistants; the site says that data is read through an MCP server, a public API and search engines. Products compete for Product of the Day, Week and Month, decided at midnight UTC, and the feed ranks on engagement, ratings, freshness and PeerPush points rather than ad spend.
+
+Checked on September 17, 2026 on the platform’s public pages.
+
+### Who lists here
+
+Founders who will stick around: points come from upvoting, commenting, following, rating and visiting other people’s products, and they decay once you go quiet.
+
+### What to prepare
+
+An account and your product URL — the submit flow crawls your site and pre-fills name, description, categories, pricing and screenshots for you to correct.
+A tier decision: the free route waits in a publishing queue, Standard Launch is $39 one-time and publishes instantly, and the 7-day and 30-day promotions are listed at $89 and $229.
+Some community work: the FAQ says 400 or more user points from recent engagement can be redeemed for an immediate launch instead of paying.
+
+### What “live” means here
+
+Live means your product resolves at /p/<slug> inside the feed with upvotes, comments and ratings attached. The FAQ says published listings stay permanently, including the link to your site; the paid promotions add featured placement in the feeds for their 7 or 30 days on top of that.
+
+### Worth knowing
+
+Freshness counts in the score: relaunches, edits and changelog posts keep a product at full strength while dormant ones fade, so plan updates for after launch day. The pricing page also sells a directory submission service from $149 — that is a separate paid service, not part of the listing.
+Official site: PeerPush ↗All product launch platforms →
+Short profile from the platform’s public pages, not a submission service. Rules, prices and requirements change — recheck before you submit. LaunchRepo makes no publication, backlink or ranking promise.
+
+###
+
+Submission entry: https://peerpush.com/

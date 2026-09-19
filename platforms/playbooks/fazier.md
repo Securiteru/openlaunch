@@ -37,3 +37,27 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Field observations
+Source: LaunchRepo public field guide (https://launchrepo.dev/directories/fazier/), observed 2026-09-13.
+
+Treat eligibility checks as a decision gate. The observed Basic submission flow required community comments, a visible badge and an Ahrefs Domain Rating above zero. A product that fails a requirement should stop before attesting compliance.
+Observed: 2026-09-13
+
+### Preparation
+
+Prepare an English website and inspect the current eligibility checklist while signed in. Verify the actual domain in the named rating checker; do not substitute a different authority metric.
+
+### Workflow
+
+Open Submit and inspect the Basic route. Check whether the community requirement is already satisfied. Verify the domain rating and obtain the official badge markup only if you can meet the conditions.
+
+### Watch for
+
+Do not manufacture comments, assert a rating you have not verified or buy an upgrade under a zero-spend mandate. Publishing a badge is a website change that requires the site owner’s authorization.
+
+### What counts as confirmation
+
+Record blocked when the rating or badge condition is unmet. A completed checklist is only preparation: obtain the final submission confirmation before recording pending review.
+
+Submission entry: https://fazier.com/submit

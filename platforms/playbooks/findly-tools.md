@@ -37,3 +37,34 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Field observations
+Source: LaunchRepo public field guide (https://launchrepo.dev/directories/findly-tools/), observed unknown.
+
+Findly.tools is a curated directory for indie makers and SaaS founders, run by a single operator, with 3,600+ listings grouped by category, deals, a domain-rating leaderboard and a “places to submit” list of other directories. Its about page stresses reviewed listings, public pricing and no ad networks.
+
+Checked on September 17, 2026 on the platform’s public pages.
+
+### Who lists here
+
+Makers who want a permanent, reviewed page rather than a one-day launch spike — the site says so itself — and who are comfortable with a badge or a small one-time payment.
+
+### What to prepare
+
+A sign-in; the submit page states sign-in is required and that not every submission is accepted.
+Your URL, a description (Premium allows up to 2,500 characters) and a category.
+A tier: Free with the badge (unpublished after failed badge checks) or Premium at $29 one-time with no badge; the site also sells a human directory-submission service and a paid review article, which are separate products.
+
+### What “live” means here
+
+Live means your tool page resolves and appears in its category. Free listings depend on the badge staying up; the site says it unpublishes after failed checks, so a removed badge turns live back into pending.
+
+### Worth knowing
+
+The refund note is explicit: paid purchases are non-refundable, and ranking or domain-rating outcomes are not grounds for a refund. The site publishes llms.txt and markdown versions of its pages, which makes its rules easy for an agent to read.
+Official site: Findly.tools ↗All software and tool directories →
+Short profile from the platform’s public pages, not a submission service. Rules, prices and requirements change — recheck before you submit. LaunchRepo makes no publication, backlink or ranking promise.
+
+###
+
+Submission entry: https://findly.tools/

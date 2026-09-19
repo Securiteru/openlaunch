@@ -40,3 +40,34 @@ Platform provides an embeddable badge. Record the snippet in this file after the
 ## Notes
 product URL contains an opaque id
 
+
+## Field observations
+Source: LaunchRepo public field guide (https://launchrepo.dev/directories/huzzler/), observed unknown.
+
+Huzzler is a review site for software that founders buy, with hand-written reviews, direct comparisons and a Huzzler Score out of 5. Next to the reviews it runs a startup directory: founders can list a product, browse by category, and the site advertises featured and boosted placement once a listing is live.
+
+Checked on September 17, 2026 on the platform’s public pages.
+
+### Who lists here
+
+Founders of tools that fit a review-driven audience — developer APIs, boilerplates, scraping services and similar categories are what the homepage features — who want a directory entry rather than a launch day.
+
+### What to prepare
+
+An account: the submit page asks you to sign up or sign in before anything else.
+A product page worth reviewing — the about page says startup listings go through human review and that the site would rather stay selective than approve everything.
+A decision on the badge: the about page says a dofollow link back is earned by adding the Huzzler badge to your site, and no public page says what a listing without the badge gets.
+
+### What “live” means here
+
+Live means your product has a resolving page in the Huzzler directory with its category label; the about page promises category browsing, but the sitemap exposes no category pages yet. Submission goes into human review first, so keep the record pending until the page is public.
+
+### Worth knowing
+
+The submit page leads with domain-rating and backlink claims and a founder quote; treat those as the platform’s own marketing and verify the actual link on your live page. Featured and boosted placements are paid extras sold after listing, not part of the basic entry.
+Official site: Huzzler ↗All product launch platforms →
+Short profile from the platform’s public pages, not a submission service. Rules, prices and requirements change — recheck before you submit. LaunchRepo makes no publication, backlink or ranking promise.
+
+###
+
+Submission entry: https://huzzler.so/

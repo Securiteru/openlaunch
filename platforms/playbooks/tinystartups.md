@@ -37,3 +37,34 @@ loads with the product visible.
 ## Badge
 Platform links are plain text — no badge asset observed.
 
+
+## Field observations
+Source: LaunchRepo public field guide (https://launchrepo.dev/directories/tinystartups/), observed unknown.
+
+Tiny Startups is a launch platform and startup directory for indie makers. Its about page describes a Monday-to-Sunday leaderboard ranked by upvotes with a Product of the Week badge for the top two, while the homepage today leads with a spotlight board where the amount paid sets the rank — minimum bid $69, no upvotes, no badges.
+
+Checked on September 17, 2026 on the platform’s public pages.
+
+### Who lists here
+
+Solo makers and tiny teams; the site also runs a $49 tool listing, a $49 deal listing, a startup-ideas database and a partner network of sibling sites.
+
+### What to prepare
+
+For the free launch: name, tagline, URL and a Monday — that route is described on the about page (free, with “skip the queue” at $29 for the next Monday batch), while /submit today leads with the paid spotlight board.
+For the spotlight board: an amount in whole dollars from $69 upwards, paid via Stripe, with no account needed — the submit page creates one from your email.
+A short description with a real product link; spotlight entries show click counts publicly.
+
+### What “live” means here
+
+Live means your startup has a lifetime listing page and appears either in the current week’s leaderboard or on the spotlight board at its paid rank. A queued free launch is scheduled until its Monday.
+
+### Worth knowing
+
+The two routes contradict each other on purpose — one ranks by votes, the other by money — so record which one you used. Optional upgrades (newsletter feature, SEO review, partner links) are sold separately; a domain-rating figure is the site’s own claim.
+Official site: Tiny Startups ↗All product launch platforms →
+Short profile from the platform’s public pages, not a submission service. Rules, prices and requirements change — recheck before you submit. LaunchRepo makes no publication, backlink or ranking promise.
+
+###
+
+Submission entry: https://www.tinystartups.com/

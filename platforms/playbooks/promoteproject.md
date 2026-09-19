@@ -40,3 +40,34 @@ UNVERIFIED
 ## Notes
 launchrepo profile
 
+
+## Field observations
+Source: LaunchRepo public field guide (https://launchrepo.dev/directories/promoteproject/), observed unknown.
+
+PromoteProject is a large startup directory: cards with thumbnail, title, description, category tags, timestamp and vote count, sortable by latest or most voted. The homepage is an articles feed about launches; the directory lives under /startups.
+
+Checked on September 17, 2026 on the platform’s public pages.
+
+### Who lists here
+
+Founders who want a durable directory entry with a vote counter rather than a dated launch, and who accept that much of the site’s traffic goes to its article and forum sections.
+
+### What to prepare
+
+A login — voting requires it and the sign-in form offers email and Google.
+Title, description, thumbnail and category tags, matching what existing cards show.
+A decision on the “Feature My Startup” option, which is linked from the navigation but shows no public price.
+
+### What “live” means here
+
+Live means your card appears in the /startups list with a timestamp and can collect votes. The public pages show no review timeline, so verify by searching the directory rather than waiting for an email.
+
+### Worth knowing
+
+The header “Submit startup” link does not resolve to a form for logged-out visitors; log in first, then look for the submission route. The directory and the articles feed are separate sections, so check that your entry landed in the startup list and not only in the feed.
+Official site: PromoteProject ↗All product launch platforms →
+Short profile from the platform’s public pages, not a submission service. Rules, prices and requirements change — recheck before you submit. LaunchRepo makes no publication, backlink or ranking promise.
+
+###
+
+Submission entry: https://www.promoteproject.com/

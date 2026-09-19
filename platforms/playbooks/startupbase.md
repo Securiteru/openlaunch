@@ -40,3 +40,34 @@ UNVERIFIED
 ## Notes
 launchrepo profile
 
+
+## Field observations
+Source: LaunchRepo public field guide (https://launchrepo.dev/directories/startupbase/), observed unknown.
+
+StartupBase is a daily launch board for software, SaaS and AI products. Launches are grouped by day (today, yesterday, last week) with upvote counts and topic tags, and new launches go up every day at 12:00 AM PDT.
+
+Checked on September 17, 2026 on the platform’s public pages.
+
+### Who lists here
+
+Founders who want a dated launch with a public product page, and who are fine with either a queue wait or a one-time fee. The site describes itself as a community of founders sharing their products.
+
+### What to prepare
+
+An account — the site invites you to join to submit products and upvote (Google, LinkedIn, X or email sign-in).
+Product name, logo and a short pitch; the launch page says this takes about ten minutes.
+A decision on the tier: the free tier assigns a date from the queue (the page says roughly four to five weeks) and requires a StartupBase badge on your site; a paid one-time tier shown at $39 lets you pick a date within 30 days.
+
+### What “live” means here
+
+Your product has its own public page under /products/ and appears in the day’s list with an upvote counter. A submitted form or a queued date is not live yet; record scheduled until the page resolves on launch day.
+
+### Worth knowing
+
+The homepage also sells bid-based homepage spots and advertises a backlink; treat both as the platform’s own marketing and check the actual link on your live page rather than trusting the claim.
+Official site: StartupBase ↗All product launch platforms →
+Short profile from the platform’s public pages, not a submission service. Rules, prices and requirements change — recheck before you submit. LaunchRepo makes no publication, backlink or ranking promise.
+
+###
+
+Submission entry: https://startupbase.io/

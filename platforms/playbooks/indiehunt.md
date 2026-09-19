@@ -37,3 +37,34 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Field observations
+Source: LaunchRepo public field guide (https://launchrepo.dev/directories/indiehunt/), observed unknown.
+
+IndieHunt calls itself a weekly launch platform for AI tools, indie SaaS and bootstrapped products. Products go live on a Monday at 8:00 AM UTC and compete for seven days on community upvotes; the weekly top three get Hall of Fame badges.
+
+Checked on September 17, 2026 on the platform’s public pages.
+
+### Who lists here
+
+Makers of AI tools and small SaaS products who want a scheduled launch week rather than a permanent catalog entry — the site explicitly says it is a competition, not a general app store.
+
+### What to prepare
+
+A sign-in with email, Google or GitHub.
+Project details, website URL and categories, plus an open Monday launch week to pick.
+A tier choice: free slots are limited (the page mentions 15 per week) and require the IndieHunt badge; a paid tier shown at $19 removes the badge requirement and adds promotion.
+
+### What “live” means here
+
+Live means your product is on the homepage for the chosen week with a working upvote count. Before that Monday it is scheduled; after the week it drops off the front page, so save the permanent product URL while it is up.
+
+### Worth knowing
+
+The submission page mentions completing verification or payment before a slot is confirmed — do not record the week as booked until that step is acknowledged in your account.
+Official site: IndieHunt ↗All product launch platforms →
+Short profile from the platform’s public pages, not a submission service. Rules, prices and requirements change — recheck before you submit. LaunchRepo makes no publication, backlink or ranking promise.
+
+###
+
+Submission entry: https://indiehunt.io/

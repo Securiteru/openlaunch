@@ -37,3 +37,34 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Field observations
+Source: LaunchRepo public field guide (https://launchrepo.dev/directories/uno-directory/), observed unknown.
+
+Uno Directory is a general tools directory with categories from AI and code to marketing, SEO and directory launchpads. Listings get a detail page with featured image, a long description, category and tags, plus a maker dashboard showing views, clicks and engagement; the site also promotes a network of partner launch platforms.
+
+Checked on September 17, 2026 on the platform’s public pages.
+
+### Who lists here
+
+Makers who want a cheap permanent entry with click tracking and do not need a launch day or upvotes.
+
+### What to prepare
+
+A sign-in — the submit route leads to authentication first.
+Tool details, a featured image and a rich description; the pricing page suggests 600–800 words.
+The $10 one-time payment, due only after approval: the pricing page describes an automated review followed by a payment link, and says a rejected submission gets feedback and can be resubmitted. The FAQ also describes a free route: a listing goes live after backlink verification instead of payment.
+
+### What “live” means here
+
+Live means your listing resolves under /listings/<category>/<slug>/ and shows in its category. Between approval and payment it is pending; after payment the site says it goes live immediately and stays as long as the guidelines are met.
+
+### Worth knowing
+
+Listings can be edited from the dashboard afterwards. The footer promotes “partner launch platforms” and a Premium Launcher subscription that covers six platforms at once; who runs those sites is not published.
+Official site: Uno Directory ↗All software and tool directories →
+Short profile from the platform’s public pages, not a submission service. Rules, prices and requirements change — recheck before you submit. LaunchRepo makes no publication, backlink or ranking promise.
+
+###
+
+Submission entry: https://uno.directory/

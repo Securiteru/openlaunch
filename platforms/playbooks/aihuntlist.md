@@ -37,3 +37,34 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Field observations
+Source: LaunchRepo public field guide (https://launchrepo.dev/directories/aihuntlist/), observed unknown.
+
+AIHuntList is an AI products directory run by Crownbyte Ltd that indexes over 1,000 tools across 15 categories. Its about page describes a manual review queue, neutral presentation with marked featured and sponsored placements, and it states plainly that it promises no traffic, rankings or sales.
+
+Checked on September 17, 2026 on the platform’s public pages.
+
+### Who lists here
+
+AI product makers who prefer a reviewed directory with published rules and are fine with a wait or a small one-time fee for expedited review.
+
+### What to prepare
+
+An account: the submission form sits behind login.
+A description that reflects the product’s real capabilities and pricing, because the editorial policy checks exactly that.
+A tier: Free (badge or text link required, queue put at about a week on the pricing page), Fastpass (shown at $6.90, review within 24 hours, no reciprocal link), Featured (shown at $9.90, at least a month of category featuring) or Sponsored (shown at $69.90, includes blog coverage).
+
+### What “live” means here
+
+Live means your product page resolves under /tool/<slug>/ in its category. Until the editorial review is done the correct state is pending, even on a paid plan.
+
+### Worth knowing
+
+Rejected paid submissions under the content policy are refunded in full; published listings are non-refundable. The prices shown were strike-through discounts on the day checked, so recheck before budgeting.
+Official site: AIHuntList ↗All ai tool directories →
+Short profile from the platform’s public pages, not a submission service. Rules, prices and requirements change — recheck before you submit. LaunchRepo makes no publication, backlink or ranking promise.
+
+###
+
+Submission entry: https://aihuntlist.com/

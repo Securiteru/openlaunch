@@ -37,3 +37,34 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Field observations
+Source: LaunchRepo public field guide (https://launchrepo.dev/directories/submithunt/), observed unknown.
+
+SubmitHunt is a daily launch directory for startups and AI projects with category counts, a countdown to the next launch and ranked daily lists. Its pricing page shows a free standard launch, a premium launch and a featured spot.
+
+Checked on September 17, 2026 on the platform’s public pages.
+
+### Who lists here
+
+Indie hackers and small teams that want a homepage launch and an indexable listing page, and who can either wait a week for a free slot or pay to launch immediately.
+
+### What to prepare
+
+A Google sign-in — the submit page requires an account and creates one on first login.
+Product name, description, category and a maker handle, which is what daily cards display.
+A plan: the free plan lists a delay of about one week and requires the SubmitHunt badge for its advertised link benefit; the paid plans on the pricing page are shown at $20 per launch and $50 one-time.
+
+### What “live” means here
+
+Live means your product appears in the day’s ranked list (seven days on the homepage for the free plan, fourteen for premium) with a public listing page. Every plan mentions an editorial review, so a submission is pending until that day arrives.
+
+### Worth knowing
+
+The site advertises backlink and domain-rating benefits prominently; ignore those numbers when deciding and check the actual link on your listing page after it is live.
+Official site: SubmitHunt ↗All product launch platforms →
+Short profile from the platform’s public pages, not a submission service. Rules, prices and requirements change — recheck before you submit. LaunchRepo makes no publication, backlink or ranking promise.
+
+###
+
+Submission entry: https://www.submithunt.com/

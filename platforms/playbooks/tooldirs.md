@@ -37,3 +37,34 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Field observations
+Source: LaunchRepo public field guide (https://launchrepo.dev/directories/tooldirs/), observed unknown.
+
+ToolDirs is a curated directory of tools and SaaS products — around 570 tools in 26 categories at the time of checking — with logo, screenshot, description and category on every card and a public page under /product/.
+
+Checked on September 17, 2026 on the platform’s public pages.
+
+### Who lists here
+
+Makers who like a transparent form: the submit page marks its required fields and states its review window, which is rarer than it should be.
+
+### What to prepare
+
+Required: tool URL, name, a tagline up to 160 characters, a markdown description between 500 and 5,000 characters, a logo up to 500 KB, up to three categories, pricing model and platforms.
+Optional: up to four screenshots, discount code, founding year, YouTube demo, GitHub repo, founder’s X handle, affiliate program.
+For the free listing, a link to ToolDirs in your footer; the paid options shown on the pricing page remove that requirement.
+
+### What “live” means here
+
+The free plan states a review within two days; live means your /product/ page resolves and appears in the Latest section with a NEW tag. There is no upvote ranking to wait for.
+
+### Worth knowing
+
+Write the 500-character minimum description before opening the form — it is the field most likely to block submission.
+Official site: ToolDirs ↗All software and tool directories →
+Short profile from the platform’s public pages, not a submission service. Rules, prices and requirements change — recheck before you submit. LaunchRepo makes no publication, backlink or ranking promise.
+
+###
+
+Submission entry: https://tooldirs.com/

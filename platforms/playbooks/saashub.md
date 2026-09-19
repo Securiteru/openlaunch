@@ -40,3 +40,27 @@ UNVERIFIED
 ## Notes
 dofollow; free (backlinkbot)
 
+
+## Field observations
+Source: LaunchRepo public field guide (https://launchrepo.dev/directories/saashub/), observed 2026-09-13.
+
+Prepare a software listing around accurate categories and real alternatives. The observed submission produced a publicly accessible page marked Pending approval. Public accessibility alone was not evidence of acceptance.
+Observed: 2026-09-13
+
+### Preparation
+
+Have a live English website on your own domain, a product tagline, contact details and a short list of genuine competitors. Domain ownership verification may be separate from account login.
+
+### Workflow
+
+Start with the product URL and check for an existing listing. Choose two or three precise software categories. Select a real alternative already present in the selector, complete contact fields and inspect the available submission plan.
+
+### Watch for
+
+Do not invent an alternative when a competitor is missing from the selector. A software product should not be presented as an agency. Recheck the plan before submitting; the observed free option is not a permanent pricing promise.
+
+### What counts as confirmation
+
+Keep submitted_pending_review while the page says Pending approval. Verify domain requests separately and check for acceptance before changing to live.
+
+Submission entry: https://www.saashub.com/services/submit

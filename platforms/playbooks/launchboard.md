@@ -37,3 +37,34 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Field observations
+Source: LaunchRepo public field guide (https://launchrepo.dev/directories/launchboard/), observed unknown.
+
+LaunchBoard publishes indie products in weekly batches every Monday at 03:30 UTC, up to 25 per week, ranked by an engagement score of upvotes plus comments. Recent batches mix dev tools, Figma plugins, AI generators and dashboards.
+
+Checked on September 17, 2026 on the platform’s public pages.
+
+### Who lists here
+
+Indie makers and SaaS founders who want a ranked launch with a fixed weekly cadence and are willing to queue for a week that has room.
+
+### What to prepare
+
+Name, description, category, tags, website and maker info — the fields the how-it-works page lists.
+A free or paid choice; the homepage shows a single launch and a launch pack with prices, and listings are tagged Paid or Free.
+Time: every product is queued for a different week and passes what the site calls a quality review before launch.
+
+### What “live” means here
+
+Your product sits on the homepage leaderboard for its week and has a page under /launch/. Until the Monday batch that contains it is published, the correct state is scheduled, not live.
+
+### Worth knowing
+
+Ties on the leaderboard break on upvotes and then on earliest launch time, so a listing that is complete at batch time has a small structural advantage over one finished later.
+Official site: LaunchBoard ↗All product launch platforms →
+Short profile from the platform’s public pages, not a submission service. Rules, prices and requirements change — recheck before you submit. LaunchRepo makes no publication, backlink or ranking promise.
+
+###
+
+Submission entry: https://www.launchboard.dev/

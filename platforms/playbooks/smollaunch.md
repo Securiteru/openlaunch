@@ -37,3 +37,34 @@ loads with the product visible.
 ## Badge
 Platform provides an embeddable badge. Record the snippet in this file after the listing is live.
 
+
+## Field observations
+Source: LaunchRepo public field guide (https://launchrepo.dev/directories/smollaunch/), observed unknown.
+
+Smol Launch groups indie products into Monday-to-Sunday cohorts on its front page and ranks them by vote total. Every approved product keeps a permanent page under /products/ that links to the maker’s site.
+
+Checked on September 17, 2026 on the platform’s public pages.
+
+### Who lists here
+
+Indie makers and bootstrapped businesses that want a week of front-page exposure and feedback from other makers, with a review gate they can plan around.
+
+### What to prepare
+
+A free account — the site says you need one to submit, manage launches and earn badges.
+Name, tagline, description, logo and link, which is what a published entry shows.
+Either the free Smol Launch badge on your site (to become a verified listing) or one of the paid options the how-it-works page names: Premium, Premium+, Maker Pass or a featured spot. Free launches are paced at 50 per week.
+
+### What “live” means here
+
+The site states that every submission starts as pending review and goes live only after approval by an automated pass or an admin. Live is the moment your /products/ page resolves publicly and shows up in the current week.
+
+### Worth knowing
+
+Relaunches require a paid tier, so make the first submission complete. The platform also sells a paid directory-submission service; it is unrelated to the listing itself.
+Official site: Smol Launch ↗All product launch platforms →
+Short profile from the platform’s public pages, not a submission service. Rules, prices and requirements change — recheck before you submit. LaunchRepo makes no publication, backlink or ranking promise.
+
+###
+
+Submission entry: https://smollaunch.com/

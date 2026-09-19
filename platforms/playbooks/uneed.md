@@ -40,3 +40,27 @@ UNVERIFIED
 ## Notes
 open-form submit; free (favors.dev atlas)
 
+
+## Field observations
+Source: LaunchRepo public field guide (https://launchrepo.dev/directories/uneed/), observed 2026-09-13.
+
+Check account capacity before preparing another launch. The observed free workflow allowed only one pending launch and blocked a new submission when the account already had waiting products. This is an account constraint, not a verdict on product fit.
+Observed: 2026-09-13
+
+### Preparation
+
+Sign in with the intended Google or email account and inspect its unpublished products. Prepare the product URL and launch assets only after understanding which pending item occupies the slot.
+
+### Workflow
+
+Open Submit a tool. If a one-launch limit appears, inspect Manage my products and the waiting list. Reconcile those entries with your own tracker before creating anything else.
+
+### Watch for
+
+Do not delete another product or create extra accounts to evade the limit. A read-only integration cannot submit a product. Stop and ask the owner to decide how to handle existing launches.
+
+### What counts as confirmation
+
+Record blocked with the next action, not submitted. Resume after capacity is legitimately available and confirm the resulting queue or schedule in the account.
+
+Submission entry: https://www.uneed.best/submit-a-tool
