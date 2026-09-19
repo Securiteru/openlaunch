@@ -44,7 +44,4 @@ submit-startup path; verified live 2026-09-19
 ### Submit — observed 2026-09-19 (BrowserOS, field-level)
 
 - Homepage links are all article links — submit path not located in header/footer probe. Historically had a submit flow; UNVERIFIED — check `/submit` or footer manually.
-
-### Submit — observed 2026-09-19 (BrowserOS, field-level)
-
 - `/submit-startup/` exists ("Introduce your startup to the world") but rendered no fields logged-out — likely email-pitch or JS form. UNVERIFIED.

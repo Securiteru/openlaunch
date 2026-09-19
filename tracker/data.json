@@ -1800,614 +1800,614 @@
       "next_action": "none"
     },
     {
-      "product": "demo",
       "platform": "allmyfaves",
+      "product": "demo",
       "status": "skipped",
-      "listing_url": null,
-      "evidence": "Domain dead/parked/redirected \u2014 observed 2026-09-19",
-      "next_action": "none \u2014 dead platform",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Live site but no listing flow \u2014 bookmark startpage with ad redirects; observed 2026-09-19",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "none \u2014 no listing flow"
     },
     {
-      "product": "demo",
       "platform": "alltopstartups",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Site live; /submit-startup/ rendered only a search field 2026-09-19 \u2014 editorial pitch likely; see playbook",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "pitch via editorial contact \u2014 no self-serve form observed"
     },
     {
-      "product": "demo",
       "platform": "appoid",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Site live; /submit-app-for-review/ rendered no form fields 2026-09-19 \u2014 editorial review site; see playbook",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "pitch via editorial contact \u2014 no self-serve form observed"
     },
     {
-      "product": "demo",
       "platform": "apppicker",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Site live 2026-09-19; no self-serve submit found \u2014 editorial app-review site; see playbook",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "pitch via contact/about \u2014 editorial site"
     },
     {
-      "product": "demo",
       "platform": "appslisto",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Submit link (/submit-your-app/) found 2026-09-19; form not yet inspected \u2014 see playbook",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "open /submit-your-app/ and map fields against brief"
     },
     {
-      "product": "demo",
       "platform": "appsmamma",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Site live; /submit-your-app/ rendered zero inputs 2026-09-19 \u2014 instructions/contact page; see playbook",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "pitch via contact \u2014 no self-serve form observed"
     },
     {
-      "product": "demo",
       "platform": "appsthunder",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Site live; /submit-your-app/ showed only search fields 2026-09-19 \u2014 no self-serve form; see playbook",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "pitch via contact \u2014 no self-serve form observed"
     },
     {
-      "product": "demo",
       "platform": "appvita",
+      "product": "demo",
       "status": "skipped",
-      "listing_url": null,
-      "evidence": "Domain dead/parked/redirected \u2014 observed 2026-09-19",
-      "next_action": "none \u2014 dead platform",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Domain redirects to onk.io (personal site) \u2014 observed 2026-09-19",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "none \u2014 dead platform"
     },
     {
-      "product": "demo",
       "platform": "arcticstartup",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Editorial Nordic press \u2014 no self-serve listing observed 2026-09-19; pitch via contact",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "pitch via editorial contact"
     },
     {
-      "product": "demo",
       "platform": "betabound",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Public submit form observed at /announce/ 2026-09-19 \u2014 beta-recruitment board; fields mapped in playbook",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "dry-run only when recruiting testers (e.g. a TestFlight link)"
     },
     {
-      "product": "demo",
       "platform": "betatesting",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Paid beta-testing service \u2014 /signup + /login observed 2026-09-19; no free listing lane confirmed",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "confirm whether any free listing exists; else paid-blocked"
     },
     {
-      "product": "demo",
       "platform": "builtinchicago",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Cloudflare challenge on /contact/send_us_tip observed 2026-09-19 \u2014 bot-walled",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "re-probe with interactive session \u2014 Cloudflare wall"
     },
     {
-      "product": "demo",
       "platform": "collaborizm",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "JS-walled homepage rendered no entry points 2026-09-19 \u2014 unverified; see playbook",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "re-probe with JS-capable session"
     },
     {
-      "product": "demo",
       "platform": "ebool",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "/submit listing form behind reCAPTCHA observed 2026-09-19; field list needs post-consent probe; see playbook",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "dismiss consent overlay, map /submit fields"
     },
     {
-      "product": "demo",
       "platform": "geekwire",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Site live; /startup-list/ is a sponsored list \u2014 no self-serve join path observed 2026-09-19; see playbook",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "pitch editorial team / sponsored-list inquiry"
     },
     {
-      "product": "demo",
       "platform": "getapp",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Vendor login \u2192 app.g2digitalmarkets.com (Gartner Digital Markets portal, shared w/ Capterra+SoftwareAdvice) observed 2026-09-19",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "needs vendor account (user approval) \u2014 Gartner Digital Markets portal"
     },
     {
-      "product": "demo",
       "platform": "getworm",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "/login observed 2026-09-19 \u2014 user+pass or Twitter; no public signup link found; see playbook",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "locate signup path or contact; account required"
     },
     {
-      "product": "demo",
       "platform": "gust",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Rails Devise login (gust.com/users/sign_in) observed 2026-09-19; listing = company profile; see playbook",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "needs Gust account (user approval) \u2014 then map profile form"
     },
     {
-      "product": "demo",
       "platform": "inc42",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Editorial press \u2014 only newsletter/pitch forms observed 2026-09-19; no self-serve listing",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "pitch via editorial contact"
     },
     {
-      "product": "demo",
       "platform": "killerstartups",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Site live; /submit-startup/ rendered no usable fields logged-out 2026-09-19 \u2014 email-pitch likely; see playbook",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "pitch via editorial contact \u2014 form render unverified"
     },
     {
-      "product": "demo",
       "platform": "makeuseof",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Editorial tech site \u2014 no self-serve submit observed 2026-09-19; pitch via contact/tips",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "pitch via contact/tips"
     },
     {
-      "product": "demo",
       "platform": "microsaasexamples",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Public submit form observed at /submit 2026-09-19 \u2014 free + paid lanes; see playbook",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "dry-run /submit against brief"
     },
     {
-      "product": "demo",
       "platform": "netted",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Editorial curated site \u2014 newsletter forms only observed 2026-09-19; pitch via contact",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "pitch via editorial contact"
     },
     {
-      "product": "demo",
       "platform": "nextbigwhat",
+      "product": "demo",
       "status": "skipped",
-      "listing_url": null,
-      "evidence": "Domain dead/parked/redirected \u2014 observed 2026-09-19",
-      "next_action": "none \u2014 dead platform",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Now a Substack newsletter \u2014 observed 2026-09-19",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "none \u2014 dead platform"
     },
     {
-      "product": "demo",
       "platform": "preapps",
-      "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "product": "demo",
+      "status": "paid-blocked",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "App-marketing agency \u2014 budget tiers $2k\u2013$50k+ observed 2026-09-19; no self-serve listing",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "none unless user approves agency spend"
     },
     {
-      "product": "demo",
       "platform": "saasrow",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Public submit form observed at /submit 2026-09-19 \u2014 url+email only; see playbook",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "dry-run /submit against brief"
     },
     {
-      "product": "demo",
       "platform": "saijogeorge-tools",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Individually curated tools page \u2014 no submit flow observed 2026-09-19; author outreach only",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "author outreach only"
     },
     {
-      "product": "demo",
       "platform": "simplelister",
+      "product": "demo",
       "status": "skipped",
-      "listing_url": null,
-      "evidence": "Domain dead/parked/redirected \u2014 observed 2026-09-19",
-      "next_action": "none \u2014 dead platform",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Domain unreachable (chrome-error) \u2014 observed 2026-09-19",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "none \u2014 dead platform"
     },
     {
-      "product": "demo",
       "platform": "similarsitesearch",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Login/signup + CAPTCHA observed 2026-09-19; submit path unverified; see playbook",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "needs account + CAPTCHA handoff (user)"
     },
     {
-      "product": "demo",
       "platform": "snapmunk",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Editorial site \u2014 newsletter forms only observed 2026-09-19; pitch via contact",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "pitch via editorial contact"
     },
     {
-      "product": "demo",
       "platform": "softwareadvice",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Vendor login \u2192 app.g2digitalmarkets.com (Gartner Digital Markets portal, shared w/ Capterra+GetApp) observed 2026-09-19",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "needs vendor account (user approval) \u2014 Gartner Digital Markets portal"
     },
     {
-      "product": "demo",
       "platform": "starterstory",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Editorial founder-interview site; magic-link+Google login observed 2026-09-19 \u2014 listing = pitched story; see playbook",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "pitch founder story \u2014 not a self-serve listing"
     },
     {
-      "product": "demo",
       "platform": "startup88",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Aggregation site live 2026-09-19; no self-serve submit found \u2014 likely auto-ingested/editorial; see playbook",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "verify ingestion path; otherwise editorial pitch"
     },
     {
-      "product": "demo",
       "platform": "startupbeat",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Site live; /features/startup-pitches/ is editorial \u2014 no form rendered 2026-09-19",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "pitch via editorial contact"
     },
     {
-      "product": "demo",
       "platform": "startupbenchmarks",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Google-only OAuth login observed at /login 2026-09-19",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "needs Google account in session (user approval)"
     },
     {
-      "product": "demo",
       "platform": "startups-gallery",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "'Join for free' auth wall observed 2026-09-19 (JS modal); post-auth form unverified; see playbook",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "needs account (user approval) \u2014 then map submit form"
     },
     {
-      "product": "demo",
       "platform": "stateoftech",
+      "product": "demo",
       "status": "skipped",
-      "listing_url": null,
-      "evidence": "Domain dead/parked/redirected \u2014 observed 2026-09-19",
-      "next_action": "none \u2014 dead platform",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Domain unreachable (chrome-error) \u2014 observed 2026-09-19",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "none \u2014 dead platform"
     },
     {
-      "product": "demo",
       "platform": "tapscape",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Editorial app-review site \u2014 no self-serve submit observed 2026-09-19",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "pitch via editorial contact"
     },
     {
-      "product": "demo",
       "platform": "thataicollection",
+      "product": "demo",
       "status": "skipped",
-      "listing_url": null,
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
       "evidence": "AI-tools-only directory \u2014 wrong product type for demo product",
-      "next_action": "none",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "none"
     },
     {
-      "product": "demo",
       "platform": "thetechmap",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Redirects to techmap.me; /company/create behind login observed 2026-09-19",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "needs techmap.me account (user approval)"
     },
     {
-      "product": "demo",
       "platform": "techpluto",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Site live; /submit-startup/ rendered search fields only 2026-09-19 \u2014 likely contact plugin; see playbook",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "pitch via contact \u2014 form unverified"
     },
     {
-      "product": "demo",
       "platform": "vator",
+      "product": "demo",
       "status": "skipped",
-      "listing_url": null,
-      "evidence": "Domain dead/parked/redirected \u2014 observed 2026-09-19",
-      "next_action": "none \u2014 dead platform",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Redirects to vatortv.substack.com \u2014 observed 2026-09-19",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "none \u2014 dead platform"
     },
     {
-      "product": "demo",
       "platform": "webapprater",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Submit URL exists but no usable form rendered 2026-09-19 \u2014 likely contact plugin; see playbook",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "re-probe submit page; likely editorial pitch"
     },
     {
-      "product": "demo",
       "platform": "websitehunt",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
-      "evidence": "Submit/signup path observed via BrowserOS field-level pass 2026-09-19",
-      "next_action": "dry-run: open submit path, map fields against brief",
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
+      "evidence": "Django allauth login+signup observed for /websites/submit/create 2026-09-19; see playbook",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "needs account (user approval) \u2014 then map submit form"
     },
     {
-      "product": "demo",
       "platform": "reddit-alphaandbetausers",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
       "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
-      "next_action": "needs user reddit account + approval to post",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "needs user reddit account + approval to post"
     },
     {
-      "product": "demo",
       "platform": "reddit-buildinpublic",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
       "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
-      "next_action": "needs user reddit account + approval to post",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "needs user reddit account + approval to post"
     },
     {
-      "product": "demo",
       "platform": "reddit-coupons",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
       "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
-      "next_action": "needs user reddit account + approval to post",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "needs user reddit account + approval to post"
     },
     {
-      "product": "demo",
       "platform": "reddit-designcritiques",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
       "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
-      "next_action": "needs user reddit account + approval to post",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "needs user reddit account + approval to post"
     },
     {
-      "product": "demo",
       "platform": "reddit-entrepreneur",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
       "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
-      "next_action": "needs user reddit account + approval to post",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "needs user reddit account + approval to post"
     },
     {
-      "product": "demo",
       "platform": "reddit-ridealong",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
       "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
-      "next_action": "needs user reddit account + approval to post",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "needs user reddit account + approval to post"
     },
     {
-      "product": "demo",
       "platform": "reddit-imadethis",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
       "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
-      "next_action": "needs user reddit account + approval to post",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "needs user reddit account + approval to post"
     },
     {
-      "product": "demo",
       "platform": "reddit-indiebiz",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
       "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
-      "next_action": "needs user reddit account + approval to post",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "needs user reddit account + approval to post"
     },
     {
-      "product": "demo",
       "platform": "reddit-indiehackers",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
       "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
-      "next_action": "needs user reddit account + approval to post",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "needs user reddit account + approval to post"
     },
     {
-      "product": "demo",
       "platform": "reddit-ladybusiness",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
       "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
-      "next_action": "needs user reddit account + approval to post",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "needs user reddit account + approval to post"
     },
     {
-      "product": "demo",
       "platform": "reddit-microsaas",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
       "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
-      "next_action": "needs user reddit account + approval to post",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "needs user reddit account + approval to post"
     },
     {
-      "product": "demo",
       "platform": "reddit-plugyourproduct",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
       "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
-      "next_action": "needs user reddit account + approval to post",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "needs user reddit account + approval to post"
     },
     {
-      "product": "demo",
       "platform": "reddit-roastmystartup",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
       "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
-      "next_action": "needs user reddit account + approval to post",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "needs user reddit account + approval to post"
     },
     {
-      "product": "demo",
       "platform": "reddit-shamelessplug",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
       "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
-      "next_action": "needs user reddit account + approval to post",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "needs user reddit account + approval to post"
     },
     {
-      "product": "demo",
       "platform": "reddit-smallbusiness",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
       "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
-      "next_action": "needs user reddit account + approval to post",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "needs user reddit account + approval to post"
     },
     {
-      "product": "demo",
       "platform": "reddit-startups",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
       "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
-      "next_action": "needs user reddit account + approval to post",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "needs user reddit account + approval to post"
     },
     {
-      "product": "demo",
       "platform": "reddit-thesidehustle",
+      "product": "demo",
       "status": "researched",
-      "listing_url": null,
+      "notes": "field-level recon 2026-09-19 \u2014 see playbook",
       "evidence": "Reddit submit flow observed: login+reCAPTCHA gate; sub rules must be read first",
-      "next_action": "needs user reddit account + approval to post",
+      "listing_url": "",
       "updated_at": "2026-09-19",
-      "notes": ""
+      "next_action": "needs user reddit account + approval to post"
     }
   ]
 }

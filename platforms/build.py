@@ -113,6 +113,7 @@ def check():
 
     data = json.loads(TRACKER_DATA.read_text(encoding="utf-8"))
     known = set(slugs)
+    products = {p.get("slug") for p in data.get("products", [])}
     for i, l in enumerate(data.get("listings", [])):
         where = f"listing[{i}] ({l.get('platform', '?')})"
         if missing_keys := LISTING_KEYS - set(l):
@@ -121,6 +122,11 @@ def check():
             errors.append(f"{where}: bad status {l.get('status')!r}")
         if l.get("platform") not in known:
             errors.append(f"{where}: platform not in platforms.csv")
+        if l.get("product") not in products:
+            errors.append(f"{where}: product not in tracker products")
+        if not (str(l.get("notes") or "").strip()
+                or str(l.get("evidence") or "").strip()):
+            errors.append(f"{where}: empty notes+evidence — record the observed reason")
         try:
             datetime.date.fromisoformat(str(l.get("updated_at", "")))
         except ValueError:
