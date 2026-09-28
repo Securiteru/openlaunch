@@ -238,3 +238,108 @@ reddit-shamelessplug,r/shamelessplug,https://www.reddit.com/r/shamelessplug/,com
 reddit-smallbusiness,r/SmallBusiness,https://www.reddit.com/r/smallbusiness/,community,,,subreddit; strict self-promo rules
 reddit-startups,r/Startups,https://www.reddit.com/r/startups/,community,,,subreddit; strict self-promo rules
 reddit-thesidehustle,r/thesidehustle,https://www.reddit.com/r/thesidehustle/,community,,,subreddit
+stampedios,Stamped iOS,https://stampedios.com/,app-discovery,,img,Recon 2026-09-22: live; free submission; account required (Google/Apple/email); iOS-only community directory; /submit behind login
+appcharts,App Charts,https://appcharts.nixmio.com/,app-discovery,,,Recon 2026-09-22: live; featured placement reviewed personally; free editorial picks + paid labelled placement
+appsarc,AppsArc,https://appsarc.com/,app-discovery,,img,Browser 2026-09-22: /submit redirects to login; email+Google sign-in; Health & Fitness category exists; cost behind login UNVERIFIED
+mobilelaunch,MobileLaunch,https://www.mobilelaunch.app/,app-discovery,,img,Recon 2026-09-22: live; free during beta (paid after beta); account required; weekly batches; iOS+Android
+spacerrapps,SpacerrApps,https://spacerrapps.com/,app-discovery,,img,Browser 2026-09-22: live; FREE submit + paid Highlight/Spotlight placements; sign-in required; Health/Fitness/Mobile categories — good Tiding fit
+findupapp,FindUpApp,https://findupapp.com/,app-discovery,,img,Recon 2026-09-22: live; free registration; iOS+Android; Health & Fitness category exists
+148apps,148Apps,https://www.148apps.com/,app-review,,,Recon 2026-09-22: live; free editorial review via email to reviews editor; iOS-only; no form
+appadvice,AppAdvice,https://appadvice.com/,app-review,,,DEAD 2026-09-22: DNS fails in real browser (ERR_NAME_NOT_RESOLVED) — do not submit
+whatsoniphone,What's On iPhone,https://www.whatsoniphone.com/,app-review,,img,Recon 2026-09-22: live; free review-request form at /submit-app-review/ incl. screenshot upload
+appedus,Appedus,https://appedus.com/,app-review,,,Recon 2026-09-22: live; free reviews w/ guidelines; indie-friendly; /submit-app-for-review/
+iosapplists,iOS App Lists,https://iosapplists.com/,app-review,,,Recon 2026-09-22: live; PAID editorial reviews (~48h turnaround) + featured placements — paid-blocked under zero-spend
+betafamily,BetaFamily,https://www.betafamily.com/,beta-testing,,,Recon 2026-09-22: live; crowdtesting community 1M+ testers; free company signup; paid test packages from $49/mo
+feedmyapp,Feed My App,https://feedmyapp.com/,app-review,,,Recon 2026-09-22: UNREACHABLE (522/timeouts) — recheck before relying on it
+app-useful,App Useful,https://app-useful.com/,app-review,,,Recon 2026-09-22: UNREACHABLE — recheck
+makerhunt,MakerHunt,https://makerhunt.io/,launch,,img,Browser 2026-09-22: live; Free Launch tier + Nofollow/Premium paid tiers; submit+sign-in; same network as Sidehunt/Aura++/EarlyHunt/IndieHunt/Uno
+sidehunt,Sidehunt,https://sidehunt.io/,launch,,img,Browser 2026-09-22: live; Free Launch tier + paid Nofollow/Premium; Health Tech category exists — Tiding fits
+nxgntools,NxGn Tools,https://www.nxgntools.com/,launch,,img,Recon 2026-09-22: live; free basic weekly launch (70/wk queue; top3 badge->dofollow); paid premium; account required
+ufind-best,ufind.best,https://ufind.best/,launch,,img,Recon 2026-09-22: live; free tier REQUIRES badge embed (top3 get dofollow); premium $19 one-time; account required
+foundrlist,FoundrList,https://foundrlist.com/,launch,,img,Browser 2026-09-22: live; FREE tier confirmed + paid boosts $29-79 + $179-279 directory-submission service
+hunt0,HUNT0,https://hunt0.com/,launch,,img,Browser 2026-09-22: live; FREE community queue (70 slots/wk) OR free Badge Launch (requires badge on site) OR $16.90 Premium; fields: link/name/tagline/pricing/desc/media/categories incl Consumer Apps/week/>=1 social; sign-in required
+votekicker,Votekicker,https://votekicker.com/,launch,,img,Browser 2026-09-22: live but browser-GAMES focus (RPG/strategy listings) — poor fit for health app
+startup-heroes,Startup Heroes,https://startupheroes.io/,launch,,,Recon 2026-09-22: live; PAID $10 one-time listing; no account; form -> paid-blocked under zero-spend
+launchvibe,LaunchVibe,https://launchvibe.app/,launch,,img,"Browser 2026-09-22: live; ""Join Free - Launch Your Product"" free tier; sign-in required; Personal/Other categories"
+slocco,Slocco,https://slocco.com/,launch,,img,Recon 2026-09-22: live; launch & discover apps/SaaS/tech products
+rockethub,RocketHub,https://rockethub.com/,deals,,,"Browser 2026-09-22: live; paid LTD marketplace (""Launch on RocketHub"" vendor deal placement)"
+toolfolio,Toolfolio,https://toolfolio.com/,saas-directory,,,"Browser 2026-09-22: live; PAID ONLY — $99 Startup / $2,500yr Growth listing tiers"
+saasgenius,SaaSGenius,https://saasgenius.com/,saas-directory,,,"Browser 2026-09-22: live; PAID ONLY — ""not currently accepting free listings""; email contact@saasgenius.com for pricing"
+reviano,Reviano,https://www.reviano.com/,saas-directory,,,Browser 2026-09-22: live; /submit-listing.html requires account (login/register); B2B services review site; cost unverified
+serchen,Serchen,https://serchen.com/,saas-directory,,,Browser 2026-09-22: live; /get-listed = find-company claim flow; if unlisted -> /get-listed/new form (logo/name/domain/LinkedIn/category/desc/contact) then Stripe payment $49.95 one-off Basic Membership -> PAID
+softwareworld,SoftwareWorld,https://softwareworld.co/,saas-directory,,,"Browser 2026-09-22: live (Cloudflare passes in real browser); FREE vendor registration at /register/ (name,biz email,password,ToS,reCAPTCHA); G2-style review directory"
+manta,Manta,https://www.manta.com/,general-directory,,,Browser 2026-09-22: live; US local small-business directory w/ claim-listing + Sign Up — weak fit for software product
+ctrlalt,ctrlalt,https://ctrlalt.cc/,saas-directory,,,Browser 2026-09-22: live; JS-heavy maker/designer community w/ Join/Login — weak fit for app listing
+startups-fyi,Startups.fyi,https://startups.fyi/,newsletter,,,"Browser 2026-09-22: live; curated money-making-startups feed; ""Share your project"" nav link present but non-functional on click — submission path UNVERIFIED"
+libhunt,LibHunt,https://libhunt.com/,dev-registry,,,Recon 2026-09-22: live; open-source projects ONLY; /repo/submit — poor fit for closed-source apps
+launchdirectories,LaunchDirectories,https://www.launchdirectories.com/,meta-directory,,,"Recon 2026-09-22: live; aggregator of 100+ directories — research source, not a listing target"
+bestwebdesigntools,Best Web Design Tools,https://bestwebdesigntools.com/,saas-directory,,,Browser 2026-09-22: live; web-DESIGN tools only (Figma/Framer/templates) — not a fit for Tiding
+apilist,API List,https://apilist.fun/,api-directory,,,Recon 2026-09-22: live; free public APIs list — not a product directory
+publicapis,Public APIs,https://publicapis.dev/,api-directory,,,Recon 2026-09-22: live; API registry — not a product directory
+inventlist,InventList,https://inventlist.com/,saas-directory,,,"Browser 2026-09-22: live; maker narrative-stream community; Submit Product + ""Start free"" + sign-in required"
+saasgallery,SaaS Gallery,https://saasgallery.com/,saas-directory,,,DEAD 2026-09-22: redirects to empty /lander page in real browser
+danrecommends,Dan Recommends,https://danrecommends.com/,review-service,,,Browser 2026-09-22: live; $49 one-time paid review -> paid-blocked
+makerpad,MakerPad,https://makerpad.co/,community,,,Recon 2026-09-22: live but pivoted to AI-company building — poor directory fit now
+waildworld,Waild World,https://waildworld.com/,ai-directory,,,"Browser 2026-09-22: live; AI-TOOLS directory (3350+); Google sign-in; ""Submit a tool"" — AI-only, Tiding skipped"
+dealmirror,DealMirror,https://dealmirror.com/,deals,,,"Browser 2026-09-22: live; LTD marketplace; ""Submit a deal"" vendor placement (paid); www subdomain has cert error — use bare domain"
+saaspirate,SaaSPirate,https://saaspirate.com/,deals,,,"Browser 2026-09-22: live; LTD deals blog; ""Submit a Deal"" featured placement (paid)"
+payonceuseforever,PayOnceUseForever,https://payonceuseforever.com/,deals,,,DEAD 2026-09-22: parked GoDaddy for-sale page
+dealify,Dealify,https://dealify.com/,deals,,,"Browser 2026-09-22: live; LTD marketplace; ""Sell on Dealify"" paid vendor placement"
+ltdhunt,LTDHunt,https://ltdhunt.com/,deals,,,Browser 2026-09-22: live; LTD deals community w/ Join/Login; deals blog — not a free listing path
+stacksocial,StackSocial,https://www.stacksocial.com/,deals,,,"Browser 2026-09-22: live; consumer deals marketplace — paid placement only, no free listing path"
+kenmoo,KEN Moo,https://kenmoo.me/,deals,,,"Browser 2026-09-22: kenmoo.com redirects to kenmoo.me; live LTD community; ""Launch With Us"" paid launch service"
+productcanyon,Product Canyon,https://productcanyon.com/,deals,,,"Browser 2026-09-22: live; LTD marketplace; ""Become a Seller"" paid placement"
+stacker-news,Stacker News,https://stacker.news/,community,,,Recon 2026-09-22: live; bitcoin/Nostr-leaning forum; posting costs sats — poor fit for app launch
+madgenius,Mad Genius,https://madgenius.co/,ai-directory,,,"Browser 2026-09-22: live at .co (.app dead); AI-tools directory w/ ""Submit a tool"" — AI-only, Tiding skipped"
+nocodelist,NoCodeList,https://nocodelist.co/,saas-directory,,,Recon 2026-09-22: live; no-code tools directory — partial fit (Tiding is native code)
+showmebestai,ShowMeBest.AI,https://showmebest.ai/,ai-directory,,img,Recon 2026-09-22: live; AI-only — skip for Tiding
+basedtools,BasedTools,https://basedtools.ai/,ai-directory,,img,Recon 2026-09-22: live; AI-only — skip for Tiding
+brouseai,BroUseAI,https://brouseai.com/,ai-directory,,img,Recon 2026-09-22: live; AI-only — skip for Tiding
+altern,Altern,https://altern.ai/,ai-directory,,img,Recon 2026-09-22: live; AI-only — skip for Tiding
+botstash,BotStash (botsfloor),https://botsfloor.com/,ai-directory,,img,Recon 2026-09-22: live (botsfloor.com serves BotStash); AI-only — skip for Tiding
+lookaitools,LookAITools,https://lookaitools.com/,ai-directory,,img,Recon 2026-09-22: live; AI-only — skip for Tiding
+opentools,OpenTools,https://opentools.ai/,ai-directory,,img,Recon 2026-09-22: live; AI-only — skip for Tiding
+seofai,SEOFAI,https://seofai.com/,ai-directory,,img,Recon 2026-09-22: live; AI-only — skip for Tiding
+aixploria,AIxploria,https://aixploria.com/,ai-directory,,img,Recon 2026-09-22: live; AI-only — skip for Tiding
+powerusers,Powerusers AI,https://powerusers.ai/,ai-directory,,img,"Recon 2026-09-22: live; 'Submit AI Tool' — AI-only, skip for Tiding"
+aimarketingdirectory,AI Marketing Directory,https://aimarketingdirectory.com/,ai-directory,,img,Recon 2026-09-22: live; AI-only — skip for Tiding
+dokeyai,DokeyAI,https://dokeyai.com/,ai-directory,,img,"Recon 2026-09-22: live (dokeyai.com, not dokey.ai); AI-only — skip for Tiding"
+appscribed,Appscribed,https://appscribed.com/,ai-directory,,img,Recon 2026-09-22: live; AI tools directory — skip for Tiding
+feedough,Feedough,https://feedough.com/,press,,,LFG-14 sync 2026-09-28: live; startup features/stories site — editorial pitch path
+gartner-digital-markets,Gartner Digital Markets,https://www.gartner.com/digital-markets,review,,,LFG-14 sync 2026-09-28: umbrella for Capterra/GetApp/SoftwareAdvice vendor portals; 403 to curl (bot-blocked) — verify in browser
+glassdoor,Glassdoor,https://www.glassdoor.com/,profile,,,LFG-14 sync 2026-09-28: company profile w/ reviews; 403 bot-blocked — verify in browser; needs company entity (sceneXtras Inc)
+aboutme,About.me,https://about.me/,profile,,img,LFG-14 sync 2026-09-28: live; free personal/brand profile page — easy dofollow
+techinasia,Tech in Asia,https://www.techinasia.com/,press,,,LFG-14 sync 2026-09-28: live; press/startup coverage — editorial pitch
+growthjunkie,GrowthJunkie,https://growthjunkie.com/,general-directory,,,LFG-14 sync 2026-09-28: live; marketing/tools directory
+webwiki,Webwiki,https://www.webwiki.com/,general-directory,,,LFG-14 sync 2026-09-28: 403 to curl; free website review/comment directory — verify in browser
+crowdreviews,CrowdReviews,https://www.crowdreviews.com/,review,,,LFG-14 sync 2026-09-28: live; crowdsourced software review directory
+cloudfindr,CloudFindr,https://cloudfindr.co/,saas-directory,,,LFG-14 sync 2026-09-28: live (cloudfindr.co); SaaS comparison directory
+payonceapps,PayOnceApps,https://payonceapps.com/,deals,,,LFG-14 sync 2026-09-28: live; pay-once app deals marketplace (Tiding has subscription — weak fit)
+buymeacoffee,Buy Me a Coffee,https://www.buymeacoffee.com/,profile,,,LFG-14 sync 2026-09-28: live; free creator page — weak listing value but easy profile backlink
+feedmystartup,Feed My Startup,https://feedmystartup.com/,launch,,,LFG-14 sync 2026-09-28: live; startup submission site
+behance,Behance,https://www.behance.net/,design,,,LFG-14 sync 2026-09-28: live (429 rate-limited); DR94 free dofollow via design portfolio — could host Tiding app design case study
+indiepage,IndiePage,https://indiepage.io/,profile,,,LFG-14 sync 2026-09-28: $45 lifetime DR67 dofollow per issue; DNS dead 2026-09-22 check — verify correct domain before use
+listmysaas,ListMySaaS,https://listmysaas.app/,saas-directory,,,LFG-14 sync 2026-09-28: DNS dead 2026-09-22 check — verify correct domain
+shaft-ai,SHAFT AI,https://shaft.ai/,ai-directory,,,LFG-14 sync 2026-09-28: URL unverified; AI-only — Tiding skipped
+victrays,Victrays,https://victrays.com/,ai-directory,,,"LFG-14 sync 2026-09-28: live; AI tools directory — AI-only, Tiding skipped"
+aitoolkit,AIToolkit,https://aitoolkit.org/,ai-directory,,,"LFG-14 sync 2026-09-28: 403 bot-blocked; AI-only — verify in browser, Tiding skipped"
+topapps,TopApps AI,https://topapps.ai/,ai-directory,,,LFG-14 sync 2026-09-28: live; AI-only — Tiding skipped
+awesome-ai-startups,Awesome AI Startups,https://github.com/DanKornas/awesome-ai-startups,dev-registry,,,"LFG-14 sync 2026-09-28: GitHub curated indie AI list — AI-only, Tiding skipped"
+claude-marketplace,Claude Marketplace,https://claude.ai/admin-settings/directory/submissions,marketplace,,,LFG-14 sync 2026-09-28: requires Claude app/MCP server submission (~12h approval) — N/A for Tiding unless an MCP server ships
+founderbest,Founder.best,https://founder.best/,general-directory,,,LFG-14 sync 2026-09-28: live; indie free-dofollow directory (DR41 per issue)
+showbuild,ShowBuild,https://showbuild.co/,launch,,img,LFG-14 sync 2026-09-28: live; indie build-in-public launch directory
+zerorevenue,Zero Revenue Club,https://zerorevenue.club/,community,,,LFG-14 sync 2026-09-28: live; indie zero-revenue club listing
+topseos,TopSEOs,https://topseos.lol/,general-directory,,,LFG-14 sync 2026-09-28: live; indie directory (topseos.lol)
+todaymet,TodayMet,https://todaymet.com/,general-directory,,,LFG-14 sync 2026-09-28: live; indie directory
+directoryfinder,DirectoryFinder,https://directoryfinder.com/,meta-directory,,,LFG-14 sync 2026-09-28: live; directory-of-directories w/ DR/dofollow/price/approval-time — source for expanding this registry
+vccircle,VCCircle,https://www.vccircle.com/,press,,,LFG-14 sync 2026-09-28: live; VC/startup press — editorial pitch or subscription-gated
+chrome-web-store,Chrome Web Store,https://chromewebstore.google.com/,marketplace,,,"LFG-14 sync 2026-09-28: distribution channel (Google-domain backlink) — requires shipping a Chrome extension; product work needed, not a listing"
+readcv,Read.cv,https://read.cv/,profile,,,LFG-14 sync 2026-09-28: returned HTTP 402 on check (site sunset after LinkedIn acquisition) — verify whether still accepts profiles
+startuplister,StartupLister,https://startuplister.com/,meta-directory,,,LFG-14 sync 2026-09-28: HTTP 404 on check; done-for-you submission service — verify before use
+toolsalad,Toolsalad,https://toolsalad.com/,general-directory,,,LFG-14 sync 2026-09-28: DNS did not resolve on check — likely dead; verify
+github-pages,GitHub Pages,https://pages.github.com/,dev-registry,,,LFG-14 sync 2026-09-28: not a directory — free DR96 surface to host a product/project page linking back to site
+gitlab,GitLab,https://gitlab.com/,dev-registry,,,LFG-14 sync 2026-09-28: not a directory — free profile/repo README surface for backlinks
+stripe-partner-directory,Stripe Partner Directory,https://stripe.com/partners/directory,marketplace,,,LFG-14 sync 2026-09-28: listing requires being a Stripe partner — Tiding uses StoreKit; only relevant if Stripe integration exists
+batchlisted,Batchlisted,https://batchlisted.com/,meta-directory,,,LFG-14 sync 2026-09-28: HTTP 404 on check; batch submission service — verify before use
+zerodirs,Zerodirs,https://zerodirs.com/,meta-directory,,,"LFG-14 sync 2026-09-28: directory-building starter kit resource, not a listing target"
+mxverify,mxverify,https://mxverify.com/,meta-directory,,,LFG-14 sync 2026-09-28: MX/domain verification tool referenced in research; not a listing platform
