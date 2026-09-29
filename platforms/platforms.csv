@@ -1,246 +1,246 @@
 slug,name,url,category,product_url_pattern,badge,notes,cost,account,live,tiding_fit
-ai-agents-directory,AI Agents Directory,https://aiagentsdirectory.com,ai-directory,https://aiagentsdirectory.com/agent/{slug},img,,unknown,unknown,live,no
-aibesttop,AIBestTop,https://aibesttop.com,ai-directory,,img,,unknown,unknown,live,no
-aihuntlist,AIHuntList,https://aihuntlist.com,ai-directory,https://aihuntlist.com/tool/{slug},img,,unknown,unknown,live,no
-ai-hustle,AI Hustle,https://aihustle.tools,ai-directory,,text,,unknown,unknown,live,no
-ailaunch-space,AILaunchSpace,https://ailaunch.space/,launch,,img,,unknown,unknown,live,yes
-aitoolhunt,AIToolHunt,https://aitoolhunt.co,ai-directory,https://aitoolhunt.co/item/{slug},img,,unknown,unknown,live,no
-ai-tool-trek,AI Tool Trek,https://aitooltrek.com,ai-directory,,text,,unknown,unknown,live,no
-ai-toolz-dir,AI Toolz Dir,https://www.aitoolzdir.com,ai-directory,,text,,unknown,unknown,live,no
-aitop10-tools,AiTop10 Tools,https://aitop10.tools/,ai-directory,,text,,unknown,unknown,live,no
-aura-plusplus,Aura++,https://auraplusplus.com,launch,https://auraplusplus.com/projects/{slug},img,,unknown,unknown,live,yes
-bestsky-tools,BestskyTools,https://bestsky.tools,ai-directory,,img,utm_source=badge on outbound link,unknown,unknown,live,no
-codehype,CodeHype,https://codehype.ai,ai-directory,https://codehype.ai/product/{slug},img,,unknown,unknown,live,no
-collectai,CollectAI,https://collectai.tools,ai-directory,https://collectai.tools/item/{slug},img,,unknown,unknown,live,no
-dailypings,DailyPings,https://dailypings.com,launch,https://dailypings.com/p/{slug},img,,unknown,unknown,live,yes
-daniellaunches,DanielLaunches,https://daniellaunches.com,launch,,img,,unknown,unknown,live,yes
-days-launch,Days Launch,https://dayslaunch.com,launch,,img-remote,,unknown,unknown,live,yes
-deeplaunch,DeepLaunch,https://deeplaunch.io,launch,,img,,unknown,unknown,live,yes
-dododirectory,DodoDirectory,https://dododirectory.com,saas-directory,,img,,unknown,unknown,live,yes
-earlyhunt,EarlyHunt,https://earlyhunt.com,launch,https://earlyhunt.com/project/{slug},img,,unknown,unknown,live,yes
-fastlaunch,FastLaunch,https://fastlaunch.io,launch,,img-remote,,unknown,unknown,live,yes
+ai-agents-directory,AI Agents Directory,https://aiagentsdirectory.com,ai-directory,https://aiagentsdirectory.com/agent/{slug},img,auto-recon 2026-09-28: submit/pricing links: https://aiagentsdirectory.com/submit-agent ; https://www.kucoin.com/news/flash/openai-to-launch-resident-ai-assistant-o-on-tuesday-to-counte,paid-signals,email,live,no
+aibesttop,AIBestTop,https://aibesttop.com,ai-directory,,img,auto-recon 2026-09-28: submit/pricing links: https://aibesttop.com/pricing ; https://aibesttop.com/submit,freemium,email,live,no
+aihuntlist,AIHuntList,https://aihuntlist.com,ai-directory,https://aihuntlist.com/tool/{slug},img,auto-recon 2026-09-28: submit/pricing links: https://aihuntlist.com/pricing ; https://aihuntlist.com/register | auto-recon: CAPTCHA detected,freemium,email,live,no
+ai-hustle,AI Hustle,https://aihustle.tools,ai-directory,,text,auto-recon 2026-09-28: submit/pricing links: https://aihustle.tools/submit/ ; https://aihustle.tools/signup/,unknown,email,live,no
+ailaunch-space,AILaunchSpace,https://ailaunch.space/,launch,,img,auto-recon 2026-09-28: submit/pricing links: https://ailaunch.space ; https://ailaunch.space/pricing | auto-recon: CAPTCHA detected,freemium,email,live,yes
+aitoolhunt,AIToolHunt,https://aitoolhunt.co,ai-directory,https://aitoolhunt.co/item/{slug},img,auto-recon 2026-09-28: submit/pricing links: https://aitoolhunt.co/pricing ; https://aitoolhunt.co/submit,freemium,email,live,no
+ai-tool-trek,AI Tool Trek,https://aitooltrek.com,ai-directory,,text,auto-recon 2026-09-28: submit/pricing links: https://aitooltrek.com/submit ; https://aitooltrek.com/ai/nicklaunches-com,freemium,email,live,no
+ai-toolz-dir,AI Toolz Dir,https://www.aitoolzdir.com,ai-directory,,text,auto-recon 2026-09-28: submit/pricing links: https://startupfa.me/badges/featured-badge.webp ; https://www.aitoolzdir.com/submit,freemium,unknown,live,no
+aitop10-tools,AiTop10 Tools,https://aitop10.tools/,ai-directory,,text,auto-recon 2026-09-28: submit/pricing links: https://aitop10.tools/submit ; https://aitop10.tools/detail/launchrepo-dev | auto-recon: CAPTCHA detected,freemium,email,live,no
+aura-plusplus,Aura++,https://auraplusplus.com,launch,https://auraplusplus.com/projects/{slug},img,auto-recon 2026-09-28: submit/pricing links: https://auraplusplus.com/pricing ; https://auraplusplus.com/launches | auto-recon: CAPTCHA detected,freemium,email,live,yes
+bestsky-tools,BestskyTools,https://bestsky.tools,ai-directory,,img,utm_source=badge on outbound link | auto-recon 2026-09-28: submit/pricing links: https://bestsky.tools/pricing ; https://bestsky.tools/submit | auto-recon: CAPTCHA detected,freemium,email,live,no
+codehype,CodeHype,https://codehype.ai,ai-directory,https://codehype.ai/product/{slug},img,auto-recon 2026-09-28: submit/pricing links: https://launchigniter.com/api/badge/codehype?theme=light ; https://codehype.ai/launches,freemium,email,live,no
+collectai,CollectAI,https://collectai.tools,ai-directory,https://collectai.tools/item/{slug},img,auto-recon 2026-09-28: submit/pricing links: https://collectai.tools/pricing ; https://collectai.tools/submit,freemium,email,live,no
+dailypings,DailyPings,https://dailypings.com,launch,https://dailypings.com/p/{slug},img,auto-recon 2026-09-28: submit/pricing links: https://dailypings.com/pricing ; https://dailypings.com/submit,freemium,email,live,yes
+daniellaunches,DanielLaunches,https://daniellaunches.com,launch,,img,auto-recon 2026-09-28: submit/pricing links: https://verifieddr.com/badge/daniellaunches-com.svg ; https://daniellaunches.com,freemium,email,live,yes
+days-launch,Days Launch,https://dayslaunch.com,launch,,img-remote,auto-recon 2026-09-28: submit/pricing links: https://drchecker.net/api/badge?domain=dayslaunch.com ; https://dayslaunch.com/badages-awards.svg,paid-signals,email,live,yes
+deeplaunch,DeepLaunch,https://deeplaunch.io,launch,,img,auto-recon 2026-09-28: submit/pricing links: https://deeplaunch.io ; https://deeplaunch.io/categories/advertising,freemium,email,live,yes
+dododirectory,DodoDirectory,https://dododirectory.com,saas-directory,,img,auto-recon 2026-09-28: submit/pricing links: https://dododirectory.com/pricing ; https://dododirectory.com/submit,freemium,email,live,yes
+earlyhunt,EarlyHunt,https://earlyhunt.com,launch,https://earlyhunt.com/project/{slug},img,auto-recon 2026-09-28: submit/pricing links: https://earlyhunt.com/launches ; https://earlyhunt.com/submit,freemium,email,live,yes
+fastlaunch,FastLaunch,https://fastlaunch.io,launch,,img-remote,auto-recon 2026-09-28: submit/pricing links: https://superlaunchlist.com/badge.svg ; https://fastlaunch.io,freemium,email,live,yes
 fazier,Fazier,https://fazier.com,launch,https://fazier.com/launches/{slug},img,,freemium,badge,live,yes
-findly-tools,Findly.tools,https://findly.tools,ai-directory,https://findly.tools/{slug},img,,unknown,unknown,live,no
-go-publicly,Go Publicly,https://go-publicly.com,launch,,img,,unknown,unknown,live,yes
-goodaitools,Good AI Tools,https://goodaitools.com,ai-directory,https://goodaitools.com/ai/{slug},img,,unknown,unknown,live,no
-huntstartup,Hunt Startup,https://huntstartup.com,launch,,img,,unknown,unknown,live,yes
-huzzler,Huzzler,https://huzzler.so,saas-directory,https://huzzler.so/products/{id}/{slug},img,product URL contains an opaque id,unknown,unknown,live,yes
-indieai-directory,IndieAI Directory,https://indieai.directory/,ai-directory,,text,,unknown,unknown,live,no
-indiehunt,IndieHunt,https://indiehunt.io,launch,https://indiehunt.io/project/{slug},img,,unknown,unknown,live,yes
-kickproduct,Kick Product,https://kickproduct.com,launch,https://kickproduct.com/products/{id},img,product URL contains an opaque id,unknown,unknown,live,yes
-kittylaunch,KittyLaunch,https://kittylaunch.com,launch,https://kittylaunch.com/p/{slug},img,,unknown,unknown,live,yes
-launchboard,LaunchBoard,https://launchboard.dev,launch,,img,,unknown,unknown,live,yes
-launchclash,LaunchClash,https://launchclash.com,launch,https://launchclash.com/product/{slug},img,,unknown,unknown,live,yes
-launchigniter,LaunchIgniter,https://launchigniter.com,launch,https://launchigniter.com/product/{slug},img,,unknown,unknown,live,yes
-launchtory,Launchtory,https://launchtory.com,launch,https://launchtory.com/projects/{slug},text,,unknown,unknown,live,yes
-launchvault,LaunchVault,https://www.launchvault.dev,launch,,img,,unknown,unknown,live,yes
-launchvoid,LaunchVoid,https://launchvoid.com,launch,,img,,unknown,unknown,live,yes
-marketingdb,MarketingDB,https://marketingdb.live,saas-directory,,img,outbound link is nofollow+sponsored,unknown,unknown,live,yes
-mylaunchstash,My Launch Stash,https://mylaunchstash.com,launch,https://mylaunchstash.com/product/{slug},img,,unknown,unknown,live,yes
-navfolders,NavFolders,https://navfolders.com,saas-directory,,img,,unknown,unknown,live,yes
-neeed-directory,neeed.directory,https://neeed.directory,saas-directory,https://neeed.directory/products/{slug},img,,unknown,unknown,live,yes
-nextlaunch,Next Launch,https://nextlaunch.io,launch,https://nextlaunch.io/projects/{slug},img,,unknown,unknown,live,yes
-nicklaunches,Nick Launches,https://nicklaunches.com,launch,https://nicklaunches.com/products/{slug}/,img,,unknown,unknown,live,yes
-openhunts,OpenHunts,https://openhunts.com,launch,,img-remote,,unknown,unknown,live,yes
-postmake,Postmake,https://postmake.io,saas-directory,,img,submit entry point observed at /submit,unknown,unknown,live,yes
-producthunt,Product Hunt,https://www.producthunt.com,launch,https://www.producthunt.com/products/{slug},img-remote,,unknown,unknown,live,yes
-productwatch,Product Watch,https://productwatch.io,saas-directory,https://productwatch.io/products/{slug},img,,unknown,unknown,live,yes
-prolaunch,Pro Launch,https://prolaunch.net,launch,,img,,unknown,unknown,live,yes
-publishyoursaas,publishyoursaas,https://publishyoursaas.com,saas-directory,https://publishyoursaas.com/listing/{slug},img,,unknown,unknown,live,yes
-saasbison,SaaSBison,https://saasbison.com,saas-directory,,img,,unknown,unknown,live,yes
-saascity,SaaSCity,https://saascity.io,saas-directory,,img,,unknown,unknown,live,yes
-saasfame,SaaSFame,https://saasfame.com,saas-directory,https://saasfame.com/item/{slug},img-remote,,unknown,unknown,live,yes
-saasgrave,SaaSGrave Launches,https://ls.saasgrave.org,launch,https://ls.saasgrave.org/products/{slug},img-remote,,unknown,unknown,live,yes
-saasgrow,SaaSGrow,https://saasgrow.app,saas-directory,,img,,unknown,unknown,live,yes
-scrolllaunch,ScrollLaunch,https://www.scrolllaunch.com,launch,https://www.scrolllaunch.com/products/{slug},img-remote,,unknown,unknown,live,yes
-shinylaunch,ShinyLaunch,https://shinylaunch.com,launch,https://shinylaunch.com/product/{slug},img,,unknown,unknown,live,yes
-showmysites,ShowMySites,https://www.showmysites.com,general-directory,,img,,unknown,unknown,live,yes
-smollaunch,Smol Launch,https://smollaunch.com,launch,,img,,unknown,unknown,live,yes
-startupfame,Startup Fame,https://startupfa.me,saas-directory,https://startupfa.me/s/{slug},img,,unknown,unknown,live,yes
-startupfast,Startup Fast,https://startupfa.st,launch,,text,,unknown,unknown,live,yes
-startuptrusted,StartupTrusted,https://startuptrusted.com,saas-directory,,img,,unknown,unknown,live,yes
-stork,Stork,https://www.stork.ai/,ai-directory,,img,outbound link is nofollow,unknown,unknown,live,no
-submitaitools,Submit AI Tools,https://submitaitools.org,ai-directory,,img,,unknown,unknown,live,no
-submithunt,Submit Hunt,https://submithunt.com,launch,,img,,unknown,unknown,live,yes
-submitmysaas,SubmitMySaas,https://submitmysaas.com,saas-directory,,img,,unknown,unknown,live,yes
-sumodir,SumoDir,https://sumodir.com,general-directory,,img,,unknown,unknown,live,yes
-superlaunch,Super Launch,https://www.superlaun.ch,launch,https://www.superlaun.ch/products/{id},img-remote,product URL contains an opaque numeric id,unknown,unknown,live,yes
-thedevtoolsdir,TheDevToolsDir,https://thedevtoolsdir.com,dev-directory,https://thedevtoolsdir.com/product/{slug},img,,unknown,unknown,live,maybe
-thesaasdir,TheSaaSDir,https://thesaasdir.com,saas-directory,https://thesaasdir.com/product/{slug},img,,unknown,unknown,live,yes
-tinystartups,Tiny Startups,https://www.tinystartups.com,launch,https://www.tinystartups.com/startup/{slug},text,,unknown,unknown,live,yes
-tooldirs,ToolDirs,https://tooldirs.com,ai-directory,,img,,unknown,unknown,live,no
-toolfame,Toolfame,https://toolfame.com,saas-directory,https://toolfame.com/item/{slug},img-remote,,unknown,unknown,live,yes
-toolpilot,ToolPilot,https://www.toolpilot.ai/,ai-directory,,img,,unknown,unknown,live,no
-turbo0,Turbo0,https://turbo0.com,ai-directory,https://turbo0.com/item/{slug},img-remote,,unknown,unknown,live,no
-uno-directory,Uno Directory,https://uno.directory,general-directory,,img,,unknown,unknown,live,yes
-vibe-coding,Vibe Coding,https://www.vibe-coding.cloud/,ai-directory,,img,outbound link is nofollow,unknown,unknown,live,no
-webspot,Webspot,https://webspot.app,saas-directory,,img,,unknown,unknown,live,yes
-wired-business,Wired Business,https://wired.business,general-directory,,img,,unknown,unknown,live,yes
+findly-tools,Findly.tools,https://findly.tools,ai-directory,https://findly.tools/{slug},img,auto-recon 2026-09-28: submit/pricing links: https://findly.tools/submit ; https://findly.tools/directories/submit?utm_source=home&amp;utm_medium=product&amp;utm_campaign=directory-subm | auto-recon: CAPTCHA detected,freemium,email,live,no
+go-publicly,Go Publicly,https://go-publicly.com,launch,,img,auto-recon 2026-09-28: submit/pricing links: https://go-publicly.com/pricing ; https://go-publicly.com/advertise,freemium,email,live,yes
+goodaitools,Good AI Tools,https://goodaitools.com,ai-directory,https://goodaitools.com/ai/{slug},img,auto-recon 2026-09-28: submit/pricing links: https://submitsaas.com/ ; https://goodaitools.com/pricing/paid,freemium,email,live,no
+huntstartup,Hunt Startup,https://huntstartup.com,launch,,img,auto-recon 2026-09-28: submit/pricing links: https://huntstartup.com/get-featured ; https://huntstartup.com/auth?mode=signup,freemium,email,live,yes
+huzzler,Huzzler,https://huzzler.so,saas-directory,https://huzzler.so/products/{id}/{slug},img,product URL contains an opaque id | auto-recon 2026-09-28: submit/pricing links: https://huzzler.so/submit-product ; https://joingroop.com?utm_source=huzzler&amp;utm_medium=featured_projects&amp;utm_campaign=featured_home | auto-recon: CAPTCHA detected,freemium,email,live,yes
+indieai-directory,IndieAI Directory,https://indieai.directory/,ai-directory,,text,auto-recon 2026-09-28: submit/pricing links: https://indieai.directory/pricing ; https://indieai.directory/submit,freemium,email,live,no
+indiehunt,IndieHunt,https://indiehunt.io,launch,https://indiehunt.io/project/{slug},img,auto-recon 2026-09-28: submit/pricing links: https://indiehunt.io/launches ; https://indiehunt.io/submit | auto-recon: CAPTCHA detected,freemium,email,live,yes
+kickproduct,Kick Product,https://kickproduct.com,launch,https://kickproduct.com/products/{id},img,product URL contains an opaque id | auto-recon 2026-09-28: submit/pricing links: https://startupfa.me/badges/featured-badge-small.webp ; https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1066750&amp;,freemium,email,live,yes
+kittylaunch,KittyLaunch,https://kittylaunch.com,launch,https://kittylaunch.com/p/{slug},img,auto-recon 2026-09-28: submit/pricing links: https://kittylaunch.com/kittylaunch-icon.svg ; https://kittylaunch.com/,freemium,email,live,yes
+launchboard,LaunchBoard,https://launchboard.dev,launch,,img,auto-recon 2026-09-28: submit/pricing links: https://www.launchboard.dev ; https://launchboard.dev/pricing | auto-recon: CAPTCHA detected,freemium,email,live,yes
+launchclash,LaunchClash,https://launchclash.com,launch,https://launchclash.com/product/{slug},img,auto-recon 2026-09-28: submit/pricing links: https://launchclash.com/ ; https://submitsaas.com/,freemium,email,live,yes
+launchigniter,LaunchIgniter,https://launchigniter.com,launch,https://launchigniter.com/product/{slug},img,auto-recon 2026-09-28: submit/pricing links: https://launchigniter.com ; https://launchigniter.com/user/sergiuchiriacei/products,freemium,email,live,yes
+launchtory,Launchtory,https://launchtory.com,launch,https://launchtory.com/projects/{slug},text,auto-recon 2026-09-28: submit/pricing links: https://launchtory.com/ ; https://launchtory.com/signup,paid-signals,email,live,yes
+launchvault,LaunchVault,https://www.launchvault.dev,launch,,img,auto-recon 2026-09-28: submit/pricing links: https://open-launch.com/images/badges/powered-by-dark.svg ; https://startupfa.me/badges/featured-badge.webp,freemium,email,live,yes
+launchvoid,LaunchVoid,https://launchvoid.com,launch,,img,auto-recon 2026-09-28: submit/pricing links: https://launchvoid.com/submit ; https://launchvoid.com/pricing,paid-signals,email,live,yes
+marketingdb,MarketingDB,https://marketingdb.live,saas-directory,,img,outbound link is nofollow+sponsored | auto-recon 2026-09-28: submit/pricing links: https://marketingdb.live/submit ; https://marketingdb.live/pricing,freemium,email,live,yes
+mylaunchstash,My Launch Stash,https://mylaunchstash.com,launch,https://mylaunchstash.com/product/{slug},img,auto-recon 2026-09-28: submit/pricing links: https://mylaunchstash.com/ ; https://submitsaas.com/,freemium,email,live,yes
+navfolders,NavFolders,https://navfolders.com,saas-directory,,img,auto-recon 2026-09-28: submit/pricing links: https://navfolders.com/pricing ; https://navfolders.com/submit,freemium,email,live,yes
+neeed-directory,neeed.directory,https://neeed.directory,saas-directory,https://neeed.directory/products/{slug},img,auto-recon 2026-09-28: submit/pricing links: https://neeed.directory/categories/advertising ; https://neeed.directory/submit,freemium,email,live,yes
+nextlaunch,Next Launch,https://nextlaunch.io,launch,https://nextlaunch.io/projects/{slug},img,auto-recon 2026-09-28: submit/pricing links: https://frogdr.com/nextlaunch.io/badge-white-sm.svg?round=1 ; https://frogdr.com/nextlaunch.io/badge-dark-sm.svg?round=1 | auto-recon: CAPTCHA detected,freemium,email,live,yes
+nicklaunches,Nick Launches,https://nicklaunches.com,launch,https://nicklaunches.com/products/{slug}/,img,auto-recon 2026-09-28: submit/pricing links: https://cdn.nicklaunches.com/uploads/6aa1b0d686bbd95f7260a677/logo/5e0c5274-31e1-4579-ac8b-c88fb8bb5e95.webp ; https://cdn.nicklaunches.com/,freemium,email,live,yes
+openhunts,OpenHunts,https://openhunts.com,launch,,img-remote,auto-recon 2026-09-28: submit/pricing links: https://openhunts.com/projects/submit ; https://openhunts.com/pricing | auto-recon: CAPTCHA detected,freemium,email,live,yes
+postmake,Postmake,https://postmake.io,saas-directory,,img,submit entry point observed at /submit | auto-recon 2026-09-28: submit/pricing links: https://postmake.io/advertise ; https://postmake.io/submit,freemium,unknown,live,yes
+producthunt,Product Hunt,https://www.producthunt.com,launch,https://www.producthunt.com/products/{slug},img-remote,auto-recon 2026-09-28: submit/pricing links: https://www.producthunt.com/launch?ref=header_nav ; https://www.producthunt.com/topics/advertising | auto-recon: CAPTCHA detected,freemium,email,live,yes
+productwatch,Product Watch,https://productwatch.io,saas-directory,https://productwatch.io/products/{slug},img,auto-recon 2026-09-28: submit/pricing links: https://productwatch.io/launches/day ; https://productwatch.io/products/featuredlane,freemium,email,live,yes
+prolaunch,Pro Launch,https://prolaunch.net,launch,,img,auto-recon 2026-09-28: submit/pricing links: https://domainrank.app/api/badge/prolaunch.net?theme=light ; https://domainrank.app/api/badge/prolaunch.net?theme=dark,freemium,email,live,yes
+publishyoursaas,publishyoursaas,https://publishyoursaas.com,saas-directory,https://publishyoursaas.com/listing/{slug},img,auto-recon 2026-09-28: submit/pricing links: https://publishyoursaas.com/pricing ; https://publishyoursaas.com/listing/submitsaas-com,freemium,email,live,yes
+saasbison,SaaSBison,https://saasbison.com,saas-directory,,img,auto-recon 2026-09-28: submit/pricing links: https://launchdirectories.com/logo.png ; https://saasbison.com/submit,freemium,email,live,yes
+saascity,SaaSCity,https://saascity.io,saas-directory,,img,auto-recon 2026-09-28: submit/pricing links: https://saascity.io/advertise ; https://saascity.io/saascity?submit=1,freemium,email,live,yes
+saasfame,SaaSFame,https://saasfame.com,saas-directory,https://saasfame.com/item/{slug},img-remote,auto-recon 2026-09-28: submit/pricing links: https://saasfame.com/pricing ; https://saasfame.com/submit | auto-recon: CAPTCHA detected,freemium,email,live,yes
+saasgrave,SaaSGrave Launches,https://ls.saasgrave.org,launch,https://ls.saasgrave.org/products/{slug},img-remote,auto-recon 2026-09-28: submit/pricing links: https://ls.saasgrave.org/pricing ; https://ls.saasgrave.org/advertise,freemium,email,live,yes
+saasgrow,SaaSGrow,https://saasgrow.app,saas-directory,,img,,freemium,email,live,yes
+scrolllaunch,ScrollLaunch,https://www.scrolllaunch.com,launch,https://www.scrolllaunch.com/products/{slug},img-remote,auto-recon 2026-09-28: submit/pricing links: https://res.cloudinary.com/dwb211sw5/image/upload/v1789669824/scrolllaunch/products/product_6a31cda05613e5301a82bc14_1789669824198_lima21.pn,freemium,unknown,live,yes
+shinylaunch,ShinyLaunch,https://shinylaunch.com,launch,https://shinylaunch.com/product/{slug},img,auto-recon 2026-09-28: submit/pricing links: https://shinylaunch.com/ ; https://submitsaas.com/,freemium,email,live,yes
+showmysites,ShowMySites,https://www.showmysites.com,general-directory,,img,auto-recon 2026-09-28: submit/pricing links: https://www.showmysites.com/pricing ; https://www.showmysites.com/accounts/signup/,freemium,email,live,yes
+smollaunch,Smol Launch,https://smollaunch.com,launch,,img,auto-recon 2026-09-28: submit/pricing links: https://smollaunch.com/ ; https://smollaunch.com/.md | auto-recon: CAPTCHA detected,freemium,email,live,yes
+startupfame,Startup Fame,https://startupfa.me,saas-directory,https://startupfa.me/s/{slug},img,auto-recon 2026-09-28: submit/pricing links: https://startupfa.me/pricing ; https://startupfa.me/s/submitator,freemium,email,live,yes
+startupfast,Startup Fast,https://startupfa.st,launch,,text,auto-recon 2026-09-28: submit/pricing links: https://open-launch.com/images/badges/powered-by-light.svg ; https://startupfa.me/badges/featured-badge.webp,freemium,email,live,yes
+startuptrusted,StartupTrusted,https://startuptrusted.com,saas-directory,,img,,paid-signals,email,live,yes
+stork,Stork,https://www.stork.ai/,ai-directory,,img,outbound link is nofollow | auto-recon 2026-09-28: submit/pricing links: https://www.stork.ai/advertise ; https://www.stork.ai/submit,freemium,unknown,live,no
+submitaitools,Submit AI Tools,https://submitaitools.org,ai-directory,,img,auto-recon 2026-09-28: submit/pricing links: https://submitaitools.org/static_submitaitools/css/footer.css ; https://submitaitools.org/llms.txt,freemium,email,live,no
+submithunt,Submit Hunt,https://submithunt.com,launch,,img,auto-recon 2026-09-28: submit/pricing links: https://www.submithunt.com/ | auto-recon pass2: /pricing page advertises free submission,free,unknown,live,yes
+submitmysaas,SubmitMySaas,https://submitmysaas.com,saas-directory,,img,auto-recon 2026-09-28: submit/pricing links: https://startupfa.me/badges/featured/default.webp ; https://frogdr.com/submitmysaas.com/badge-white.svg,freemium,email,live,yes
+sumodir,SumoDir,https://sumodir.com,general-directory,,img,auto-recon 2026-09-28: submit/pricing links: https://sumodir.com/pricing ; https://sumodir.com/submit,freemium,email,live,yes
+superlaunch,Super Launch,https://www.superlaun.ch,launch,https://www.superlaun.ch/products/{id},img-remote,product URL contains an opaque numeric id | auto-recon 2026-09-28: submit/pricing links: https://www.superlaun.ch/advertise ; https://launchdirectories.com/directory/super-launch,freemium,email,live,yes
+thedevtoolsdir,TheDevToolsDir,https://thedevtoolsdir.com,dev-directory,https://thedevtoolsdir.com/product/{slug},img,auto-recon 2026-09-28: submit/pricing links: https://thedevtoolsdir.com/pricing/ ; https://thedevtoolsdir.com/submit/,freemium,email,live,maybe
+thesaasdir,TheSaaSDir,https://thesaasdir.com,saas-directory,https://thesaasdir.com/product/{slug},img,auto-recon 2026-09-28: submit/pricing links: https://thesaasdir.com/pricing/ ; https://thesaasdir.com/submit/,freemium,email,live,yes
+tinystartups,Tiny Startups,https://www.tinystartups.com,launch,https://www.tinystartups.com/startup/{slug},text,auto-recon 2026-09-28: submit/pricing links: https://www.tinystartups.com/submit ; https://www.tinystartups.com/startup/get-your-startup-featured-on-500-media-outlets-in-48-hours | auto-recon: CAPTCHA detected,freemium,email,live,yes
+tooldirs,ToolDirs,https://tooldirs.com,ai-directory,,img,auto-recon 2026-09-28: submit/pricing links: https://tooldirs.com/submit ; https://tooldirs.com/categories/advertising,freemium,email,live,no
+toolfame,Toolfame,https://toolfame.com,saas-directory,https://toolfame.com/item/{slug},img-remote,auto-recon 2026-09-28: submit/pricing links: https://toolfame.com/pricing ; https://toolfame.com/submit | auto-recon: CAPTCHA detected,freemium,email,live,yes
+toolpilot,ToolPilot,https://www.toolpilot.ai/,ai-directory,,img,auto-recon 2026-09-28: submit/pricing links: https://www.toolpilot.ai/pages/submit-your-ai-tool ; https://www.toolpilot.ai/collections/featured-ai-tools | auto-recon: CAPTCHA detected,freemium,email,live,no
+turbo0,Turbo0,https://turbo0.com,ai-directory,https://turbo0.com/item/{slug},img-remote,auto-recon 2026-09-28: submit/pricing links: https://turbo0.com/pricing ; https://turbo0.com/submit,freemium,email,live,no
+uno-directory,Uno Directory,https://uno.directory,general-directory,,img,auto-recon 2026-09-28: submit/pricing links: https://uno.directory/listings/directory-launchpads ; https://uno.directory/submit | auto-recon: CAPTCHA detected,freemium,email,live,yes
+vibe-coding,Vibe Coding,https://www.vibe-coding.cloud/,ai-directory,,img,outbound link is nofollow | auto-recon 2026-09-28: submit/pricing links: https://startupfa.me/badges/featured-badge-small.webp ; https://fazier.com/api/v1/public/badges/launch_badges.svg?badge_type=featured&amp;th,paid-signals,email,live,no
+webspot,Webspot,https://webspot.app,saas-directory,,img,auto-recon 2026-09-28: submit/pricing links: https://webspot.app/pricing ; https://webspot.app/submit,freemium,email,live,yes
+wired-business,Wired Business,https://wired.business,general-directory,,img,auto-recon 2026-09-28: submit/pricing links: https://wired.business/submit ; https://wired.business/category/launching,freemium,unknown,live,yes
 uneed,Uneed,https://uneed.best,launch,,,open-form submit; free (favors.dev atlas),free,none,live,yes
 launching-next,Launching Next,https://launchingnext.com,launch,,,email submission; free (favors.dev atlas),free,email,live,yes
-pitchwall,PitchWall,https://pitchwall.co,launch,,,account required (favors.dev atlas),unknown,email,live,yes
+pitchwall,PitchWall,https://pitchwall.co,launch,,,account required (favors.dev atlas) | auto-recon 2026-09-28: submit/pricing links: https://pitchwall.co/submit ; https://pitchwall.co/pages/advertise,freemium,email,live,yes
 betalist,BetaList,https://betalist.com,launch,,,free queue is slow; paid skips (backlinkbot),freemium,unknown,live,yes
-crunchbase,Crunchbase,https://www.crunchbase.com,profile,,,nofollow; permanent profile anchor,unknown,unknown,live,maybe
-betapage,BetaPage,https://betapage.co,launch,,,REDIRECTS 2026-09-19 — betapage.co → pitchwall.co (same operator),unknown,unknown,live,yes
-peerpush,PeerPush,https://peerpush.com,launch,,,account required (favors.dev atlas),unknown,email,live,yes
-open-launch,Open Launch,https://open-launch.com,launch,,,account required (favors.dev atlas),unknown,email,live,yes
-startup-inspire,Startup Inspire,https://startupinspire.com,launch,,,account required (favors.dev atlas),unknown,email,live,yes
-what-launched-today,What Launched Today,https://whatlaunched.today,launch,,,account required (favors.dev atlas),unknown,email,live,yes
+crunchbase,Crunchbase,https://www.crunchbase.com,profile,,,nofollow; permanent profile anchor,paid-signals,email,live,maybe
+betapage,BetaPage,https://betapage.co,launch,,,REDIRECTS 2026-09-19 — betapage.co → pitchwall.co (same operator) | auto-recon 2026-09-28: submit/pricing links: https://betapage.co/submit ; https://betapage.co/pages/advertise,freemium,email,live,yes
+peerpush,PeerPush,https://peerpush.com,launch,,,account required (favors.dev atlas) | auto-recon 2026-09-28: submit/pricing links: https://peerpush.com/submit?option=sponsored ; https://peerpush.com/auth/signup,freemium,email,live,yes
+open-launch,Open Launch,https://open-launch.com,launch,,,account required (favors.dev atlas) | auto-recon 2026-09-28: submit/pricing links: https://frogdr.com/open-launch.com/badge-white-sm.svg?round=1 ; https://frogdr.com/open-launch.com/badge-dark-sm.svg?round=1,freemium,email,live,yes
+startup-inspire,Startup Inspire,https://startupinspire.com,launch,,,account required (favors.dev atlas) | auto-recon 2026-09-28: SPA catch-all (all paths 200) — needs browser recon,unknown,email,live,yes
+what-launched-today,What Launched Today,https://whatlaunched.today,launch,,,account required (favors.dev atlas) | auto-recon 2026-09-28: submit/pricing links: https://whatlaunched.today/en ; https://whatlaunched.today/es,freemium,email,live,yes
 tinylaunch,TinyLaunch,https://tinylaun.ch,launch,,,dofollow; freemium (backlinkbot),freemium,unknown,live,yes
-10words,10words,https://10words.io,launch,,,hand-vetted (favors.dev atlas),unknown,unknown,live,yes
-eu-startups,EU-Startups,https://eu-startups.com,general-directory,,,hand-vetted (favors.dev atlas),unknown,unknown,live,yes
-startup-ranking,Startup Ranking,https://startupranking.com,general-directory,,,hand-vetted (favors.dev atlas),unknown,unknown,live,yes
+10words,10words,https://10words.io,launch,,,hand-vetted (favors.dev atlas) | auto-recon 2026-09-28: submit/pricing links: https://app.10words.io/submit,unknown,unknown,live,yes
+eu-startups,EU-Startups,https://eu-startups.com,general-directory,,,hand-vetted (favors.dev atlas) | auto-recon 2026-09-28: submit/pricing links: https://www.eu-startups.com/category/re-launch/ ; https://www.eu-startups.com/2026/09/eureka-venture-launches-e20-million-fund-to-back-deept | auto-recon: CAPTCHA detected,paid-signals,email,live,yes
+startup-ranking,Startup Ranking,https://startupranking.com,general-directory,,,hand-vetted (favors.dev atlas) | auto-recon 2026-09-28: submit/pricing links: https://startupranking.com/advertising ; https://www.startupranking.com/blog/the-5-best-sui-rpc-providers-in-2026-grpc-graphql-and-pricing-c,freemium,email,live,yes
 microlaunch,MicroLaunch,https://microlaunch.net,launch,,,dofollow; freemium (backlinkbot),freemium,unknown,live,yes
-noonlaunch,NoonLaunch,https://noonlaunch.com,launch,,,,unknown,unknown,live,yes
+noonlaunch,NoonLaunch,https://noonlaunch.com,launch,,,auto-recon 2026-09-28: submit/pricing links: https://noonlaunch.com ; https://noonlaunch.com/images/brand/noonlaunch-favicon.png,freemium,email,live,yes
 uplyst,Uplyst,https://uplyst.app,launch,,,DEAD 2026-09-19 — domain parked (GoDaddy for-sale),n/a,unknown,live,no
 wonderlaunch,Wonderlaunch,https://wonderlaunch.app,launch,,,DEAD 2026-09-19 — domain parked (GoDaddy for-sale),n/a,unknown,live,no
-favors-dev,Favors.dev,https://favors.dev,launch,,,directory + launches + leaderboard,unknown,unknown,live,yes
-firsto,Firsto,https://firsto.co,saas-directory,,,,unknown,unknown,live,yes
-dang-ai,Dang.ai,https://dang.ai,ai-directory,,,account required (favors.dev atlas),unknown,email,live,no
+favors-dev,Favors.dev,https://favors.dev,launch,,,directory + launches + leaderboard | auto-recon 2026-09-28: submit/pricing links: https://favors.dev/launches ; https://favors.dev/rally/launchradar,freemium,email,live,yes
+firsto,Firsto,https://firsto.co,saas-directory,,,auto-recon 2026-09-28: submit/pricing links: https://firsto.co/projects/submit ; https://firsto.co/pricing | auto-recon: CAPTCHA detected,freemium,email,live,yes
+dang-ai,Dang.ai,https://dang.ai,ai-directory,,,account required (favors.dev atlas) | auto-recon 2026-09-28: submit/pricing links: https://assets.dang.ai/advertisements/b9a2e4db-a7fb-4d45-9978-e55884bacf56/dreemy-ai-logo-8f6397b363ae5369.png ; https://dang.ai/featured,freemium,email,live,no
 toolify,Toolify,https://toolify.ai,ai-directory,,,paid (favors.dev atlas),paid,unknown,blocked,no
 futurepedia,Futurepedia,https://futurepedia.io,ai-directory,,,paid (favors.dev atlas),paid,unknown,live,no
-acid-tools,Acid Tools,https://acidtools.com,ai-directory,,,account required (favors.dev atlas),unknown,email,live,no
+acid-tools,Acid Tools,https://acidtools.com,ai-directory,,,account required (favors.dev atlas) | auto-recon 2026-09-28: submit/pricing links: https://submitsaas.com/ ; https://acidtools.com/pricing/paid | auto-recon: CAPTCHA detected,freemium,email,live,no
 theresanaiforthat,There's An AI For That,https://theresanaiforthat.com,ai-directory,,,open form; free; vetted (favors.dev atlas),free,unknown,blocked,no
-alternativeto,AlternativeTo,https://alternativeto.net,review,,,nofollow; open form (favors.dev atlas),unknown,unknown,blocked,yes
-g2,G2,https://www.g2.com,review,,,nofollow; freemium; review site,freemium,unknown,blocked,yes
-capterra,Capterra,https://www.capterra.com,review,,,hand-vetted (favors.dev atlas),unknown,unknown,live,yes
+alternativeto,AlternativeTo,https://alternativeto.net,review,,,nofollow; open form (favors.dev atlas) | browser 2026-09-28: live; free community directory; sign-in to add app; Tiding NOT yet listed (404 on /software/tiding/),free,email,live,yes
+g2,G2,https://www.g2.com,review,,,"nofollow; freemium; review site | browser 2026-09-28: live; free product profile via ""Add your product/service""; paid = marketing stack (demo-gated)",freemium,email,live,yes
+capterra,Capterra,https://www.capterra.com,review,,,"hand-vetted (favors.dev atlas) | browser 2026-09-28: live; /vendors/sign-up 404 but ""For vendors""/""Vendor Login"" portal present (Gartner DM umbrella); CF-gated",freemium,email,live,yes
 crozdesk,Crozdesk,https://crozdesk.com,review,,,dofollow; freemium (backlinkbot),freemium,unknown,live,yes
-softwaresuggest,SoftwareSuggest,https://www.softwaresuggest.com,review,,,account required (favors.dev atlas),unknown,email,live,yes
-slant,Slant,https://slant.co,review,,,nofollow; free (backlinkbot),free,unknown,blocked,yes
+softwaresuggest,SoftwareSuggest,https://www.softwaresuggest.com,review,,,account required (favors.dev atlas) | auto-recon 2026-09-28: submit/pricing links: https://www.softwaresuggest.com/pricing ; https://www.softwaresuggest.com/launchpads-and-ido-platform,freemium,email,live,yes
+slant,Slant,https://slant.co,review,,,nofollow; free (backlinkbot) | browser 2026-09-28: SSL error 526 — site down for all visitors,n/a,n/a,dead,no
 saasworthy,SaaSworthy,https://saasworthy.com,review,,,dofollow; freemium (backlinkbot),freemium,unknown,live,yes
 devhunt,DevHunt,https://devhunt.org,dev-directory,,,dofollow; free; dev tools only (backlinkbot),free,unknown,live,maybe
-openalternative,OpenAlternative,https://openalternative.co,dev-directory,,,account required (favors.dev atlas),unknown,email,live,maybe
-indie-dev-tools,Indie Dev Tools,https://indiedev.tools,dev-directory,,,account required (favors.dev atlas),unknown,email,live,maybe
-stackshare,StackShare,https://stackshare.io,dev-directory,,,nofollow; free (backlinkbot),free,unknown,blocked,maybe
-dev-community,DEV Community,https://dev.to,community,,,community post not a listing; dofollow per firsto,unknown,unknown,live,maybe
+openalternative,OpenAlternative,https://openalternative.co,dev-directory,,,account required (favors.dev atlas) | auto-recon 2026-09-28: submit/pricing links: https://openalternative.co/advertise ; https://openalternative.co/submit | auto-recon: CAPTCHA detected,freemium,email,live,maybe
+indie-dev-tools,Indie Dev Tools,https://indiedev.tools,dev-directory,,,account required (favors.dev atlas) | auto-recon 2026-09-28: submit/pricing links: https://indiedev.tools/tool/submitmap-t_mtnb1ml2qlrrck0fp1n ; https://submitmap.com?ref=indiedev.tools&amp;utm_source=indiedev.tools | auto-recon: CAPTCHA detected,freemium,email,live,maybe
+stackshare,StackShare,https://stackshare.io,dev-directory,,,"nofollow; free (backlinkbot) | browser 2026-09-28: live; ""List a Tool"" + sign-in; dev/AI-tools focus — weak fit for consumer health app",free,email,live,maybe
+dev-community,DEV Community,https://dev.to,community,,,community post not a listing; dofollow per firsto | auto-recon 2026-09-28: submit/pricing links: https://dev.to/enter?signup_subforem=1 ; https://dev.to/enter?signup_subforem=1&amp;state=new-user,freemium,email,live,maybe
 github,GitHub,https://github.com,profile,,,org/repo homepage link; only if open-source,free,email,live,maybe
 land-book,Land-book,https://land-book.com,design,,,paid (favors.dev atlas),paid,unknown,live,maybe
-lapa-ninja,Lapa Ninja,https://lapa.ninja,design,,,hand-vetted (favors.dev atlas),unknown,unknown,live,maybe
+lapa-ninja,Lapa Ninja,https://lapa.ninja,design,,,hand-vetted (favors.dev atlas),paid-signals,email,live,maybe
 saashub,SaaSHub,https://www.saashub.com,saas-directory,,,dofollow; free (backlinkbot),free,unknown,live,yes
-saas-browser,SaaS Browser,https://saasbrowser.com,saas-directory,,,account required (favors.dev atlas),unknown,email,live,yes
+saas-browser,SaaS Browser,https://saasbrowser.com,saas-directory,,,account required (favors.dev atlas) | auto-recon 2026-09-28: submit/pricing links: https://assets.saasbrowser.com/assets/controllers/form_submit_controller-d3d252a9068a203b5cb43ad13a671b2722b600c2d035d61c8028c42e5b810c19.js | auto-recon: CAPTCHA detected,freemium,email,live,yes
 startup-stash,Startup Stash,https://startupstash.com,saas-directory,,,dofollow; freemium (backlinkbot),freemium,unknown,live,yes
 appsumo,AppSumo,https://appsumo.com,marketplace,,,deals marketplace not a listing; rev-share economics,paid,email,live,maybe
-sourceforge,SourceForge,https://sourceforge.net,dev-directory,,,dofollow; freemium; downloadable software,freemium,unknown,blocked,maybe
+sourceforge,SourceForge,https://sourceforge.net,dev-directory,,,"dofollow; freemium; downloadable software | browser 2026-09-28: live; /create = OSS projects; ""For Vendors"" business-software listing path in nav",free,email,live,yes
 wellfound,Wellfound,https://wellfound.com,profile,,,nofollow; free; company profile,free,unknown,live,maybe
-hacker-news,Hacker News (Show HN),https://news.ycombinator.com,community,,,Show HN post; strict self-promo norms,unknown,unknown,live,maybe
-indie-hackers,Indie Hackers,https://www.indiehackers.com,community,,,community post not a listing,unknown,unknown,live,maybe
+hacker-news,Hacker News (Show HN),https://news.ycombinator.com,community,,,Show HN post; strict self-promo norms | auto-recon 2026-09-28: submit/pricing links: https://news.ycombinator.com/submit ; https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/529,paid-signals,email,live,maybe
+indie-hackers,Indie Hackers,https://www.indiehackers.com,community,,,community post not a listing | auto-recon 2026-09-28: submit/pricing links: https://www.indiehackers.com/sign-up | auto-recon: CAPTCHA detected,paid-signals,email,live,maybe
 peerlist,Peerlist,https://peerlist.io,community,,,Launchpad; dofollow; free (backlinkbot),free,unknown,live,maybe
-f6s,F6S,https://www.f6s.com,profile,,,nofollow; free; hand-vetted (favors.dev atlas),free,unknown,blocked,maybe
-comingup,ComingUp,https://comingup.io,launch,,,launchrepo profile,unknown,unknown,live,yes
-promoteproject,PromoteProject,https://www.promoteproject.com,launch,,,launchrepo profile,unknown,unknown,live,yes
-sideprojectors,SideProjectors,https://www.sideprojectors.com,launch,,,side-project marketplace + showcase,unknown,unknown,live,yes
-startupbase,StartupBase,https://startupbase.io,launch,,,launchrepo profile,unknown,unknown,live,yes
-bowora,Bowora,https://bowora.com,launch,,,formerly Best of Web (bestofweb.site),unknown,unknown,live,yes
-aat-ee,aat.ee,https://aat.ee,launch,,,startup + AI tool discovery,unknown,unknown,live,yes
-buildvoyage,BuildVoyage,https://buildvoyage.com,saas-directory,,,curated micro-SaaS directory,unknown,unknown,live,yes
-builtbyindies,BuiltByIndies,https://builtbyindies.com,launch,,,indie product launches,unknown,unknown,live,yes
+f6s,F6S,https://www.f6s.com,profile,,,"nofollow; free; hand-vetted (favors.dev atlas) | browser 2026-09-28: live; free membership (""Join 6.6M for free""); company profiles; Google/email signup",free,email,live,yes
+comingup,ComingUp,https://comingup.io,launch,,,launchrepo profile | auto-recon 2026-09-28: submit/pricing links: https://comingup.io/submit ; https://comingup.io/p/diesel-prices-are-high-here,paid-signals,email,live,yes
+promoteproject,PromoteProject,https://www.promoteproject.com,launch,,,launchrepo profile | auto-recon 2026-09-28: submit/pricing links: https://www.promoteproject.com/register | auto-recon: CAPTCHA detected,unknown,email,live,yes
+sideprojectors,SideProjectors,https://www.sideprojectors.com,launch,,,side-project marketplace + showcase | auto-recon 2026-09-28: working path /pricing,unknown,email,live,yes
+startupbase,StartupBase,https://startupbase.io,launch,,,launchrepo profile | auto-recon 2026-09-28: submit/pricing links: https://startupbase.io/launches ; https://startupbase.io/advertise,freemium,email,live,yes
+bowora,Bowora,https://bowora.com,launch,,,formerly Best of Web (bestofweb.site) | auto-recon 2026-09-28: submit/pricing links: https://bowora.com/register ; https://bowora.com/launches.stackledge.com,freemium,email,live,yes
+aat-ee,aat.ee,https://aat.ee,launch,,,startup + AI tool discovery | auto-recon 2026-09-28: submit/pricing links: https://aat.ee/pricing ; https://aat.ee/projects/submit | auto-recon: CAPTCHA detected,freemium,email,live,yes
+buildvoyage,BuildVoyage,https://buildvoyage.com,saas-directory,,,curated micro-SaaS directory | auto-recon 2026-09-28: submit/pricing links: https://buildvoyage.com/advertise ; https://buildvoyage.com/submit | auto-recon: CAPTCHA detected,freemium,email,live,yes
+builtbyindies,BuiltByIndies,https://builtbyindies.com,launch,,,indie product launches | auto-recon 2026-09-28: submit/pricing links: https://builtbyindies.com/signup ; https://builtbyindies.com/submit | auto-recon: CAPTCHA detected,freemium,email,live,yes
 businesshunt,BusinessHunt,https://businesshunt.com,launch,,,DEAD 2026-09-19 — domain parked (GoDaddy for-sale),n/a,unknown,blocked,no
-futuretools,Future Tools,https://futuretools.io,ai-directory,,,launchrepo profile,unknown,unknown,live,no
-ai-agent-store,AI Agent Store,https://aiagentstore.ai,ai-directory,,,,unknown,unknown,live,no
-ai-center,AI Center,https://aicenter.ai,ai-directory,,,,unknown,unknown,live,no
-ai-kaptan,AI KAPTAN,https://aikaptan.com,ai-directory,,,,unknown,unknown,live,no
-ai-parabellum,AI Parabellum,https://aiparabellum.com,ai-directory,,,,unknown,unknown,live,no
+futuretools,Future Tools,https://futuretools.io,ai-directory,,,launchrepo profile | auto-recon 2026-09-28: submit/pricing links: https://futuretools.io/submit-a-tool | auto-recon: CAPTCHA detected,freemium,unknown,live,no
+ai-agent-store,AI Agent Store,https://aiagentstore.ai,ai-directory,,,auto-recon 2026-09-28: submit/pricing links: https://aiagentstore.ai/claw-setup-files/submit ; https://aiagentstore.ai/advertise,freemium,email,live,no
+ai-center,AI Center,https://aicenter.ai,ai-directory,,,auto-recon 2026-09-28: submit/pricing links: https://aicenter.ai/submit-tools ; https://aicenter.ai/tools/free-nsfw-ai-image-generator(no-sign-up),freemium,email,live,no
+ai-kaptan,AI KAPTAN,https://aikaptan.com,ai-directory,,,auto-recon 2026-09-28: submit/pricing links: https://aikaptan.com/submit ; https://aikaptan.com/launch,freemium,email,live,no
+ai-parabellum,AI Parabellum,https://aiparabellum.com,ai-directory,,,auto-recon 2026-09-28: submit/pricing links: https://aiparabellum.com/category/featured/ ; https://aiparabellum.com/submit-your-ai-tool/,freemium,email,live,no
 ai-pulse,AI Pulse,https://aipulse.net,ai-directory,,,DEAD 2026-09-19 — domain parked (GoDaddy for-sale),n/a,unknown,live,no
-alphadigits,AlphaDigits,https://alphadigits.com,review,,,mobile app reviews,unknown,unknown,live,yes
-alternative-me,alternative.me,https://alternative.me,saas-directory,,,,unknown,unknown,live,yes
-alternative-tools,Alternative.tools,https://alternative.tools,saas-directory,,,,unknown,unknown,live,yes
-awesome-indie,Awesome Indie,https://awesomeindie.com,launch,,,,unknown,unknown,live,yes
-backlinkforme,Backlinkforme,https://backlinkforme.com,saas-directory,,,domain responds; exact platform unconfirmed,unknown,unknown,live,yes
-boilerplatelist,BoilerplateList,https://boilerplatelist.com,dev-directory,,,boilerplate catalog,unknown,unknown,live,maybe
-appvizer,Appvizer,https://www.appvizer.com,review,,,FR/EU software reviews,unknown,unknown,live,yes
-business-software,Business-Software.com,https://business-software.com,review,,,,unknown,unknown,live,yes
+alphadigits,AlphaDigits,https://alphadigits.com,review,,,mobile app reviews | auto-recon 2026-09-28: submit/pricing links: https://alphadigits.com/submit-app-for-review/ ; https://alphadigits.com/featured/,unknown,email,live,yes
+alternative-me,alternative.me,https://alternative.me,saas-directory,,,auto-recon 2026-09-28: submit/pricing links: https://alternative.me/signup/ ; https://alternative.me/how-to/submit-software/,unknown,email,live,yes
+alternative-tools,Alternative.tools,https://alternative.tools,saas-directory,,,auto-recon 2026-09-28: submit/pricing links: https://alternative.tools/pricing ; https://alternative.tools/submit,freemium,email,live,yes
+awesome-indie,Awesome Indie,https://awesomeindie.com,launch,,,auto-recon 2026-09-28: submit/pricing links: https://awesomeindie.com/category/advertising ; https://awesomeindie.com/submit,freemium,email,live,yes
+backlinkforme,Backlinkforme,https://backlinkforme.com,saas-directory,,,domain responds; exact platform unconfirmed | auto-recon 2026-09-28: submit/pricing links: https://backlinkforme.com/tools/submit ; https://tools.launchllama.co?utm_source=badge&amp;utm_medium=referral,free,email,live,yes
+boilerplatelist,BoilerplateList,https://boilerplatelist.com,dev-directory,,,boilerplate catalog | auto-recon 2026-09-28: submit/pricing links: https://boilerplatelist.com/submit/ ; https://boilerplatelist.com/advertising/ | auto-recon: CAPTCHA detected,free,email,live,maybe
+appvizer,Appvizer,https://www.appvizer.com,review,,,FR/EU software reviews | auto-recon 2026-09-28: submit/pricing links: https://www.appvizer.com/accounting-finance/cash-register,free,email,live,yes
+business-software,Business-Software.com,https://business-software.com,review,,,auto-recon 2026-09-28: submit/pricing links: https://www.business-software.com/blog/nonprofit-software-pricing-in-2026-what-accounting-donor-crm-and-grant-management-tools-actually-cost,paid-signals,email,live,yes
 cabinetm,CabinetM,https://cabinetm.com,review,,,DEAD 2026-09-19 — domain redirects to unrelated Canva site,n/a,unknown,live,no
-comparasoftware,ComparaSoftware,https://comparasoftware.com,review,,,LATAM software reviews,unknown,unknown,live,yes
-cuspera,Cuspera,https://cuspera.com,review,,,,unknown,unknown,live,yes
-discovercloud,DiscoverCloud,https://www.discovercloud.com,review,,,,unknown,unknown,live,yes
+comparasoftware,ComparaSoftware,https://comparasoftware.com,review,,,LATAM software reviews | auto-recon 2026-09-28: submit/pricing links: https://comparasoftware.com/panel-usuario/register ; https://comparasoftware.com/panel-usuario/partner-register,unknown,email,live,yes
+cuspera,Cuspera,https://cuspera.com,review,,,,paid-signals,unknown,live,yes
+discovercloud,DiscoverCloud,https://www.discovercloud.com,review,,,auto-recon 2026-09-28: submit/pricing links: https://www.discovercloud.com/get-featured ; https://www.discovercloud.com/expert/register,paid-signals,email,live,yes
 financesonline,FinancesOnline,https://financesonline.com,review,,,launchrepo profile,unknown,unknown,live,yes
-goodfirms,GoodFirms,https://www.goodfirms.co,review,,,launchrepo profile (vendor portal account.goodfirms.co),unknown,unknown,live,yes
-omr-reviews,OMR Reviews,https://omr.com,review,,,DACH software reviews (omr.com/reviews),unknown,unknown,live,yes
-tekpon,Tekpon,https://tekpon.com,review,,,,unknown,unknown,live,yes
-trustradius,TrustRadius,https://www.trustradius.com,review,,,vendor portal solutions.trustradius.com,unknown,unknown,blocked,yes
-dealroom,Dealroom,https://dealroom.co,profile,,,company profiles; app.dealroom.co,unknown,unknown,live,maybe
-e27,e27,https://e27.co,profile,,,SEA startup ecosystem,unknown,unknown,live,maybe
-startupblink,StartupBlink,https://www.startupblink.com,profile,,,ecosystem map,unknown,unknown,live,maybe
-trustpilot,Trustpilot,https://www.trustpilot.com,profile,,,business.trustpilot.com for vendors,unknown,unknown,blocked,maybe
+goodfirms,GoodFirms,https://www.goodfirms.co,review,,,launchrepo profile (vendor portal account.goodfirms.co) | auto-recon 2026-09-28: submit/pricing links: https://www.goodfirms.co/get-listed | auto-recon: CAPTCHA detected,freemium,email,live,yes
+omr-reviews,OMR Reviews,https://omr.com,review,,,DACH software reviews (omr.com/reviews) | auto-recon 2026-09-28: submit/pricing links: https://omr.com/de/topics/meta-advertising | auto-recon: CAPTCHA detected,unknown,unknown,live,yes
+tekpon,Tekpon,https://tekpon.com,review,,,auto-recon 2026-09-28: submit/pricing links: https://tekpon.com/get-listed/ ; https://tekpon.com/pricing/,freemium,email,live,yes
+trustradius,TrustRadius,https://www.trustradius.com,review,,,"vendor portal solutions.trustradius.com | browser 2026-09-28: live; ""FREE PRODUCT PROFILE""/""Claim Your Profile"" + Vendor Portal Login",freemium,email,live,yes
+dealroom,Dealroom,https://dealroom.co,profile,,,company profiles; app.dealroom.co | auto-recon 2026-09-28: submit/pricing links: https://dealroom.co/pricing/,freemium,email,live,maybe
+e27,e27,https://e27.co,profile,,,SEA startup ecosystem | auto-recon 2026-09-28: submit/pricing links: https://e27.co/advertise/ ; https://e27.co/startups/?page=1&length=10&vertical=Advertising,paid-signals,email,live,maybe
+startupblink,StartupBlink,https://www.startupblink.com,profile,,,ecosystem map,unknown,email,live,maybe
+trustpilot,Trustpilot,https://www.trustpilot.com,profile,,,"business.trustpilot.com for vendors | browser 2026-09-28: business.trustpilot.com ""Create free account""/""Start for free""; paid review-marketing tiers",freemium,email,live,maybe
 deutsche-startups,deutsche-startups.de,https://deutsche-startups.de,profile,,,DE startup database,unknown,unknown,live,maybe
-seedtable,Seedtable,https://seedtable.com,profile,,,EU startup database,unknown,unknown,blocked,maybe
-startbase,Startbase,https://startbase.de,profile,,,DE startup platform,unknown,unknown,live,maybe
-startup-europe,Startup Europe,https://startupeurope.net,profile,,,,unknown,unknown,live,maybe
-startuptracker,Startup Tracker,https://startuptracker.io,profile,,,,unknown,unknown,live,maybe
-startupsfm,Startups.fm,https://startups.fm,profile,,,,unknown,unknown,live,maybe
-startups-nrw,startups.nrw,https://startups.nrw,profile,,,NRW regional ecosystem,unknown,unknown,live,maybe
-startupxplore,Startupxplore,https://startupxplore.com,profile,,,investor-facing startup DB,unknown,unknown,live,maybe
-startupbuffer,Startup Buffer,https://startupbuffer.com,launch,,,,unknown,unknown,blocked,yes
-trustmrr,TrustMRR,https://trustmrr.com,marketplace,,,verified-MRR SaaS marketplace,unknown,unknown,live,maybe
-reddit-saas,Reddit r/SaaS,https://www.reddit.com/r/SaaS/,community,,,strict self-promo rules; launch threads only,unknown,unknown,live,maybe
-reddit-sideproject,Reddit r/SideProject,https://www.reddit.com/r/SideProject/,community,,,weekly promotion thread; read rules first,unknown,unknown,live,maybe
-versily,Versily,https://versily.com,community,,,launchrepo teaser — community platform,unknown,unknown,live,maybe
-apprater,AppRater,https://apprater.net,saas-directory,,,launchrepo profile,unknown,unknown,live,yes
-devpost,Devpost,https://devpost.com/software,profile,https://devpost.com/software/{slug},,already listed — devpost.com/software/example (a hackathon),unknown,unknown,live,maybe
-allmyfaves,All My Faves,https://www.allmyfaves.com,general-directory,,,"LOW VALUE — bookmark startpage, ad redirects, no listing flow, 2026-09-19",unknown,unknown,live,yes
-alltopstartups,All Top Startups,https://alltopstartups.com,general-directory,,,submit-startup path exists; verified live 2026-09-19,unknown,unknown,live,yes
-appoid,Appoid,https://appiod.com,review,,,app review submit path; verified live 2026-09-19,unknown,unknown,live,yes
-apppicker,appPicker,https://www.apppicker.com,review,,,iOS app coverage; verified live 2026-09-19,unknown,unknown,live,yes
-appslisto,Apps Listo,https://appslisto.com,review,,,submit-your-app path; verified live 2026-09-19,unknown,unknown,live,yes
-appsmamma,Apps Mamma,https://appsmamma.com,review,,,submit-your-app path; verified live 2026-09-19,unknown,unknown,live,yes
-appsthunder,AppsThunder,https://appsthunder.com,review,,,submit-your-app path; verified live 2026-09-19,unknown,unknown,live,yes
-appvita,Appvita,https://www.appvita.com,review,,,"STALE — redirects to onk.io (personal site), 2026-09-19",unknown,unknown,live,yes
-arcticstartup,ArcticStartup,https://arcticstartup.com,press,,,Nordic startup press; bot-walled to curl; verified reachable 2026-09-19,unknown,unknown,live,maybe
-betabound,Beta Bound,https://www.betabound.com,community,,,"beta-tester community, /announce/ path; verified live 2026-09-19",unknown,unknown,live,maybe
-betatesting,BetaTesting,https://betatesting.com,community,,,beta-testing platform; verified live 2026-09-19,unknown,unknown,live,maybe
-builtinchicago,Built In Chicago,https://www.builtinchicago.org,press,,,send-us-tip editorial path; bot-walled; verified reachable 2026-09-19,unknown,unknown,live,maybe
-collaborizm,Collaborizm,https://www.collaborizm.com,community,,,maker community; verified live 2026-09-19,unknown,unknown,live,maybe
-ebool,eBool,https://www.ebool.com,general-directory,,,/submit path; verified live 2026-09-19,unknown,unknown,live,yes
-geekwire,GeekWire,https://geekwire.com,press,,,startup-list editorial path; verified live 2026-09-19,unknown,unknown,live,maybe
-getapp,GetApp,https://getapp.com,review,,,Gartner Digital Markets vendor portal (shared w/ Capterra); bot-walled; verified reachable 2026-09-19,unknown,unknown,live,yes
-getworm,Getworm,https://getworm.com,general-directory,,,submit-startup path; verified live 2026-09-19,unknown,unknown,live,yes
-gust,Gust,https://www.gust.com,profile,,,startup/funding profile platform; bot-walled; verified reachable 2026-09-19,unknown,unknown,live,maybe
-inc42,Inc42,https://inc42.com,press,,,startup-submission editorial path; verified live 2026-09-19,unknown,unknown,live,maybe
-killerstartups,KillerStartups,https://killerstartups.com,press,,,submit-startup path; verified live 2026-09-19,unknown,unknown,live,maybe
-makeuseof,MakeUseOf,https://www.makeuseof.com,press,,,editorial coverage; verified live 2026-09-19,unknown,unknown,live,maybe
-microsaasexamples,Micro SaaS Examples,https://www.microsaasexamples.com,saas-directory,,,verified live 2026-09-19,unknown,unknown,live,yes
-netted,Netted,https://www.netted.net,press,,,contact-us editorial path; verified live 2026-09-19,unknown,unknown,live,maybe
-nextbigwhat,Next Big What,https://nextbigwhat.com,press,,,"STALE — now a Substack newsletter, 2026-09-19",unknown,unknown,live,maybe
-preapps,PreApps,https://www.preapps.com,review,,,app marketing/review platform; verified live 2026-09-19,unknown,unknown,live,yes
-saasrow,SaaSRow,https://saasrow.com,saas-directory,,,verified live 2026-09-19,unknown,unknown,live,yes
-saijogeorge-tools,Saijo George Tools List,https://saijogeorge.com/best-marketing-tools/,general-directory,,,marketing tools list; verified live 2026-09-19,unknown,unknown,live,yes
+seedtable,Seedtable,https://seedtable.com,profile,,,"EU startup database | browser 2026-09-28: live; ""Add to Seedtable"" + ""Paid features"" links; startup DB — fit depends on listing openness",freemium,email,live,maybe
+startbase,Startbase,https://startbase.de,profile,,,DE startup platform | auto-recon 2026-09-28: submit/pricing links: https://www.startbase.de/register/ | auto-recon: CAPTCHA detected,unknown,email,live,maybe
+startup-europe,Startup Europe,https://startupeurope.net,profile,,,auto-recon 2026-09-28: submit/pricing links: https://startupeurope.net/users/join.php | auto-recon: CAPTCHA detected,free,email,live,maybe
+startuptracker,Startup Tracker,https://startuptracker.io,profile,,,auto-recon 2026-09-28: working path /pricing,unknown,email,live,maybe
+startupsfm,Startups.fm,https://startups.fm,profile,,,auto-recon 2026-09-28: submit/pricing links: https://startups.fm/submit,paid-signals,email,live,maybe
+startups-nrw,startups.nrw,https://startups.nrw,profile,,,NRW regional ecosystem | auto-recon 2026-09-28: submit/pricing links: https://global-connect.nrw/register | auto-recon 2026-09-28: SPA catch-all (all paths 200) — needs browser recon,unknown,email,live,maybe
+startupxplore,Startupxplore,https://startupxplore.com,profile,,,investor-facing startup DB | auto-recon 2026-09-28: submit/pricing links: https://startupxplore.com/en/register | auto-recon: CAPTCHA detected,paid-signals,email,live,maybe
+startupbuffer,Startup Buffer,https://startupbuffer.com,launch,,,browser 2026-09-28: CF challenge passes on reload but /submit-startup is 404 and homepage renders empty — submit path unverified,unknown,unknown,live,yes
+trustmrr,TrustMRR,https://trustmrr.com,marketplace,,,verified-MRR SaaS marketplace | auto-recon 2026-09-28: submit/pricing links: https://trustmrr.com/special-category/advertising-platforms,freemium,email,live,maybe
+reddit-saas,Reddit r/SaaS,https://www.reddit.com/r/SaaS/,community,,,strict self-promo rules; launch threads only,free,email,live,maybe
+reddit-sideproject,Reddit r/SideProject,https://www.reddit.com/r/SideProject/,community,,,weekly promotion thread; read rules first,free,email,live,maybe
+versily,Versily,https://versily.com,community,,,launchrepo teaser — community platform | auto-recon 2026-09-28: SPA catch-all (all paths 200) — needs browser recon,unknown,unknown,live,maybe
+apprater,AppRater,https://apprater.net,saas-directory,,,launchrepo profile | auto-recon 2026-09-28: submit/pricing links: https://apprater.net/#submit,freemium,email,live,yes
+devpost,Devpost,https://devpost.com/software,profile,https://devpost.com/software/{slug},,already listed — devpost.com/software/example (a hackathon) | auto-recon 2026-09-28: submit/pricing links: https://secure.devpost.com/users/register?ref_content=signup_global_nav&amp;ref_feature=signup&amp;ref_medium=button ; https://devpost.com/s | auto-recon: CAPTCHA detected,unknown,email,live,maybe
+allmyfaves,All My Faves,https://www.allmyfaves.com,general-directory,,,"LOW VALUE — bookmark startpage, ad redirects, no listing flow, 2026-09-19 | auto-recon: CAPTCHA detected | auto-recon 2026-09-28: SPA catch-all (all paths 200) — needs browser recon",unknown,unknown,live,yes
+alltopstartups,All Top Startups,https://alltopstartups.com,general-directory,,,submit-startup path exists; verified live 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://alltopstartups.com/advertise/ ; https://alltopstartups.com/submit-startup/ | auto-recon: CAPTCHA detected,free,unknown,live,yes
+appoid,Appoid,https://appiod.com,review,,,app review submit path; verified live 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://appiod.com/submit-app-for-review/ | auto-recon: CAPTCHA detected,freemium,email,live,yes
+apppicker,appPicker,https://www.apppicker.com,review,,,iOS app coverage; verified live 2026-09-19,unknown,email,live,yes
+appslisto,Apps Listo,https://appslisto.com,review,,,submit-your-app path; verified live 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://appslisto.com/tag/featured/ ; https://appslisto.com/submit-your-app/,free,unknown,live,yes
+appsmamma,Apps Mamma,https://appsmamma.com,review,,,submit-your-app path; verified live 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://appsmamma.com/submit-your-app/ | auto-recon: CAPTCHA detected,freemium,email,live,yes
+appsthunder,AppsThunder,https://appsthunder.com,review,,,submit-your-app path; verified live 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://appsthunder.com/submit-your-app/ | auto-recon: CAPTCHA detected,freemium,unknown,live,yes
+appvita,Appvita,https://www.appvita.com,review,,,"STALE — redirects to onk.io (personal site), 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://www.appvita.com#featured | auto-recon 2026-09-28: SPA catch-all (all paths 200) — needs browser recon",unknown,unknown,live,yes
+arcticstartup,ArcticStartup,https://arcticstartup.com,press,,,Nordic startup press; bot-walled to curl; verified reachable 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://omniform1.com/signup/v1/5c79118c8653ed7d232cfac3_615324881c5f30002091d639.html ; https://arcticstartup.com/climentum-capital-launche | auto-recon: CAPTCHA detected,paid-signals,email,live,maybe
+betabound,Beta Bound,https://www.betabound.com,community,,,"beta-tester community, /announce/ path; verified live 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://www.betabound.com/featured/ ; https://my.betabound.com/signup | auto-recon: CAPTCHA detected",unknown,email,live,maybe
+betatesting,BetaTesting,https://betatesting.com,community,,,beta-testing platform; verified live 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://betatesting.com/signup ; https://betatesting.com/pricing,paid-signals,email,live,maybe
+builtinchicago,Built In Chicago,https://www.builtinchicago.org,press,,,send-us-tip editorial path; bot-walled; verified reachable 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://www.builtinchicago.org/auth/signup?destination=%2f | auto-recon: CAPTCHA detected,unknown,email,live,maybe
+collaborizm,Collaborizm,https://www.collaborizm.com,community,,,maker community; verified live 2026-09-19 | auto-recon 2026-09-28: working path /pricing,unknown,email,live,maybe
+ebool,eBool,https://www.ebool.com,general-directory,,,/submit path; verified live 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://www.ebool.com/submit | auto-recon: CAPTCHA detected,freemium,email,live,yes
+geekwire,GeekWire,https://geekwire.com,press,,,startup-list editorial path; verified live 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://www.geekwire.com/advertise/ ; https://www.geekwire.com/2026/tech-moves-microsoft-ai-exec-joins-niantic-spatial-allen-fund-names-firs | auto-recon: CAPTCHA detected,paid-signals,email,live,maybe
+getapp,GetApp,https://getapp.com,review,,,Gartner Digital Markets vendor portal (shared w/ Capterra); bot-walled; verified reachable 2026-09-19 | same vendor portal umbrella as Capterra (Gartner Digital Markets) — verify vendor signup in browser,freemium,email,live,yes
+getworm,Getworm,https://getworm.com,general-directory,,,submit-startup path; verified live 2026-09-19 | auto-recon 2026-09-28: SPA catch-all (all paths 200) — needs browser recon,unknown,unknown,live,yes
+gust,Gust,https://www.gust.com,profile,,,startup/funding profile platform; bot-walled; verified reachable 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://gust.com/launch/ ; https://www.gust.com/launch/faq,freemium,email,live,maybe
+inc42,Inc42,https://inc42.com,press,,,startup-submission editorial path; verified live 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://inc42.com/features/?utm_medium=referral&#038;utm_source=menu ; https://pages.inc42.com/submit-your-guest-post/?utm_medium=referral&# | auto-recon: CAPTCHA detected,paid-signals,email,live,maybe
+killerstartups,KillerStartups,https://killerstartups.com,press,,,submit-startup path; verified live 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://killerstartups.com/trumps-auto-tariffs-to-hike-car-prices/ ; https://killerstartups.com/french-startup-gladia-launches-solaria-ai-mo | auto-recon: CAPTCHA detected,paid-signals,unknown,live,maybe
+makeuseof,MakeUseOf,https://www.makeuseof.com,press,,,editorial coverage; verified live 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://www.makeuseof.com/disable-these-unnecessary-windows-features-free-up-storage/ ; https://www.makeuseof.com/disable-these-unnecessary- | auto-recon: CAPTCHA detected,paid-signals,email,live,maybe
+microsaasexamples,Micro SaaS Examples,https://www.microsaasexamples.com,saas-directory,,,verified live 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://www.microsaasexamples.com/submit ; https://www.microsaasexamples.com/p/boringlaunch,freemium,email,live,yes
+netted,Netted,https://www.netted.net,press,,,contact-us editorial path; verified live 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://www.netted.net/advertise-with-us/ | auto-recon: CAPTCHA detected,unknown,email,live,maybe
+nextbigwhat,Next Big What,https://nextbigwhat.com,press,,,"STALE — now a Substack newsletter, 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://submit.nextbigwhat.com",paid-signals,email,live,maybe
+preapps,PreApps,https://www.preapps.com,review,,,app marketing/review platform; verified live 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://www.preapps.com/pricing/ | auto-recon: CAPTCHA detected,freemium,email,live,yes
+saasrow,SaaSRow,https://saasrow.com,saas-directory,,,verified live 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://saasrow.com/featured ; https://saasrow.com/submit,freemium,email,live,yes
+saijogeorge-tools,Saijo George Tools List,https://saijogeorge.com/best-marketing-tools/,general-directory,,,marketing tools list; verified live 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://www.marketingminer.com/en/features/seo-audit ; https://www.semrush.com/features/site-audit/?ref=15065138,freemium,email,live,yes
 simplelister,Simple Lister,https://simplelister.com,saas-directory,,,"DEAD — chrome-error on load, 2026-09-19",n/a,unknown,live,no
-similarsitesearch,SimilarSiteSearch,https://www.similarsitesearch.com,general-directory,,,verified live 2026-09-19,unknown,unknown,live,yes
-snapmunk,SnapMunk,https://www.snapmunk.com,press,,,submit-your-startup path; bot-walled; verified reachable 2026-09-19,unknown,unknown,live,maybe
-softwareadvice,Software Advice,https://www.softwareadvice.com,review,,,Gartner Digital Markets portal (shared w/ Capterra/GetApp); verified 2026-09-19,unknown,unknown,live,yes
-starterstory,Starter Story,https://starterstory.com,community,,,founder-story platform; verified live 2026-09-19,unknown,unknown,live,maybe
-startup88,Startup88,https://startup88.com,press,,,verified live 2026-09-19,unknown,unknown,live,maybe
-startupbeat,Startup Beat,https://startupbeat.com,press,,,featured-startup pitch guidelines; verified live 2026-09-19,unknown,unknown,live,maybe
-startupbenchmarks,Startup Benchmarks,https://www.startupbenchmarks.com,general-directory,,,verified live 2026-09-19,unknown,unknown,live,yes
-startups-gallery,Startups Gallery,https://startups.gallery,general-directory,,,verified live 2026-09-19,unknown,unknown,live,yes
+similarsitesearch,SimilarSiteSearch,https://www.similarsitesearch.com,general-directory,,,verified live 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://www.similarsitesearch.com/signup/,unknown,email,live,yes
+snapmunk,SnapMunk,https://www.snapmunk.com,press,,,submit-your-startup path; bot-walled; verified reachable 2026-09-19,paid-signals,email,live,maybe
+softwareadvice,Software Advice,https://www.softwareadvice.com,review,,,Gartner Digital Markets portal (shared w/ Capterra/GetApp); verified 2026-09-19 | same vendor portal umbrella as Capterra (Gartner Digital Markets) — verify vendor signup in browser,freemium,email,live,yes
+starterstory,Starter Story,https://starterstory.com,community,,,founder-story platform; verified live 2026-09-19 | auto-recon: CAPTCHA detected,paid-signals,email,live,maybe
+startup88,Startup88,https://startup88.com,press,,,verified live 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://startup88.com/category/featured,freemium,email,live,maybe
+startupbeat,Startup Beat,https://startupbeat.com,press,,,featured-startup pitch guidelines; verified live 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://startupbeat.com/get-featured/ ; https://startupbeat.com/features/startup-pitches/,paid-signals,email,live,maybe
+startupbenchmarks,Startup Benchmarks,https://www.startupbenchmarks.com,general-directory,,,verified live 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://www.startupbenchmarks.com/category/launch-platforms ; https://submitsaas.com/,freemium,email,live,yes
+startups-gallery,Startups Gallery,https://startups.gallery,general-directory,,,verified live 2026-09-19,paid-signals,unknown,live,yes
 stateoftech,State of Tech,https://stateoftech.net,review,,,"DEAD — chrome-error on load, 2026-09-19",n/a,unknown,live,no
-tapscape,Tapscape,https://www.tapscape.com,review,,,app reviews; verified live 2026-09-19,unknown,unknown,live,yes
-thataicollection,AI Collection,https://www.thataicollection.com,ai-directory,,,verified live 2026-09-19,unknown,unknown,live,no
-thetechmap,The Tech Map,https://thetechmap.com,general-directory,,,verified live 2026-09-19,unknown,unknown,live,yes
-techpluto,Tech Pluto,https://www.techpluto.com,press,,,submit-a-startup path; verified live 2026-09-19,unknown,unknown,live,maybe
-vator,Vator,https://www.vator.tv,community,,,"STALE — redirects to vatortv.substack.com, 2026-09-19",unknown,unknown,live,maybe
-webapprater,Web App Rater,https://webapprater.com,review,,,submit-your-web-application path; verified live 2026-09-19,unknown,unknown,live,yes
-websitehunt,Website Hunt,https://www.websitehunt.co,general-directory,,,verified live 2026-09-19,unknown,unknown,live,yes
-reddit-alphaandbetausers,r/AlphaandBetausers,https://www.reddit.com/r/alphaandbetausers/,community,,,subreddit; same Reddit auth + self-promo rules,unknown,unknown,live,maybe
-reddit-buildinpublic,r/buildinpublic,https://www.reddit.com/r/buildinpublic/,community,,,subreddit; build-in-public posts welcome,unknown,unknown,live,maybe
-reddit-coupons,r/Coupons,https://www.reddit.com/r/coupons/,community,,,subreddit; deals only — probably wrong fit,unknown,unknown,live,maybe
-reddit-designcritiques,r/Design_Critiques,https://www.reddit.com/r/design_critiques/,community,,,subreddit; design feedback posts,unknown,unknown,live,maybe
-reddit-entrepreneur,r/Entrepreneur,https://www.reddit.com/r/entrepreneur/,community,,,subreddit; strict self-promo rules,unknown,unknown,live,maybe
-reddit-ridealong,r/EntrepreneurRideAlong,https://www.reddit.com/r/EntrepreneurRideAlong/,community,,,subreddit; founder journey posts,unknown,unknown,live,maybe
-reddit-imadethis,r/IMadeThis,https://www.reddit.com/r/imadethis/,community,,,subreddit; show-what-you-made posts,unknown,unknown,live,maybe
-reddit-indiebiz,r/IndieBiz,https://www.reddit.com/r/indiebiz/,community,,,subreddit; indie business threads,unknown,unknown,live,maybe
-reddit-indiehackers,r/indiehackers,https://www.reddit.com/r/indiehackers/,community,,,subreddit,unknown,unknown,live,maybe
-reddit-ladybusiness,r/LadyBusiness,https://www.reddit.com/r/ladybusiness/,community,,,subreddit; women founders,unknown,unknown,live,maybe
-reddit-microsaas,r/microsaas,https://www.reddit.com/r/microsaas/,community,,,subreddit; micro-SaaS makers,unknown,unknown,live,maybe
-reddit-plugyourproduct,r/plugyourproduct,https://www.reddit.com/r/plugyourproduct/,community,,,subreddit; self-promo allowed,unknown,unknown,live,maybe
-reddit-roastmystartup,r/RoastMyStartup,https://www.reddit.com/r/roastmystartup/,community,,,subreddit; feedback-request posts,unknown,unknown,live,maybe
-reddit-shamelessplug,r/shamelessplug,https://www.reddit.com/r/shamelessplug/,community,,,subreddit; self-promo allowed,unknown,unknown,live,maybe
-reddit-smallbusiness,r/SmallBusiness,https://www.reddit.com/r/smallbusiness/,community,,,subreddit; strict self-promo rules,unknown,unknown,live,maybe
-reddit-startups,r/Startups,https://www.reddit.com/r/startups/,community,,,subreddit; strict self-promo rules,unknown,unknown,live,maybe
-reddit-thesidehustle,r/thesidehustle,https://www.reddit.com/r/thesidehustle/,community,,,subreddit,unknown,unknown,live,maybe
+tapscape,Tapscape,https://www.tapscape.com,review,,,app reviews; verified live 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://www.tapscape.com/advertise/ ; https://www.tapscape.com/submit-app-review/,paid-signals,email,live,yes
+thataicollection,AI Collection,https://www.thataicollection.com,ai-directory,,,verified live 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://www.thataicollection.com/submit ; https://www.thataicollection.com/application/sveltelaunch/,freemium,email,live,no
+thetechmap,The Tech Map,https://thetechmap.com,general-directory,,,verified live 2026-09-19 | auto-recon 2026-09-28: working path /pricing,unknown,email,live,yes
+techpluto,Tech Pluto,https://www.techpluto.com,press,,,submit-a-startup path; verified live 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://www.techpluto.com/advertise/ ; https://www.techpluto.com/submit-startup/,paid-signals,email,live,maybe
+vator,Vator,https://www.vator.tv,community,,,"STALE — redirects to vatortv.substack.com, 2026-09-19 | auto-recon: CAPTCHA detected",paid-signals,email,live,maybe
+webapprater,Web App Rater,https://webapprater.com,review,,,submit-your-web-application path; verified live 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://webapprater.com/submit-your-web-application-for-review-html ; https://webapprater.com/advertise-html | auto-recon: CAPTCHA detected,free,email,live,yes
+websitehunt,Website Hunt,https://www.websitehunt.co,general-directory,,,verified live 2026-09-19 | auto-recon 2026-09-28: submit/pricing links: https://www.websitehunt.co/accounts/signup/?next=/ ; https://www.websitehunt.co/websites/submit/create | auto-recon: CAPTCHA detected,unknown,email,live,yes
+reddit-alphaandbetausers,r/AlphaandBetausers,https://www.reddit.com/r/alphaandbetausers/,community,,,subreddit; same Reddit auth + self-promo rules,free,email,live,maybe
+reddit-buildinpublic,r/buildinpublic,https://www.reddit.com/r/buildinpublic/,community,,,subreddit; build-in-public posts welcome,free,email,live,maybe
+reddit-coupons,r/Coupons,https://www.reddit.com/r/coupons/,community,,,subreddit; deals only — probably wrong fit,free,email,live,maybe
+reddit-designcritiques,r/Design_Critiques,https://www.reddit.com/r/design_critiques/,community,,,subreddit; design feedback posts,free,email,live,maybe
+reddit-entrepreneur,r/Entrepreneur,https://www.reddit.com/r/entrepreneur/,community,,,subreddit; strict self-promo rules,free,email,live,maybe
+reddit-ridealong,r/EntrepreneurRideAlong,https://www.reddit.com/r/EntrepreneurRideAlong/,community,,,subreddit; founder journey posts,free,email,live,maybe
+reddit-imadethis,r/IMadeThis,https://www.reddit.com/r/imadethis/,community,,,subreddit; show-what-you-made posts,free,email,live,maybe
+reddit-indiebiz,r/IndieBiz,https://www.reddit.com/r/indiebiz/,community,,,subreddit; indie business threads,free,email,live,maybe
+reddit-indiehackers,r/indiehackers,https://www.reddit.com/r/indiehackers/,community,,,subreddit,free,email,live,maybe
+reddit-ladybusiness,r/LadyBusiness,https://www.reddit.com/r/ladybusiness/,community,,,subreddit; women founders,free,email,live,maybe
+reddit-microsaas,r/microsaas,https://www.reddit.com/r/microsaas/,community,,,subreddit; micro-SaaS makers | auto-recon: CAPTCHA detected,free,email,live,maybe
+reddit-plugyourproduct,r/plugyourproduct,https://www.reddit.com/r/plugyourproduct/,community,,,subreddit; self-promo allowed | auto-recon: CAPTCHA detected,free,email,live,maybe
+reddit-roastmystartup,r/RoastMyStartup,https://www.reddit.com/r/roastmystartup/,community,,,subreddit; feedback-request posts | auto-recon: CAPTCHA detected,free,email,live,maybe
+reddit-shamelessplug,r/shamelessplug,https://www.reddit.com/r/shamelessplug/,community,,,subreddit; self-promo allowed | auto-recon: CAPTCHA detected,free,email,live,maybe
+reddit-smallbusiness,r/SmallBusiness,https://www.reddit.com/r/smallbusiness/,community,,,subreddit; strict self-promo rules | auto-recon: CAPTCHA detected,free,email,live,maybe
+reddit-startups,r/Startups,https://www.reddit.com/r/startups/,community,,,subreddit; strict self-promo rules | auto-recon: CAPTCHA detected,free,email,live,maybe
+reddit-thesidehustle,r/thesidehustle,https://www.reddit.com/r/thesidehustle/,community,,,subreddit | auto-recon: CAPTCHA detected,free,email,live,maybe
 stampedios,Stamped iOS,https://stampedios.com/,app-discovery,,img,Recon 2026-09-22: live; free submission; account required (Google/Apple/email); iOS-only community directory; /submit behind login,free,social,live,yes
 appcharts,App Charts,https://appcharts.nixmio.com/,app-discovery,,,Recon 2026-09-22: live; featured placement reviewed personally; free editorial picks + paid labelled placement,freemium,email,live,yes
-appsarc,AppsArc,https://appsarc.com/,app-discovery,,img,Browser 2026-09-22: /submit redirects to login; email+Google sign-in; Health & Fitness category exists; cost behind login UNVERIFIED,unknown,email,live,yes
+appsarc,AppsArc,https://appsarc.com/,app-discovery,,img,Browser 2026-09-22: /submit redirects to login; email+Google sign-in; Health & Fitness category exists; cost behind login UNVERIFIED | auto-recon 2026-09-28: submit/pricing links: https://appsarc.com/submit,free,email,live,yes
 mobilelaunch,MobileLaunch,https://www.mobilelaunch.app/,app-discovery,,img,Recon 2026-09-22: live; free during beta (paid after beta); account required; weekly batches; iOS+Android,free,email,live,yes
 spacerrapps,SpacerrApps,https://spacerrapps.com/,app-discovery,,img,Browser 2026-09-22: live; FREE submit + paid Highlight/Spotlight placements; sign-in required; Health/Fitness/Mobile categories — good Tiding fit,freemium,social,live,yes
 findupapp,FindUpApp,https://findupapp.com/,app-discovery,,img,Recon 2026-09-22: live; free registration; iOS+Android; Health & Fitness category exists,free,email,live,yes
@@ -265,22 +265,22 @@ slocco,Slocco,https://slocco.com/,launch,,img,Recon 2026-09-22: live; launch & d
 rockethub,RocketHub,https://rockethub.com/,deals,,,"Browser 2026-09-22: live; paid LTD marketplace (""Launch on RocketHub"" vendor deal placement)",paid,email,live,no
 toolfolio,Toolfolio,https://toolfolio.com/,saas-directory,,,"Browser 2026-09-22: live; PAID ONLY — $99 Startup / $2,500yr Growth listing tiers",paid,unknown,live,yes
 saasgenius,SaaSGenius,https://saasgenius.com/,saas-directory,,,"Browser 2026-09-22: live; PAID ONLY — ""not currently accepting free listings""; email contact@saasgenius.com for pricing",paid,unknown,live,yes
-reviano,Reviano,https://www.reviano.com/,saas-directory,,,Browser 2026-09-22: live; /submit-listing.html requires account (login/register); B2B services review site; cost unverified,unknown,email,live,yes
+reviano,Reviano,https://www.reviano.com/,saas-directory,,,Browser 2026-09-22: live; /submit-listing.html requires account (login/register); B2B services review site; cost unverified | auto-recon 2026-09-28: submit/pricing links: https://www.reviano.com/services/northwest-registered-agent-review.html ; https://www.reviano.com/blog/best-registered-agent-services.html | auto-recon: CAPTCHA detected,freemium,email,live,yes
 serchen,Serchen,https://serchen.com/,saas-directory,,,Browser 2026-09-22: live; /get-listed = find-company claim flow; if unlisted -> /get-listed/new form (logo/name/domain/LinkedIn/category/desc/contact) then Stripe payment $49.95 one-off Basic Membership -> PAID,paid,form,live,yes
 softwareworld,SoftwareWorld,https://softwareworld.co/,saas-directory,,,"Browser 2026-09-22: live (Cloudflare passes in real browser); FREE vendor registration at /register/ (name,biz email,password,ToS,reCAPTCHA); G2-style review directory",free,email,live,yes
 manta,Manta,https://www.manta.com/,general-directory,,,Browser 2026-09-22: live; US local small-business directory w/ claim-listing + Sign Up — weak fit for software product,freemium,email,live,no
-ctrlalt,ctrlalt,https://ctrlalt.cc/,saas-directory,,,Browser 2026-09-22: live; JS-heavy maker/designer community w/ Join/Login — weak fit for app listing,unknown,email,live,no
-startups-fyi,Startups.fyi,https://startups.fyi/,newsletter,,,"Browser 2026-09-22: live; curated money-making-startups feed; ""Share your project"" nav link present but non-functional on click — submission path UNVERIFIED",unknown,unknown,live,maybe
+ctrlalt,ctrlalt,https://ctrlalt.cc/,saas-directory,,,Browser 2026-09-22: live; JS-heavy maker/designer community w/ Join/Login — weak fit for app listing | auto-recon 2026-09-28: submit/pricing links: https://ctrlalt.cc/join,freemium,email,live,no
+startups-fyi,Startups.fyi,https://startups.fyi/,newsletter,,,"Browser 2026-09-22: live; curated money-making-startups feed; ""Share your project"" nav link present but non-functional on click — submission path UNVERIFIED | auto-recon: CAPTCHA detected",freemium,email,live,maybe
 libhunt,LibHunt,https://libhunt.com/,dev-registry,,,Recon 2026-09-22: live; open-source projects ONLY; /repo/submit — poor fit for closed-source apps,free,github,live,no
 launchdirectories,LaunchDirectories,https://www.launchdirectories.com/,meta-directory,,,"Recon 2026-09-22: live; aggregator of 100+ directories — research source, not a listing target",n/a,n/a,live,no
-bestwebdesigntools,Best Web Design Tools,https://bestwebdesigntools.com/,saas-directory,,,Browser 2026-09-22: live; web-DESIGN tools only (Figma/Framer/templates) — not a fit for Tiding,unknown,email,live,no
+bestwebdesigntools,Best Web Design Tools,https://bestwebdesigntools.com/,saas-directory,,,Browser 2026-09-22: live; web-DESIGN tools only (Figma/Framer/templates) — not a fit for Tiding | auto-recon 2026-09-28: submit/pricing links: https://bestwebdesigntools.com/submit,freemium,email,live,no
 apilist,API List,https://apilist.fun/,api-directory,,,Recon 2026-09-22: live; free public APIs list — not a product directory,free,unknown,live,no
-publicapis,Public APIs,https://publicapis.dev/,api-directory,,,Recon 2026-09-22: live; API registry — not a product directory,unknown,unknown,live,no
+publicapis,Public APIs,https://publicapis.dev/,api-directory,,,Recon 2026-09-22: live; API registry — not a product directory | auto-recon 2026-09-28: submit/pricing links: https://publicapis.dev/advertise ; https://publicapis.dev/submit,freemium,email,live,no
 inventlist,InventList,https://inventlist.com/,saas-directory,,,"Browser 2026-09-22: live; maker narrative-stream community; Submit Product + ""Start free"" + sign-in required",freemium,social,live,maybe
 saasgallery,SaaS Gallery,https://saasgallery.com/,saas-directory,,,DEAD 2026-09-22: redirects to empty /lander page in real browser,n/a,n/a,dead,no
 danrecommends,Dan Recommends,https://danrecommends.com/,review-service,,,Browser 2026-09-22: live; $49 one-time paid review -> paid-blocked,paid,none,live,maybe
 makerpad,MakerPad,https://makerpad.co/,community,,,Recon 2026-09-22: live but pivoted to AI-company building — poor directory fit now,unknown,email,live,no
-waildworld,Waild World,https://waildworld.com/,ai-directory,,,"Browser 2026-09-22: live; AI-TOOLS directory (3350+); Google sign-in; ""Submit a tool"" — AI-only, Tiding skipped",unknown,unknown,live,no
+waildworld,Waild World,https://waildworld.com/,ai-directory,,,"Browser 2026-09-22: live; AI-TOOLS directory (3350+); Google sign-in; ""Submit a tool"" — AI-only, Tiding skipped",free,email,live,no
 dealmirror,DealMirror,https://dealmirror.com/,deals,,,"Browser 2026-09-22: live; LTD marketplace; ""Submit a deal"" vendor placement (paid); www subdomain has cert error — use bare domain",paid,email,live,no
 saaspirate,SaaSPirate,https://saaspirate.com/,deals,,,"Browser 2026-09-22: live; LTD deals blog; ""Submit a Deal"" featured placement (paid)",paid,email,live,no
 payonceuseforever,PayOnceUseForever,https://payonceuseforever.com/,deals,,,DEAD 2026-09-22: parked GoDaddy for-sale page,n/a,n/a,dead,no
@@ -290,49 +290,49 @@ stacksocial,StackSocial,https://www.stacksocial.com/,deals,,,"Browser 2026-09-22
 kenmoo,KEN Moo,https://kenmoo.me/,deals,,,"Browser 2026-09-22: kenmoo.com redirects to kenmoo.me; live LTD community; ""Launch With Us"" paid launch service",paid,email,live,no
 productcanyon,Product Canyon,https://productcanyon.com/,deals,,,"Browser 2026-09-22: live; LTD marketplace; ""Become a Seller"" paid placement",paid,email,live,no
 stacker-news,Stacker News,https://stacker.news/,community,,,Recon 2026-09-22: live; bitcoin/Nostr-leaning forum; posting costs sats — poor fit for app launch,paid,email,live,maybe
-madgenius,Mad Genius,https://madgenius.co/,ai-directory,,,"Browser 2026-09-22: live at .co (.app dead); AI-tools directory w/ ""Submit a tool"" — AI-only, Tiding skipped",unknown,unknown,live,no
+madgenius,Mad Genius,https://madgenius.co/,ai-directory,,,"Browser 2026-09-22: live at .co (.app dead); AI-tools directory w/ ""Submit a tool"" — AI-only, Tiding skipped",paid-signals,email,live,no
 nocodelist,NoCodeList,https://nocodelist.co/,saas-directory,,,Recon 2026-09-22: live; no-code tools directory — partial fit (Tiding is native code),unknown,email,live,no
-showmebestai,ShowMeBest.AI,https://showmebest.ai/,ai-directory,,img,Recon 2026-09-22: live; AI-only — skip for Tiding,unknown,unknown,live,no
-basedtools,BasedTools,https://basedtools.ai/,ai-directory,,img,Recon 2026-09-22: live; AI-only — skip for Tiding,unknown,unknown,live,no
-brouseai,BroUseAI,https://brouseai.com/,ai-directory,,img,Recon 2026-09-22: live; AI-only — skip for Tiding,unknown,unknown,live,no
-altern,Altern,https://altern.ai/,ai-directory,,img,Recon 2026-09-22: live; AI-only — skip for Tiding,unknown,unknown,live,no
-botstash,BotStash (botsfloor),https://botsfloor.com/,ai-directory,,img,Recon 2026-09-22: live (botsfloor.com serves BotStash); AI-only — skip for Tiding,unknown,unknown,live,no
-lookaitools,LookAITools,https://lookaitools.com/,ai-directory,,img,Recon 2026-09-22: live; AI-only — skip for Tiding,unknown,unknown,live,no
-opentools,OpenTools,https://opentools.ai/,ai-directory,,img,Recon 2026-09-22: live; AI-only — skip for Tiding,unknown,unknown,live,no
-seofai,SEOFAI,https://seofai.com/,ai-directory,,img,Recon 2026-09-22: live; AI-only — skip for Tiding,unknown,unknown,live,no
-aixploria,AIxploria,https://aixploria.com/,ai-directory,,img,Recon 2026-09-22: live; AI-only — skip for Tiding,unknown,unknown,live,no
-powerusers,Powerusers AI,https://powerusers.ai/,ai-directory,,img,"Recon 2026-09-22: live; 'Submit AI Tool' — AI-only, skip for Tiding",unknown,unknown,live,no
-aimarketingdirectory,AI Marketing Directory,https://aimarketingdirectory.com/,ai-directory,,img,Recon 2026-09-22: live; AI-only — skip for Tiding,unknown,unknown,live,no
-dokeyai,DokeyAI,https://dokeyai.com/,ai-directory,,img,"Recon 2026-09-22: live (dokeyai.com, not dokey.ai); AI-only — skip for Tiding",unknown,unknown,live,no
-appscribed,Appscribed,https://appscribed.com/,ai-directory,,img,Recon 2026-09-22: live; AI tools directory — skip for Tiding,unknown,unknown,live,no
-feedough,Feedough,https://feedough.com/,press,,,LFG-14 sync 2026-09-28: live; startup features/stories site — editorial pitch path,unknown,unknown,live,maybe
-gartner-digital-markets,Gartner Digital Markets,https://www.gartner.com/digital-markets,review,,,LFG-14 sync 2026-09-28: umbrella for Capterra/GetApp/SoftwareAdvice vendor portals; 403 to curl (bot-blocked) — verify in browser,unknown,unknown,blocked,yes
-glassdoor,Glassdoor,https://www.glassdoor.com/,profile,,,LFG-14 sync 2026-09-28: company profile w/ reviews; 403 bot-blocked — verify in browser; needs company entity (sceneXtras Inc),unknown,unknown,blocked,maybe
+showmebestai,ShowMeBest.AI,https://showmebest.ai/,ai-directory,,img,Recon 2026-09-22: live; AI-only — skip for Tiding | auto-recon 2026-09-28: submit/pricing links: https://showmebest.ai/submit ; https://showmebest.ai/category/advertising,freemium,email,live,no
+basedtools,BasedTools,https://basedtools.ai/,ai-directory,,img,Recon 2026-09-22: live; AI-only — skip for Tiding | auto-recon 2026-09-28: submit/pricing links: https://basedtools.ai/submit | auto-recon: CAPTCHA detected,freemium,email,live,no
+brouseai,BroUseAI,https://brouseai.com/,ai-directory,,img,Recon 2026-09-22: live; AI-only — skip for Tiding | auto-recon 2026-09-28: submit/pricing links: https://brouseai.com/featured,paid-signals,unknown,live,no
+altern,Altern,https://altern.ai/,ai-directory,,img,Recon 2026-09-22: live; AI-only — skip for Tiding | auto-recon 2026-09-28: submit/pricing links: https://altern.ai/maker/submit/start ; https://altern.ai/tasks/submit-your-ai-tools-around-the-web-to-get-discovered,freemium,email,live,no
+botstash,BotStash (botsfloor),https://botsfloor.com/,ai-directory,,img,Recon 2026-09-22: live (botsfloor.com serves BotStash); AI-only — skip for Tiding | auto-recon 2026-09-28: submit/pricing links: https://botsfloor.com/submit,paid-signals,unknown,live,no
+lookaitools,LookAITools,https://lookaitools.com/,ai-directory,,img,Recon 2026-09-22: live; AI-only — skip for Tiding | auto-recon 2026-09-28: submit/pricing links: https://www.producthunt.com/posts/lookaitools?utm_source=badge-featured&amp;utm_medium=badge&amp;utm_souce=badge-lookaitools ; https://looka | auto-recon: CAPTCHA detected,freemium,email,live,no
+opentools,OpenTools,https://opentools.ai/,ai-directory,,img,Recon 2026-09-22: live; AI-only — skip for Tiding | auto-recon 2026-09-28: submit/pricing links: https://opentools.ai/friends/launch-tool ; https://marshy-teller-328.notion.site/Advertise-With-OpenTools-37cb46049ad8809cb84bc22cb6fb03ed?p,freemium,email,live,no
+seofai,SEOFAI,https://seofai.com/,ai-directory,,img,Recon 2026-09-22: live; AI-only — skip for Tiding | auto-recon 2026-09-28: submit/pricing links: https://seofai.com/submit-ai-tool/ ; https://seofai.com/featured/ | auto-recon: CAPTCHA detected,freemium,email,live,no
+aixploria,AIxploria,https://aixploria.com/,ai-directory,,img,Recon 2026-09-22: live; AI-only — skip for Tiding | auto-recon 2026-09-28: submit/pricing links: https://join.netlify.com/sqfxz39wk1qd-w6zrwt ; https://www.aixploria.com/en/category/featured-en/,freemium,email,live,no
+powerusers,Powerusers AI,https://powerusers.ai/,ai-directory,,img,"Recon 2026-09-22: live; 'Submit AI Tool' — AI-only, skip for Tiding | auto-recon 2026-09-28: submit/pricing links: https://powerusers.ai/submit-ai-tool/ ; https://powerusersai.featurebase.app/ | auto-recon: CAPTCHA detected",freemium,email,live,no
+aimarketingdirectory,AI Marketing Directory,https://aimarketingdirectory.com/,ai-directory,,img,Recon 2026-09-22: live; AI-only — skip for Tiding,paid-signals,email,live,no
+dokeyai,DokeyAI,https://dokeyai.com/,ai-directory,,img,"Recon 2026-09-22: live (dokeyai.com, not dokey.ai); AI-only — skip for Tiding | auto-recon 2026-09-28: submit/pricing links: https://dokeyai.com/en/pricing ; https://dokeyai.com/en/submit",freemium,email,live,no
+appscribed,Appscribed,https://appscribed.com/,ai-directory,,img,Recon 2026-09-22: live; AI tools directory — skip for Tiding | auto-recon 2026-09-28: submit/pricing links: https://appscribed.com/submit-ai-tool/ ; https://appscribed.com/software/beforesunset-ai-pricing-features-alternatives/ | auto-recon: CAPTCHA detected,freemium,email,live,no
+feedough,Feedough,https://feedough.com/,press,,,LFG-14 sync 2026-09-28: live; startup features/stories site — editorial pitch path | auto-recon 2026-09-28: submit/pricing links: https://www.feedough.com/wp-content/plugins/webhook-signup-form/public/css/form-styles.css?ver=1.1.4 ; https://www.feedough.com/wp-content/p,free,email,live,maybe
+gartner-digital-markets,Gartner Digital Markets,https://www.gartner.com/digital-markets,review,,,"LFG-14 sync 2026-09-28: umbrella for Capterra/GetApp/SoftwareAdvice vendor portals; 403 to curl (bot-blocked) — verify in browser | browser 2026-09-28: gartner.com/digital-markets redirects to insights; actual vendor portal via Capterra/GetApp/SoftwareAdvice ""For vendors""",freemium,email,live,yes
+glassdoor,Glassdoor,https://www.glassdoor.com/,profile,,,LFG-14 sync 2026-09-28: company profile w/ reviews; 403 bot-blocked — verify in browser; needs company entity (sceneXtras Inc) | auto-recon 2026-09-28: submit/pricing links: https://www.glassdoor.com/employers/sign-up/?source=employermenu ; https://www.glassdoor.com/employers/sign-up/?src=gdfoot | auto-recon: CAPTCHA detected | browser 2026-09-28: employers page live; free employer profile signup; needs company entity (sceneXtras Inc),freemium,email,live,maybe
 aboutme,About.me,https://about.me/,profile,,img,LFG-14 sync 2026-09-28: live; free personal/brand profile page — easy dofollow,free,unknown,live,maybe
-techinasia,Tech in Asia,https://www.techinasia.com/,press,,,LFG-14 sync 2026-09-28: live; press/startup coverage — editorial pitch,unknown,unknown,live,maybe
-growthjunkie,GrowthJunkie,https://growthjunkie.com/,general-directory,,,LFG-14 sync 2026-09-28: live; marketing/tools directory,unknown,unknown,live,yes
-webwiki,Webwiki,https://www.webwiki.com/,general-directory,,,LFG-14 sync 2026-09-28: 403 to curl; free website review/comment directory — verify in browser,free,unknown,blocked,yes
-crowdreviews,CrowdReviews,https://www.crowdreviews.com/,review,,,LFG-14 sync 2026-09-28: live; crowdsourced software review directory,unknown,unknown,live,yes
-cloudfindr,CloudFindr,https://cloudfindr.co/,saas-directory,,,LFG-14 sync 2026-09-28: live (cloudfindr.co); SaaS comparison directory,unknown,unknown,live,yes
+techinasia,Tech in Asia,https://www.techinasia.com/,press,,,LFG-14 sync 2026-09-28: live; press/startup coverage — editorial pitch | auto-recon 2026-09-28: submit/pricing links: https://www.techinasia.com/#icon-registered ; https://www.techinasia.com/#icon-submit-publish,unknown,email,live,maybe
+growthjunkie,GrowthJunkie,https://growthjunkie.com/,general-directory,,,LFG-14 sync 2026-09-28: live; marketing/tools directory | auto-recon 2026-09-28: submit/pricing links: https://growthjunkie.com/advertise/ ; https://growthjunkie.com/register | auto-recon: CAPTCHA detected,freemium,email,live,yes
+webwiki,Webwiki,https://www.webwiki.com/,general-directory,,,LFG-14 sync 2026-09-28: 403 to curl; free website review/comment directory — verify in browser | browser 2026-09-28: 403 Forbidden even in real browser — possibly geo/IP blocked; retry later,free,unknown,blocked,yes
+crowdreviews,CrowdReviews,https://www.crowdreviews.com/,review,,,LFG-14 sync 2026-09-28: live; crowdsourced software review directory | auto-recon 2026-09-28: submit/pricing links: https://www.crowdreviews.com/experience-advertising | auto-recon pass2: /advertise shows paid signals; account observed,paid-signals,email,live,yes
+cloudfindr,CloudFindr,https://cloudfindr.co/,saas-directory,,,LFG-14 sync 2026-09-28: live (cloudfindr.co); SaaS comparison directory | auto-recon 2026-09-28: submit/pricing links: https://cloudfindr.co/list-your-app ; https://cloudfindr.co/marketing-advertising-software,freemium,email,live,yes
 payonceapps,PayOnceApps,https://payonceapps.com/,deals,,,LFG-14 sync 2026-09-28: live; pay-once app deals marketplace (Tiding has subscription — weak fit),paid,email,live,no
 buymeacoffee,Buy Me a Coffee,https://www.buymeacoffee.com/,profile,,,LFG-14 sync 2026-09-28: live; free creator page — weak listing value but easy profile backlink,free,unknown,live,maybe
-feedmystartup,Feed My Startup,https://feedmystartup.com/,launch,,,LFG-14 sync 2026-09-28: live; startup submission site,unknown,unknown,live,yes
+feedmystartup,Feed My Startup,https://feedmystartup.com/,launch,,,LFG-14 sync 2026-09-28: live; startup submission site | auto-recon 2026-09-28: submit/pricing links: https://feedmystartup.com/submit/ ; https://feedmystartup.com/submit-your-startup/,unknown,unknown,live,yes
 behance,Behance,https://www.behance.net/,design,,,LFG-14 sync 2026-09-28: live (429 rate-limited); DR94 free dofollow via design portfolio — could host Tiding app design case study,free,unknown,live,maybe
 indiepage,IndiePage,https://indiepage.io/,profile,,,LFG-14 sync 2026-09-28: $45 lifetime DR67 dofollow per issue; DNS dead 2026-09-22 check — verify correct domain before use,n/a,n/a,dead,no
 listmysaas,ListMySaaS,https://listmysaas.app/,saas-directory,,,LFG-14 sync 2026-09-28: DNS dead 2026-09-22 check — verify correct domain,n/a,n/a,dead,no
 shaft-ai,SHAFT AI,https://shaft.ai/,ai-directory,,,LFG-14 sync 2026-09-28: URL unverified; AI-only — Tiding skipped | auto-scan 2026-09-28: unreachable/HTTP 0,unknown,unknown,dead,no
-victrays,Victrays,https://victrays.com/,ai-directory,,,"LFG-14 sync 2026-09-28: live; AI tools directory — AI-only, Tiding skipped",unknown,unknown,live,no
+victrays,Victrays,https://victrays.com/,ai-directory,,,"LFG-14 sync 2026-09-28: live; AI tools directory — AI-only, Tiding skipped | auto-recon 2026-09-28: submit/pricing links: https://victrays.com/submit-ai-tool/ ; https://victrays.com/submit-tool",freemium,email,live,no
 aitoolkit,AIToolkit,https://aitoolkit.org/,ai-directory,,,"LFG-14 sync 2026-09-28: 403 bot-blocked; AI-only — verify in browser, Tiding skipped",unknown,unknown,blocked,no
 topapps,TopApps AI,https://topapps.ai/,ai-directory,,,LFG-14 sync 2026-09-28: live; AI-only — Tiding skipped,unknown,unknown,live,no
 awesome-ai-startups,Awesome AI Startups,https://github.com/DanKornas/awesome-ai-startups,dev-registry,,,"LFG-14 sync 2026-09-28: GitHub curated indie AI list — AI-only, Tiding skipped | auto-scan 2026-09-28: unreachable/HTTP 404",unknown,unknown,dead,no
 claude-marketplace,Claude Marketplace,https://claude.ai/admin-settings/directory/submissions,marketplace,,,LFG-14 sync 2026-09-28: requires Claude app/MCP server submission (~12h approval) — N/A for Tiding unless an MCP server ships,free,email,live,maybe
 founderbest,Founder.best,https://founder.best/,general-directory,,,LFG-14 sync 2026-09-28: live; indie free-dofollow directory (DR41 per issue),free,unknown,live,yes
-showbuild,ShowBuild,https://showbuild.co/,launch,,img,LFG-14 sync 2026-09-28: live; indie build-in-public launch directory,unknown,unknown,live,yes
-zerorevenue,Zero Revenue Club,https://zerorevenue.club/,community,,,LFG-14 sync 2026-09-28: live; indie zero-revenue club listing,unknown,unknown,live,maybe
-topseos,TopSEOs,https://topseos.lol/,general-directory,,,LFG-14 sync 2026-09-28: live; indie directory (topseos.lol),unknown,unknown,live,yes
-todaymet,TodayMet,https://todaymet.com/,general-directory,,,LFG-14 sync 2026-09-28: live; indie directory,unknown,unknown,live,yes
+showbuild,ShowBuild,https://showbuild.co/,launch,,img,LFG-14 sync 2026-09-28: live; indie build-in-public launch directory,unknown,email,live,yes
+zerorevenue,Zero Revenue Club,https://zerorevenue.club/,community,,,LFG-14 sync 2026-09-28: live; indie zero-revenue club listing | auto-recon 2026-09-28: submit/pricing links: https://zerorevenue.club/advertise ; https://zerorevenue.club/join | auto-recon: CAPTCHA detected,freemium,email,live,maybe
+topseos,TopSEOs,https://topseos.lol/,general-directory,,,LFG-14 sync 2026-09-28: live; indie directory (topseos.lol),paid-signals,email,live,yes
+todaymet,TodayMet,https://todaymet.com/,general-directory,,,LFG-14 sync 2026-09-28: live; indie directory | auto-recon 2026-09-28: submit/pricing links: https://smollaunch.com ; https://launchpanda.dev/launches/other/todaymet | auto-recon: CAPTCHA detected,freemium,email,live,yes
 directoryfinder,DirectoryFinder,https://directoryfinder.com/,meta-directory,,,LFG-14 sync 2026-09-28: live; directory-of-directories w/ DR/dofollow/price/approval-time — source for expanding this registry,n/a,n/a,live,no
-vccircle,VCCircle,https://www.vccircle.com/,press,,,LFG-14 sync 2026-09-28: live; VC/startup press — editorial pitch or subscription-gated,unknown,unknown,live,maybe
+vccircle,VCCircle,https://www.vccircle.com/,press,,,LFG-14 sync 2026-09-28: live; VC/startup press — editorial pitch or subscription-gated | auto-recon 2026-09-28: submit/pricing links: https://www.vccircle.com/asianafund-jc-capital-launch-fund-for-technology-manufacturing-bets ; https://www.vccircle.com/sparkcapital-launche,paid-signals,email,live,maybe
 chrome-web-store,Chrome Web Store,https://chromewebstore.google.com/,marketplace,,,"LFG-14 sync 2026-09-28: distribution channel (Google-domain backlink) — requires shipping a Chrome extension; product work needed, not a listing",paid,email,live,maybe
 readcv,Read.cv,https://read.cv/,profile,,,LFG-14 sync 2026-09-28: returned HTTP 402 on check (site sunset after LinkedIn acquisition) — verify whether still accepts profiles,n/a,n/a,dead,no
 startuplister,StartupLister,https://startuplister.com/,meta-directory,,,LFG-14 sync 2026-09-28: HTTP 404 on check; done-for-you submission service — verify before use,n/a,n/a,dead,no
