@@ -54,3 +54,24 @@ Only mark fields verified when they were directly observed. Keep
 
 Match the existing playbook structure. Write for an agent reader: imperative
 steps, checklists, explicit unknowns.
+
+## Recon workflow (learned 2026-09-28)
+
+When bulk-verifying platforms:
+
+- **Write the CSV only with `csv.writer`** — never string-concatenated
+  rows. Unquoted commas in `notes` silently corrupt the column count
+  (this happened; 9 rows broke). The file uses CRLF line endings —
+  preserve them or every line diffs.
+- **HTTP status is not ground truth.** Three failure modes observed:
+  parked domains return 200 (`payonceuseforever`), bot-protection
+  returns 403/429 for live sites (alternativeto, g2), and SPAs return
+  200 for every path (`startup-inspire`, `versily`, `allmyfaves`) so
+  discovered submit links may be fake. Confirm conflicts in a real
+  browser (BrowserOS) before marking `live`/`dead`.
+- **Probe order:** liveness HEAD/GET sweep → homepage submit-link
+  discovery → standard-path probes (`/pricing`, `/submit`,
+  `/get-listed`, `/advertise`) → browser pass for `blocked` rows only.
+- **Mark uncertainty explicitly:** `cost=paid-signals` means regex hit
+  on a pricing page, not an observed price. `live=blocked` means curl
+  was refused, not that the site is down.
