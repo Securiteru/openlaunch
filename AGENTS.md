@@ -73,7 +73,7 @@ Pause and get explicit user approval before:
 | Path | What it is |
 |---|---|
 | `products/<slug>/brief.md` | Product facts, approved copy, assets |
-| `platforms/platforms.csv` | Registry: name, URL, category, product-URL pattern |
+| `platforms/platforms.csv` | Registry: name, URL, category, product-URL pattern + `cost`/`account`/`live`/`tiding_fit` classification |
 | `platforms/playbooks/<slug>.md` | Per-platform submission guide (living doc) |
 | `tracker/data.json` | All listing records — edit this, never `index.html` |
 | `docs/` | Selection rubric, evidence rules, setup |

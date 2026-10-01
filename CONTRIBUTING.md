@@ -21,10 +21,19 @@ Only mark fields verified when they were directly observed. Keep
 ## Adding a platform
 
 1. Add a row to `platforms/platforms.csv`:
-   `slug,name,url,category,product_url_pattern,badge,notes`
+   `slug,name,url,category,product_url_pattern,badge,notes,cost,account,live,tiding_fit`
    - `category`: `launch` | `ai-directory` | `saas-directory` |
      `dev-directory` | `general-directory` | `review` | `press` |
-     `community` | `profile` | `marketplace` | `design`
+     `community` | `profile` | `marketplace` | `design` |
+     `app-discovery` | `app-review` | `beta-testing` | `deals` |
+     `newsletter` | `dev-registry` | `meta-directory` | `api-directory` |
+     `review-service`
+   - `cost`: `free` | `freemium` | `paid` | `paid-signals` | `n/a` | `unknown`
+   - `account`: `none` | `email` | `social` | `badge` | `github` | `partner` |
+     `n/a` | `unknown`
+   - `live`: `live` | `blocked` | `dead` | `unknown`
+   - `tiding_fit`: `yes` | `maybe` | `no` — current-product relevance
+     (rename/repurpose per product)
    - `product_url_pattern`: the public listing URL shape with `{slug}`
      (e.g. `https://example.com/item/{slug}`) — leave empty if unknown
    - `badge`: `img` | `img-remote` | `text` — what the platform offers for

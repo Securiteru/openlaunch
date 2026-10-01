@@ -15,10 +15,11 @@ and anything public.
 | Piece | Path | What it does |
 |---|---|---|
 | Platform playbooks | `platforms/playbooks/` | Per-platform submission guide: prep, steps, known hurdles, confirmation signals. Living docs — your agent writes back what it learns. |
-| Registry | `platforms/platforms.csv` | 239 seeded platforms: launch sites, AI-tool directories, SaaS/dev directories, review sites, communities, profiles — including product-page URL patterns and submission mechanics where known. |
+| Registry | `platforms/platforms.csv` | 344 platforms: launch sites, AI-tool directories, SaaS/dev directories, review sites, communities, profiles — with per-row `cost`, `account`, `live` and `tiding_fit` classification columns and submission mechanics where observed. |
 | Product brief | `brief/product-brief.template.md` | Every fact, approved claim, description length, and asset in one place. The agent never invents copy. |
 | Selection rubric | `docs/selection.md` | Score platforms by fit, audience, link value, effort, and cost before spending submissions. |
 | Local tracker | `tracker/` | A static dashboard + `data.json` the agent maintains: submitted vs. pending vs. live, with evidence links. `make serve` → localhost:8420. |
+| Recon docs | `docs/registry-recon-2026-09-28.md`, `docs/submission-requirements.md` | Registry state snapshot + per-platform field requirements matrix. |
 | Agent prompts | `prompts/` | Copy-paste session starters: onboard, select, submit a batch, verify listings, report. |
 | Agent contract | `AGENTS.md` | The rules of engagement: status ladder, evidence requirements, hard stops before accounts/payments/public posts. |
 

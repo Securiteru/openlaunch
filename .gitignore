@@ -2,9 +2,13 @@
 __pycache__/
 *.pyc
 
-# Product briefs can contain unreleased details — uncomment to keep them local:
-# products/*/brief.md
-# products/*/assets/
+# Product briefs can contain unreleased details — real products stay local.
+# products/* is ignored by default; only products/demo is tracked as the
+# reference example. To publish a product, force-add it or add an exception:
+#   git add -f products/<slug>/
+products/*
+!products/demo/
+!products/README.md
 .gbrain-source
 
 # Saved pages from scripts/verify.py --save-evidence
