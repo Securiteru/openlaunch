@@ -13,15 +13,27 @@
 - **Category:** Productivity
 - **Pricing model:** freemium — free core timer + Pro subscription ($4.99/mo, $29.99/yr)
 
+## Company block
+
+- **Legal entity name:** Example Inc. (placeholder)
+- **Legal entity HQ:** N/A (placeholder)
+- **Founding date:** 2026 (fictional)
+- **Team size:** 2
+- **Funding status:** bootstrapped
+
 ## URLs
 
 - **Website:** https://example.com/
 - **App Store:** https://apps.apple.com/us/app/example (placeholder)
-- **Logo:** `products/demo/assets/icon-512.png`
+- **Logo (square icon):** `products/demo/assets/icon-512.png`
+- **Logo (wide/banner):** none (placeholder)
 - **Screenshots:** `assets/shot-home.png`, `shot-stats.png`, `shot-settings.png` (generated placeholders)
 - **Video:** none
 
 ## Descriptions
+
+**10 words:**
+> Calm iPhone focus timer with streaks and stats.
 
 **50 words:**
 > Demo App is a native iPhone focus timer. Start a session, keep a streak, and review calm weekly stats. Local-first with no account required. This is a fictional product that ships with OpenLaunch so the submission workflow is testable end-to-end.
@@ -49,7 +61,16 @@ real product.
 
 - **Contact email for listings:** hello@example.com (placeholder — never a real inbox)
 - **Maker names:** Founder A, Founder B (placeholders)
-- **Legal entity:** Example Inc. (placeholder)
+- **Maker LinkedIn URL:** none (placeholder)
+- **Social profiles to cite:** none (placeholder)
+- **Preferred account username:** `demoapp` (placeholder)
+
+## Policy flags
+
+- **Badge embedding:** ask-each-time
+- **Backlink exchange:** declined
+- **Paid placement ceiling:** none
+- **Launch scheduling choice:** earliest slot
 
 ## Launch notes
 
