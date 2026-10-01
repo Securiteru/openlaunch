@@ -8,6 +8,7 @@ __pycache__/
 #   git add -f products/<slug>/
 products/*
 !products/demo/
+!products/huggingface/
 !products/README.md
 .gbrain-source
 
